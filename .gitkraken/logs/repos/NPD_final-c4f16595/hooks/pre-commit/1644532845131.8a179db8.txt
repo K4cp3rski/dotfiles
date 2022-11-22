@@ -1,0 +1,46 @@
+[WARNING] Unstaged files detected.
+[INFO] Stashing unstaged files to /Users/k4cp3rskiii/.cache/pre-commit/patch1644532845-16135.
+black....................................................................Passed
+flake8...................................................................Failed
+- hook id: flake8
+- exit code: 1
+
+taxes/taxes/download.py:44:80: E501 line too long (81 > 79 characters)
+taxes/taxes/download.py:83:80: E501 line too long (86 > 79 characters)
+taxes/taxes/download.py:88:80: E501 line too long (86 > 79 characters)
+taxes/taxes/download.py:108:80: E501 line too long (103 > 79 characters)
+taxes/taxes/download.py:109:80: E501 line too long (86 > 79 characters)
+taxes/tests/test_download.py:17:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:18:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:19:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:20:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:21:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:36:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:37:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:38:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:39:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:40:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:64:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:65:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:66:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:67:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:68:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:84:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:85:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:86:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:87:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:88:80: E501 line too long (89 > 79 characters)
+
+Check JSON...........................................(no files to check)Skipped
+Check Yaml...............................................................Passed
+Check for merge conflicts................................................Passed
+Fix End of Files.........................................................Passed
+Trim Trailing Whitespace.................................................Passed
+Debug Statements (Python)................................................Passed
+Mixed line ending........................................................Passed
+setup-cfg-fmt........................................(no files to check)Skipped
+pyupgrade................................................................Passed
+rst ``code`` is two backticks........................(no files to check)Skipped
+isort....................................................................Passed
+[INFO] Restored changes from /Users/k4cp3rskiii/.cache/pre-commit/patch1644532845-16135.
+Hook process exited.

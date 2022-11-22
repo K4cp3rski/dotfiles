@@ -1,0 +1,111 @@
+[2022-11-05T10:22:46.824Z] Set GitHub issues remote to K4cp3rski/UPC_2022: started.
+[2022-11-05T10:22:46.842Z] Set GitHub issues remote to K4cp3rski/UPC_2022: finished.
+[2022-11-05T10:22:46.905Z] Refresh github issues: started.
+[2022-11-05T10:22:46.929Z] Refresh github issues: started.
+[2022-11-05T10:22:47.335Z] Refresh github issues: finished. gk-log://duration?t=412
+[2022-11-05T10:22:47.339Z] Refresh github issues: finished. gk-log://duration?t=442
+[2022-11-05T10:25:07.375Z] Create ref refs/heads/Kacper at 072263959546c29df63fd1c55ca1e08d6802a777: started.
+[2022-11-05T10:25:07.407Z] Checkout refs/heads/Kacper: started.
+[2022-11-05T10:25:07.501Z] Checkout refs/heads/Kacper: finished.
+[2022-11-05T10:25:07.527Z] Create ref refs/heads/Kacper at 072263959546c29df63fd1c55ca1e08d6802a777: finished.
+[2022-11-05T10:25:09.394Z] Push Kacper: started.
+[2022-11-05T10:25:10.869Z] Set upstream for refs/heads/Kacper: started.
+[2022-11-05T10:25:10.945Z] Set upstream for refs/heads/Kacper: finished.
+[2022-11-05T10:25:11.942Z] Push Kacper: finished. gk-log://duration?t=2548
+[2022-11-05T10:42:43.897Z] Pull Kacper: started.
+[2022-11-05T10:42:43.905Z] Fetch remote origin: started
+[2022-11-05T10:42:44.408Z] Fetch remote origin: finished gk-log://duration?t=503
+[2022-11-05T10:42:44.464Z] Merge origin/Kacper into Kacper: started.
+[2022-11-05T10:42:44.469Z] Merge origin/Kacper into Kacper: finished. gk-log://duration?t=5
+[2022-11-05T10:42:44.475Z] Pull Kacper: finished. gk-log://duration?t=578
+[2022-11-05T13:12:45.563Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-11-05T14:56:18.137Z] Stage 3 files for commit: started.
+[2022-11-05T14:56:18.204Z] Stage 3 files for commit: finished. gk-log://duration?t=67
+[2022-11-05T14:56:42.057Z] Commit: started.
+[2022-11-05T14:56:42.184Z] Commit: successfully created commit 898ca651bcace59a91c3f85343147e0a491e3712
+[2022-11-05T14:56:42.185Z] Commit: finished gk-log://duration?t=128
+[2022-11-05T14:56:43.556Z] Push Kacper: started.
+[2022-11-05T14:56:45.023Z] Push Kacper: finished. gk-log://duration?t=1467
+[2022-11-05T14:56:47.273Z] Pull Kacper: started.
+[2022-11-05T14:56:47.277Z] Fetch remote origin: started
+[2022-11-05T14:56:47.807Z] Fetch remote origin: finished gk-log://duration?t=530
+[2022-11-05T14:56:47.844Z] Merge origin/Kacper into Kacper: started.
+[2022-11-05T14:56:47.848Z] Merge origin/Kacper into Kacper: finished. gk-log://duration?t=4
+[2022-11-05T14:56:47.854Z] Pull Kacper: finished. gk-log://duration?t=581
+[2022-11-05T14:57:08.935Z] Creating pull request on GitHub: started.
+[2022-11-05T14:57:10.042Z] Finished creating pull request
+[2022-11-05T14:57:34.326Z] Pull Kacper: started.
+[2022-11-05T14:57:34.335Z] Fetch remote origin: started
+[2022-11-05T14:57:35.022Z] Fetch remote origin: finished gk-log://duration?t=687
+[2022-11-05T14:57:35.075Z] Merge origin/Kacper into Kacper: started.
+[2022-11-05T14:57:35.090Z] Merge origin/Kacper into Kacper: finished. gk-log://duration?t=15
+[2022-11-05T14:57:35.105Z] Pull Kacper: finished. gk-log://duration?t=779
+[2022-11-05T14:57:37.769Z] Checkout refs/remotes/origin/main: started.
+[2022-11-05T14:57:39.069Z] Checkout refs/remotes/origin/main: finished.
+[2022-11-05T14:57:41.611Z] Pull main: started.
+[2022-11-05T14:57:41.615Z] Fetch remote origin: started
+[2022-11-05T14:57:42.110Z] Fetch remote origin: finished gk-log://duration?t=495
+[2022-11-05T14:57:42.141Z] Merge origin/main into main: started.
+[2022-11-05T14:57:42.145Z] Merge origin/main into main: finished. gk-log://duration?t=4
+[2022-11-05T14:57:42.151Z] Pull main: finished. gk-log://duration?t=540
+[2022-11-05T15:00:05.432Z] Checkout refs/remotes/origin/Stasiek: started.
+[2022-11-05T15:00:05.458Z] Create ref refs/heads/Stasiek at 072263959546c29df63fd1c55ca1e08d6802a777: started.
+[2022-11-05T15:00:05.510Z] Create ref refs/heads/Stasiek at 072263959546c29df63fd1c55ca1e08d6802a777: finished. gk-log://duration?t=78
+[2022-11-05T15:00:05.583Z] Checkout refs/remotes/origin/Stasiek: finished.
+[2022-11-05T15:00:26.737Z] Pull Stasiek: started.
+[2022-11-05T15:00:26.747Z] Fetch remote origin: started
+[2022-11-05T15:00:27.282Z] Fetch remote origin: finished gk-log://duration?t=535
+[2022-11-05T15:00:27.321Z] Merge origin/Stasiek into Stasiek: started.
+[2022-11-05T15:00:27.326Z] Merge origin/Stasiek into Stasiek: finished. gk-log://duration?t=5
+[2022-11-05T15:00:27.331Z] Pull Stasiek: finished. gk-log://duration?t=594
+[2022-11-05T15:00:47.179Z] Merge main into Stasiek: started.
+[2022-11-05T15:00:47.193Z] Finish merge main into Stasiek: started.
+[2022-11-05T15:00:47.208Z] Finish merge main into Stasiek: finished. gk-log://duration?t=15
+[2022-11-05T15:00:47.212Z] Merge main into Stasiek: finished. gk-log://duration?t=33
+[2022-11-05T15:00:51.683Z] Push Stasiek: started.
+[2022-11-05T15:00:52.647Z] Push Stasiek: finished. gk-log://duration?t=964
+[2022-11-05T15:01:09.241Z] Checkout refs/heads/main: started.
+[2022-11-05T15:01:09.341Z] Checkout refs/heads/main: finished.
+[2022-11-05T15:01:17.098Z] Undo Checkout from "Stasiek" to "main": started.
+[2022-11-05T15:01:17.122Z] Undo Checkout from "Stasiek" to "main": finished.
+[2022-11-05T15:01:18.052Z] Undo Action with reflog message "commit (merge): Merge branch 'main' into Stasiek": started.
+[2022-11-05T15:01:18.072Z] Undo Action with reflog message "commit (merge): Merge branch 'main' into Stasiek": finished. gk-log://duration?t=20
+[2022-11-05T15:01:19.378Z] Undo Checkout from "main" to "Stasiek": started.
+[2022-11-05T15:01:19.417Z] Undo Checkout from "main" to "Stasiek": finished. gk-log://duration?t=39
+[2022-11-05T15:01:21.956Z] Redo Action with reflog message "commit (merge): Merge branch 'main' into Stasiek": started.
+[2022-11-05T15:01:21.976Z] Redo Action with reflog message "commit (merge): Merge branch 'main' into Stasiek": finished. gk-log://duration?t=20
+[2022-11-05T15:01:32.294Z] Checkout refs/heads/Kacper: started.
+[2022-11-05T15:01:32.397Z] Checkout refs/heads/Kacper: finished.
+[2022-11-05T15:02:33.353Z] Pull main: started.
+[2022-11-05T15:02:33.359Z] Fetch remote origin: started
+[2022-11-05T15:02:33.876Z] Fetch remote origin: finished gk-log://duration?t=517
+[2022-11-05T15:02:33.913Z] Merge origin/main into main: started.
+[2022-11-05T15:02:33.919Z] Merge origin/main into main: finished. gk-log://duration?t=6
+[2022-11-05T15:02:33.925Z] Pull main: finished. gk-log://duration?t=571
+[2022-11-05T20:06:48.393Z] Refresh github issues: started.
+[2022-11-05T20:06:48.621Z] Refresh github issues: started.
+[2022-11-05T20:06:48.901Z] Refresh github issues: finished. gk-log://duration?t=516
+[2022-11-05T20:06:49.039Z] Refresh github issues: finished. gk-log://duration?t=477
+[2022-11-05T21:57:50.595Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-11-05T21:58:34.037Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-11-06T00:16:08.519Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-11-06T08:41:29.758Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-11-06T08:45:46.806Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-11-06T15:13:05.664Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-11-06T15:14:05.904Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-11-06T15:57:43.547Z] Stage generate_df.py for commit: started.
+[2022-11-06T15:57:43.617Z] Stage generate_df.py for commit: finished. gk-log://duration?t=70
+[2022-11-06T15:57:51.314Z] Commit: started.
+[2022-11-06T15:57:51.522Z] Commit: successfully created commit 1b35d55c2751ea555e983c6064e9ab265b231630
+[2022-11-06T15:57:51.523Z] Commit: finished gk-log://duration?t=209
+[2022-11-06T15:57:53.186Z] Push Kacper: started.
+[2022-11-06T15:57:54.361Z] Push Kacper: finished. gk-log://duration?t=1175
+[2022-11-06T15:58:52.545Z] Stage drag_data.csv for commit: started.
+[2022-11-06T15:58:52.625Z] Stage drag_data.csv for commit: finished. gk-log://duration?t=80
+[2022-11-06T15:58:57.524Z] Commit: started.
+[2022-11-06T15:58:57.693Z] Commit: successfully created commit af4469b45200fed3c563ad6d166a5c0eb83849e5
+[2022-11-06T15:58:57.693Z] Commit: finished gk-log://duration?t=169
+[2022-11-06T15:58:59.434Z] Push Kacper: started.
+[2022-11-06T15:59:00.831Z] Push Kacper: finished. gk-log://duration?t=1397
+[2022-11-18T01:24:31.025Z] Refresh github issues: started.
+[2022-11-18T01:24:31.544Z] Refresh github issues: finished. gk-log://duration?t=526

@@ -1,0 +1,656 @@
+{
+  "lastUpgradeScriptRun": "v8.9.0",
+  "appId": "ed29e223e47827ce2dfd873df9e337700ca81ca4",
+  "sslWhitelist": [],
+  "lastVersion": "8.3.3",
+  "lastReleaseNotesDisplayed": "8.10.3",
+  "registration": {
+    "email": "k.cybinski@student.uw.edu.pl",
+    "status": "activated",
+    "loginType": "github",
+    "date": "2021-11-15T23:37:37.762Z",
+    "EULA": {
+      "version": "8.3.1",
+      "status": "agree_verified"
+    }
+  },
+  "userId": "4cfcd3f8-ee15-4e6c-8b2d-12d6e938a61a",
+  "licensedFeatures": [
+    "pro",
+    "timelines:pro",
+    "suite:pro",
+    "gitlens:pro",
+    "boards:pro",
+    "student",
+    "timelines:student",
+    "suite:student",
+    "gitlens:student",
+    "bundle:student",
+    "boards:student"
+  ],
+  "userFeatures": [
+    {
+      "name": "gitkraken"
+    },
+    {
+      "name": "glo"
+    },
+    {
+      "name": "timelines"
+    },
+    {
+      "name": "cli"
+    },
+    {
+      "name": "activityStatus"
+    },
+    {
+      "name": "terminalInsideRepoTab"
+    },
+    {
+      "name": "gitBash"
+    },
+    {
+      "name": "changePriceEnabled"
+    },
+    {
+      "name": "gkApi"
+    }
+  ],
+  "hasSeenNewUserOnboarding": true,
+  "repoDeepLinkMap": {
+    "3be48bb5a795a819d275d64966f7bcf881943dda": {
+      "paths": [
+        "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Narzędzia - Python/Projekt_enigma/"
+      ],
+      "pullUrls": {
+        "https://gitlab.com/K4cp3rski/enigma_at_home.git": {
+          "paths": [
+            "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Narzędzia - Python/Projekt_enigma/"
+          ],
+          "name": "enigma_at_home",
+          "hostName": "gitlab.com",
+          "owner": "K4cp3rski",
+          "hostingServiceType": "gitlab"
+        }
+      }
+    },
+    "11ac17a51d3f2f75992851409b9e51e82c6475d3": {
+      "paths": [
+        "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Narzędzia - Python/"
+      ],
+      "pullUrls": {
+        "https://github.com/K4cp3rski/Narze-dzia---Python.git": {
+          "paths": [
+            "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Narzędzia - Python/"
+          ],
+          "name": "Narze-dzia---Python",
+          "hostName": "github.com",
+          "owner": "K4cp3rski",
+          "hostingServiceType": "github"
+        }
+      }
+    },
+    "e851205b2d6caabb080da040408a8803a18ec0cd": {
+      "paths": [
+        "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/ML/ML_FUW/"
+      ],
+      "pullUrls": {
+        "https://github.com/K4cp3rski/ML_FUW.git": {
+          "paths": [
+            "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/ML/ML_FUW/"
+          ],
+          "name": "ML_FUW",
+          "hostName": "github.com",
+          "owner": "K4cp3rski",
+          "hostingServiceType": "github"
+        }
+      }
+    },
+    "68db8d922a0e9ac267b622e811bf65d92f45c7c4": {
+      "paths": [
+        "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Spektrum/"
+      ],
+      "pullUrls": {
+        "https://github.com/K4cp3rski/fringes.git": {
+          "paths": [
+            "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Spektrum/"
+          ],
+          "name": "fringes",
+          "hostName": "github.com",
+          "owner": "K4cp3rski",
+          "hostingServiceType": "github"
+        }
+      }
+    },
+    "c2b60ce340da687f6571cf3a87b8875795760086": {
+      "paths": [
+        "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Programowanie II R/"
+      ],
+      "pullUrls": {
+        "https://github.com/K4cp3rski/Programowanie-II-R.git": {
+          "paths": [
+            "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Programowanie II R/"
+          ],
+          "name": "Programowanie-II-R",
+          "hostName": "github.com",
+          "owner": "K4cp3rski",
+          "hostingServiceType": "github"
+        }
+      }
+    },
+    "f3c0abd5d2d0ae4f2cb0667be5e73aad65719f8d": {
+      "paths": [
+        "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Programowanie II R/"
+      ],
+      "pullUrls": {
+        "https://github.com/K4cp3rski/Programowanie-II-R.git": {
+          "paths": [
+            "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Programowanie II R/"
+          ],
+          "name": "Programowanie-II-R",
+          "hostName": "github.com",
+          "owner": "K4cp3rski",
+          "hostingServiceType": "github"
+        }
+      }
+    },
+    "6d3bae56849ae9246e96e250833c60de38eff335": {
+      "paths": [
+        "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/NPD_Final/NPD_final/"
+      ],
+      "pullUrls": {
+        "https://github.com/K4cp3rski/NPD_final.git": {
+          "paths": [
+            "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/NPD_Final/NPD_final/"
+          ],
+          "name": "NPD_final",
+          "hostName": "github.com",
+          "owner": "K4cp3rski",
+          "hostingServiceType": "github"
+        }
+      }
+    },
+    "b0d7b63506c06a611ca4ec844aea025376e719be": {
+      "paths": [
+        "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Physics_Simulations/"
+      ],
+      "pullUrls": {
+        "https://github.com/K4cp3rski/Physics_Simulations.git": {
+          "paths": [
+            "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Physics_Simulations/"
+          ],
+          "name": "Physics_Simulations",
+          "hostName": "github.com",
+          "owner": "K4cp3rski",
+          "hostingServiceType": "github"
+        }
+      }
+    },
+    "0843c77d08af71663fa083e3a719b20fabdfd17f": {
+      "paths": [
+        "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Mech_Kwant/"
+      ],
+      "pullUrls": {
+        "https://github.com/K4cp3rski/Mech_Kwant.git": {
+          "paths": [
+            "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Mech_Kwant/"
+          ],
+          "name": "Mech_Kwant",
+          "hostName": "github.com",
+          "owner": "K4cp3rski",
+          "hostingServiceType": "github"
+        }
+      }
+    },
+    "1cb3be25841bcbad2a5fb4432592f17670030bfa": {
+      "paths": [
+        "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Metody_Numeryczne/"
+      ],
+      "pullUrls": {
+        "https://github.com/K4cp3rski/Metody_Numeryczne.git": {
+          "paths": [
+            "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Metody_Numeryczne/"
+          ],
+          "name": "Metody_Numeryczne",
+          "hostName": "github.com",
+          "owner": "K4cp3rski",
+          "hostingServiceType": "github"
+        }
+      }
+    },
+    "a3928a4d056d8923b63440342fe2d7438c1369ba": {
+      "paths": [
+        "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Termodynamika_R/"
+      ],
+      "pullUrls": {
+        "https://github.com/K4cp3rski/Termodynamika_R.git": {
+          "paths": [
+            "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Termodynamika_R/"
+          ],
+          "name": "Termodynamika_R",
+          "hostName": "github.com",
+          "owner": "K4cp3rski",
+          "hostingServiceType": "github"
+        }
+      }
+    },
+    "57ca2f300668f41609a0eefe1ba99ad017198285": {
+      "paths": [
+        "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Julia_Lang/"
+      ],
+      "pullUrls": {
+        "https://github.com/K4cp3rski/Julia_Lang.git": {
+          "paths": [
+            "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Julia_Lang/"
+          ],
+          "name": "Julia_Lang",
+          "hostName": "github.com",
+          "owner": "K4cp3rski",
+          "hostingServiceType": "github"
+        }
+      }
+    },
+    "237a568d3150f106039cc9bbaa5297b6b342c7f3": {
+      "paths": [
+        "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Topo_ML/"
+      ],
+      "pullUrls": {
+        "https://github.com/K4cp3rski/Topo_ML.git": {
+          "paths": [
+            "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Topo_ML/"
+          ],
+          "name": "Topo_ML",
+          "hostName": "github.com",
+          "owner": "K4cp3rski",
+          "hostingServiceType": "github"
+        }
+      }
+    },
+    "b673564d2aa8fbc7f3ed6ef636f1efe5d413ed77": {
+      "paths": [
+        "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Topo_ML/confusion_matrix/"
+      ],
+      "pullUrls": {
+        "https://github.com/K4cp3rski/confusion_matrix.git": {
+          "paths": [
+            "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Topo_ML/confusion_matrix/"
+          ],
+          "name": "confusion_matrix",
+          "hostName": "github.com",
+          "owner": "K4cp3rski",
+          "hostingServiceType": "github"
+        }
+      }
+    },
+    "4d9b77c310aeadcb98e1b1d5cef0c8214385f9ab": {
+      "paths": [
+        "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Julia_Lang/Projekt/"
+      ],
+      "pullUrls": {
+        "https://github.com/k.cybinski@student.uw.edu.pl/Projekt.jl": {
+          "paths": [
+            "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Julia_Lang/Projekt/"
+          ],
+          "name": "Projekt.jl",
+          "hostName": "github.com",
+          "owner": "k.cybinski@student.uw.edu.pl",
+          "hostingServiceType": "github"
+        }
+      }
+    },
+    "718477078cba5a7a8a2f3d9a6e272e119353bcca": {
+      "paths": [
+        "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Topo_SSH/Topo_SSH/"
+      ],
+      "pullUrls": {
+        "https://github.com/K4cp3rski/Topo_SSH.git": {
+          "paths": [
+            "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Topo_SSH/Topo_SSH/"
+          ],
+          "name": "Topo_SSH",
+          "hostName": "github.com",
+          "owner": "K4cp3rski",
+          "hostingServiceType": "github"
+        }
+      }
+    },
+    "b563bccb159443749492ee41f212440b6b141545": {
+      "paths": [
+        "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/DM/",
+        "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/DM/DM/"
+      ],
+      "pullUrls": {
+        "https://github.com/K4cp3rski/DM.git": {
+          "paths": [
+            "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/DM/",
+            "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/DM/DM/"
+          ],
+          "name": "DM",
+          "hostName": "github.com",
+          "owner": "K4cp3rski",
+          "hostingServiceType": "github"
+        }
+      }
+    },
+    "33fd25c6f41f33ba78dc1857afc4ba4b736829b4": {
+      "paths": [
+        "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Hydrodynamics/Hydrodynamics/",
+        "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Hydrodynamics/"
+      ],
+      "pullUrls": {
+        "https://github.com/K4cp3rski/Hydrodynamics.git": {
+          "paths": [
+            "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Hydrodynamics/Hydrodynamics/",
+            "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Hydrodynamics/"
+          ],
+          "name": "Hydrodynamics",
+          "hostName": "github.com",
+          "owner": "K4cp3rski",
+          "hostingServiceType": "github"
+        }
+      }
+    },
+    "ed2c6a9c28775376455b376da5c39347c24350e5": {
+      "paths": [
+        "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/ICFO_Hubbard/"
+      ],
+      "pullUrls": {
+        "https://github.com/K4cp3rski/ICFO_Hubbard.git": {
+          "paths": [
+            "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/ICFO_Hubbard/"
+          ],
+          "name": "ICFO_Hubbard",
+          "hostName": "github.com",
+          "owner": "K4cp3rski",
+          "hostingServiceType": "github"
+        }
+      }
+    },
+    "072263959546c29df63fd1c55ca1e08d6802a777": {
+      "paths": [
+        "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/UPC_2022/"
+      ],
+      "pullUrls": {
+        "https://github.com/K4cp3rski/UPC_2022.git": {
+          "paths": [
+            "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/UPC_2022/"
+          ],
+          "name": "UPC_2022",
+          "hostName": "github.com",
+          "owner": "K4cp3rski",
+          "hostingServiceType": "github"
+        }
+      }
+    },
+    "a39a320ce7e94cd7bdaaa86e597a6736310078a3": {
+      "paths": [
+        "/Users/k4cp3rskiii/dotfiles/"
+      ],
+      "pullUrls": {
+        "https://github.com/K4cp3rski/dotfiles.git": {
+          "paths": [
+            "/Users/k4cp3rskiii/dotfiles/"
+          ],
+          "name": "dotfiles",
+          "hostName": "github.com",
+          "owner": "K4cp3rski",
+          "hostingServiceType": "github"
+        }
+      }
+    }
+  },
+  "commits": {
+    "maxCommitsInGraph": 2000
+  },
+  "windowSettings": {
+    "x": 958,
+    "y": 25,
+    "width": 1920,
+    "height": 1055,
+    "fullScreen": false,
+    "maximized": true
+  },
+  "fuzzyFinderMetadata": {
+    "itemMetadata": {
+      "OPEN_REPO": {
+        "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Narzędzia - Python/Projekt_enigma": {
+          "id": "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Narzędzia - Python/Projekt_enigma",
+          "timestamps": [
+            1637020928318
+          ],
+          "total": 1
+        },
+        "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Narzędzia - Python": {
+          "id": "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Narzędzia - Python",
+          "timestamps": [
+            1639397651298,
+            1646863484973
+          ],
+          "total": 2
+        },
+        "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/ML/ML_FUW": {
+          "id": "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/ML/ML_FUW",
+          "timestamps": [
+            1640003885221
+          ],
+          "total": 1
+        },
+        "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/ML/ML_FUW/": {
+          "id": "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/ML/ML_FUW/",
+          "timestamps": [
+            1640003889253
+          ],
+          "total": 1
+        },
+        "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Spektrum": {
+          "id": "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Spektrum",
+          "timestamps": [
+            1642733736950
+          ],
+          "total": 1
+        },
+        "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Programowanie II R": {
+          "id": "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Programowanie II R",
+          "timestamps": [
+            1642752487818,
+            1642752524000,
+            1642753907524,
+            1642754020979,
+            1642754137219,
+            1642755183818,
+            1642755205632,
+            1642757402295
+          ],
+          "total": 8
+        },
+        "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Programowanie II R/": {
+          "id": "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Programowanie II R/",
+          "timestamps": [
+            1642752527950
+          ],
+          "total": 1
+        },
+        "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/NPD_Final": {
+          "id": "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/NPD_Final",
+          "timestamps": [
+            1644412645691
+          ],
+          "total": 1
+        },
+        "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/NPD_Final/": {
+          "id": "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/NPD_Final/",
+          "timestamps": [
+            1644412649298
+          ],
+          "total": 1
+        },
+        "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/NPD_Final/NPD_final": {
+          "id": "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/NPD_Final/NPD_final",
+          "timestamps": [
+            1644414331812,
+            1646863491249
+          ],
+          "total": 2
+        },
+        "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Metody_Numeryczne": {
+          "id": "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Metody_Numeryczne",
+          "timestamps": [
+            1646232149874
+          ],
+          "total": 1
+        },
+        "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Physics_Simulations": {
+          "id": "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Physics_Simulations",
+          "timestamps": [
+            1646293242409
+          ],
+          "total": 1
+        },
+        "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Mech_Kwant": {
+          "id": "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Mech_Kwant",
+          "timestamps": [
+            1646293336782,
+            1652869074901
+          ],
+          "total": 2
+        },
+        "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Termodynamika_R": {
+          "id": "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Termodynamika_R",
+          "timestamps": [
+            1646293386149,
+            1650891859452
+          ],
+          "total": 2
+        },
+        "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Julia_Lang": {
+          "id": "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Julia_Lang",
+          "timestamps": [
+            1647961998044
+          ],
+          "total": 1
+        },
+        "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Topo_ML": {
+          "id": "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Topo_ML",
+          "timestamps": [
+            1648126039680,
+            1649292983410
+          ],
+          "total": 2
+        },
+        "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Topo_ML/confusion_matrix/": {
+          "id": "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Topo_ML/confusion_matrix/",
+          "timestamps": [
+            1649417490445,
+            1649808656879
+          ],
+          "total": 2
+        },
+        "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Topo_ML/confusion_matrix": {
+          "id": "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Topo_ML/confusion_matrix",
+          "timestamps": [
+            1649808673429
+          ],
+          "total": 1
+        },
+        "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Data_Mining": {
+          "id": "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Data_Mining",
+          "timestamps": [
+            1653759262777
+          ],
+          "total": 1
+        },
+        "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Topo_SSH/Topo_SSH": {
+          "id": "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Topo_SSH/Topo_SSH",
+          "timestamps": [
+            1659517191443
+          ],
+          "total": 1
+        },
+        "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/DM": {
+          "id": "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/DM",
+          "timestamps": [
+            1663017237912
+          ],
+          "total": 1
+        },
+        "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/DM/DM/": {
+          "id": "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/DM/DM/",
+          "timestamps": [
+            1663019757434
+          ],
+          "total": 1
+        },
+        "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/DM/DM": {
+          "id": "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/DM/DM",
+          "timestamps": [
+            1663019788748,
+            1663019823097
+          ],
+          "total": 2
+        },
+        "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/DM/": {
+          "id": "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/DM/",
+          "timestamps": [
+            1663021179005
+          ],
+          "total": 1
+        },
+        "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Hydrodynamics/Hydrodynamics": {
+          "id": "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Hydrodynamics/Hydrodynamics",
+          "timestamps": [
+            1664841393663
+          ],
+          "total": 1
+        },
+        "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Hydrodynamics/": {
+          "id": "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Hydrodynamics/",
+          "timestamps": [
+            1664841536633
+          ],
+          "total": 1
+        },
+        "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/ICFO_Hubbard/": {
+          "id": "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/ICFO_Hubbard/",
+          "timestamps": [
+            1666874343252,
+            1666874346633
+          ],
+          "total": 2
+        },
+        "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/UPC_2022": {
+          "id": "openRepo-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/UPC_2022",
+          "timestamps": [
+            1667643766749
+          ],
+          "total": 1
+        },
+        "openRepo-/Users/k4cp3rskiii/dotfiles": {
+          "id": "openRepo-/Users/k4cp3rskiii/dotfiles",
+          "timestamps": [
+            1669111458306
+          ],
+          "total": 1
+        }
+      }
+    }
+  },
+  "notification": {
+    "settings": {
+      "local": {
+        "showDesktopNotifications": true
+      }
+    }
+  },
+  "aliases": {
+    "repo": {},
+    "tabs": {}
+  },
+  "userMilestones": {
+    "firstRepoOpened": true,
+    "firstAppOpen": true,
+    "firstLoginRegister": true,
+    "unregisteredId": "34a0ec0e-7ed8-4472-a9af-1fc50511299e"
+  },
+  "profileGuid": "d6e5a8ca26e14325a4275fc33b17e16f"
+}

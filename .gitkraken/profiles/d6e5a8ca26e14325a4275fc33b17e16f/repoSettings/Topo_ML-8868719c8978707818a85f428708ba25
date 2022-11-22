@@ -1,0 +1,180 @@
+{
+  "pullRequests": {
+    "filters": [
+      {
+        "id": "c9d95cc5-41e9-4eca-b450-5e832992fbaa",
+        "filter": "author:K4cp3rski",
+        "name": "My Pull Requests",
+        "author": [
+          {
+            "not": false,
+            "values": [
+              "K4cp3rski"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "83d04ecd-c851-4360-91c4-68c4e16d7b17",
+        "filter": "assignee:K4cp3rski",
+        "name": "Assigned To Me",
+        "assignee": [
+          {
+            "not": false,
+            "values": [
+              "K4cp3rski"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ab0ae238-b95f-4d33-9e5b-fadac840adbb",
+        "filter": "review-requested:K4cp3rski",
+        "name": "Awaiting My Review",
+        "review-requested": [
+          {
+            "not": false,
+            "values": [
+              "K4cp3rski"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "fc9b6407-c2fb-4dc8-aaf5-823c4183159e",
+        "filter": "",
+        "name": "All Pull Requests",
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "teams": {
+    "hasFinishedSettingUpTeams": true
+  },
+  "upstreamFrecencyMetadata": {
+    "origin": {
+      "id": "remote-origin",
+      "timestamps": [
+        1648126038697,
+        1648515452495
+      ],
+      "total": 2
+    }
+  },
+  "remoteParents": {
+    "github": {
+      "K4cp3rski": {
+        "Topo_ML": {
+          "hostingServiceType": "github",
+          "owner": "K4cp3rski",
+          "name": "Topo_ML"
+        }
+      }
+    }
+  },
+  "issues": {
+    "github": {
+      "type": "github",
+      "currentRemote": null,
+      "collapsedFilters": []
+    },
+    "githubEnterprise": {
+      "type": "githubEnterprise",
+      "currentRemote": null,
+      "collapsedFilters": []
+    },
+    "gitlabSelfHosted": {
+      "type": "gitlabSelfHosted",
+      "collapsedFilters": [],
+      "currentProjectId": null
+    },
+    "gitlab": {
+      "type": "gitlab",
+      "collapsedFilters": [],
+      "currentProjectId": null
+    },
+    "glo": {
+      "type": "glo",
+      "collapsedFilters": [],
+      "currentBoardId": null
+    },
+    "jiraCloud": {
+      "type": "jiraCloud",
+      "currentProject": null,
+      "collapsedFilters": [],
+      "collapsedIssues": []
+    },
+    "jiraServer": {
+      "type": "jiraServer",
+      "currentProject": null,
+      "collapsedFilters": [],
+      "collapsedIssues": []
+    },
+    "trello": {
+      "type": "trello",
+      "collapsedFilters": [],
+      "currentBoardId": null
+    },
+    "activeIssueTrackerType": "gitlab"
+  },
+  "remoteHeadCollectionByRemoteName": {
+    "origin": {
+      "HEAD": {
+        "name": "HEAD",
+        "oid": "d7106b2ae4dfe46aaffef7a852f4aed22664b7ad",
+        "local": 0,
+        "loid": "0000000000000000000000000000000000000000",
+        "symrefTarget": "refs/heads/main"
+      },
+      "refs/heads/dev": {
+        "name": "refs/heads/dev",
+        "oid": "3906f60db3456928fa11ded0af27b35cd749100b",
+        "local": 1,
+        "loid": "0000000000000000000000000000000000000000",
+        "symrefTarget": null
+      },
+      "refs/heads/main": {
+        "name": "refs/heads/main",
+        "oid": "d7106b2ae4dfe46aaffef7a852f4aed22664b7ad",
+        "local": 1,
+        "loid": "0000000000000000000000000000000000000000",
+        "symrefTarget": null
+      }
+    }
+  }
+}

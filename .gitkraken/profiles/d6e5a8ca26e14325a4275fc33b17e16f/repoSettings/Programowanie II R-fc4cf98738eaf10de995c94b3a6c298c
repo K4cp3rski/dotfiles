@@ -1,0 +1,218 @@
+{
+  "remoteParents": {
+    "github": {
+      "K4cp3rski": {
+        "Programowanie-II-R": {
+          "hostingServiceType": "github",
+          "owner": "K4cp3rski",
+          "name": "Programowanie-II-R"
+        }
+      }
+    }
+  },
+  "teams": {
+    "hasFinishedSettingUpTeams": true
+  },
+  "issues": {
+    "github": {
+      "type": "github",
+      "currentRemote": null,
+      "collapsedFilters": []
+    },
+    "githubEnterprise": {
+      "type": "githubEnterprise",
+      "currentRemote": null,
+      "collapsedFilters": []
+    },
+    "gitlabSelfHosted": {
+      "type": "gitlabSelfHosted",
+      "collapsedFilters": [],
+      "currentProjectId": null
+    },
+    "gitlab": {
+      "type": "gitlab",
+      "collapsedFilters": [],
+      "currentProjectId": null
+    },
+    "glo": {
+      "type": "glo",
+      "collapsedFilters": [],
+      "currentBoardId": null
+    },
+    "jiraCloud": {
+      "type": "jiraCloud",
+      "currentProject": null,
+      "collapsedFilters": [],
+      "collapsedIssues": []
+    },
+    "jiraServer": {
+      "type": "jiraServer",
+      "currentProject": null,
+      "collapsedFilters": [],
+      "collapsedIssues": []
+    },
+    "trello": {
+      "type": "trello",
+      "collapsedFilters": [],
+      "currentBoardId": null
+    },
+    "activeIssueTrackerType": "gitlab"
+  },
+  "pullRequests": {
+    "filters": [
+      {
+        "id": "194837a5-c837-4029-a6d7-5773e1b96bc3",
+        "filter": "author:K4cp3rski",
+        "name": "My Pull Requests",
+        "author": [
+          {
+            "not": false,
+            "values": [
+              "K4cp3rski"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "0827e24f-2852-436c-92a3-e28d88e35aaa",
+        "filter": "assignee:K4cp3rski",
+        "name": "Assigned To Me",
+        "assignee": [
+          {
+            "not": false,
+            "values": [
+              "K4cp3rski"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "97beedad-3e5a-44c1-9fbb-e56f239e1c5c",
+        "filter": "review-requested:K4cp3rski",
+        "name": "Awaiting My Review",
+        "review-requested": [
+          {
+            "not": false,
+            "values": [
+              "K4cp3rski"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "cb7aa44b-0ed5-48bc-a14a-a35a3989612a",
+        "filter": "",
+        "name": "All Pull Requests",
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "remoteHeadCollectionByRemoteName": {
+    "origin": {
+      "HEAD": {
+        "name": "HEAD",
+        "oid": "f3c0abd5d2d0ae4f2cb0667be5e73aad65719f8d",
+        "local": 0,
+        "loid": "0000000000000000000000000000000000000000",
+        "symrefTarget": "refs/heads/master"
+      },
+      "refs/heads/master": {
+        "name": "refs/heads/master",
+        "oid": "f3c0abd5d2d0ae4f2cb0667be5e73aad65719f8d",
+        "local": 1,
+        "loid": "0000000000000000000000000000000000000000",
+        "symrefTarget": null
+      }
+    },
+    "K4cp3rski": {
+      "HEAD": {
+        "name": "HEAD",
+        "oid": "f3c0abd5d2d0ae4f2cb0667be5e73aad65719f8d",
+        "local": 0,
+        "loid": "0000000000000000000000000000000000000000",
+        "symrefTarget": "refs/heads/master"
+      },
+      "refs/heads/master": {
+        "name": "refs/heads/master",
+        "oid": "f3c0abd5d2d0ae4f2cb0667be5e73aad65719f8d",
+        "local": 1,
+        "loid": "0000000000000000000000000000000000000000",
+        "symrefTarget": null
+      }
+    }
+  },
+  "upstreamFrecencyMetadata": {
+    "origin": {
+      "id": "remote-origin",
+      "timestamps": [
+        1642752911842,
+        1642753302137
+      ],
+      "total": 2
+    },
+    "K4cp3rski": {
+      "id": "remote-K4cp3rski",
+      "timestamps": [
+        1642757444675
+      ],
+      "total": 1
+    }
+  },
+  "layout": {
+    "GraphPanel": {
+      "Tree": {
+        "width": 83
+      },
+      "RefZone": {
+        "width": 150
+      }
+    }
+  },
+  "collapsedRemotes": [],
+  "hideAddUserForkAsRemoteSuggestion": true,
+  "expandedSections": [
+    "GITFLOW",
+    "LOCAL",
+    "REMOTE",
+    "STASHES",
+    "ISSUES",
+    "TEAM_VISIBILITY",
+    "TAGS",
+    "SUBMODULES"
+  ]
+}

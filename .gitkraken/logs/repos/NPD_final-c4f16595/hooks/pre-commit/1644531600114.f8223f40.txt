@@ -1,0 +1,73 @@
+[WARNING] Unstaged files detected.
+[INFO] Stashing unstaged files to /Users/k4cp3rskiii/.cache/pre-commit/patch1644531600-14059.
+black....................................................................Failed
+- hook id: black
+- files were modified by this hook
+
+reformatted /Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/NPD_Final/NPD_final/taxes/tests/test_download.py
+reformatted /Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/NPD_Final/NPD_final/taxes/taxes/download.py
+All done! ✨ 🍰 ✨
+2 files reformatted.
+
+flake8...................................................................Failed
+- hook id: flake8
+- exit code: 1
+
+taxes/taxes/download.py:1:1: F401 'codecs' imported but unused
+taxes/taxes/download.py:5:1: F401 'time' imported but unused
+taxes/taxes/download.py:8:1: F401 'pandas' imported but unused
+taxes/taxes/download.py:42:9: E722 do not use bare 'except'
+taxes/taxes/download.py:43:80: E501 line too long (94 > 79 characters)
+taxes/taxes/download.py:49:80: E501 line too long (81 > 79 characters)
+taxes/taxes/download.py:58:13: E712 comparison to True should be 'if cond is True:' or 'if cond:'
+taxes/taxes/download.py:63:16: F541 f-string is missing placeholders
+taxes/taxes/download.py:68:29: F821 undefined name 'errno'
+taxes/taxes/download.py:90:21: E712 comparison to True should be 'if cond is True:' or 'if cond:'
+taxes/taxes/download.py:98:80: E501 line too long (86 > 79 characters)
+taxes/taxes/download.py:117:80: E501 line too long (187 > 79 characters)
+taxes/taxes/download.py:135:13: E712 comparison to True should be 'if cond is True:' or 'if cond:'
+taxes/taxes/download.py:142:13: E712 comparison to True should be 'if cond is True:' or 'if cond:'
+taxes/tests/test_download.py:1:1: F401 'functools' imported but unused
+taxes/tests/test_download.py:19:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:20:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:21:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:22:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:23:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:38:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:39:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:40:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:41:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:42:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:66:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:67:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:68:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:69:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:70:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:86:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:87:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:88:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:89:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:90:80: E501 line too long (89 > 79 characters)
+taxes/tests/test_download.py:111:64: E712 comparison to True should be 'if cond is True:' or 'if cond:'
+taxes/tests/test_download.py:112:64: E712 comparison to True should be 'if cond is True:' or 'if cond:'
+
+Check JSON...........................................(no files to check)Skipped
+Check Yaml...............................................................Passed
+Check for merge conflicts................................................Passed
+Fix End of Files.........................................................Passed
+Trim Trailing Whitespace.................................................Passed
+Debug Statements (Python)................................................Passed
+Mixed line ending........................................................Passed
+setup-cfg-fmt........................................(no files to check)Skipped
+pyupgrade................................................................Passed
+rst ``code`` is two backticks........................(no files to check)Skipped
+isort....................................................................Failed
+- hook id: isort
+- files were modified by this hook
+
+Fixing /Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/NPD_Final/NPD_final/taxes/taxes/download.py
+Fixing /Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/NPD_Final/NPD_final/taxes/tests/test_download.py
+
+[WARNING] Stashed changes conflicted with hook auto-fixes... Rolling back fixes...
+[INFO] Restored changes from /Users/k4cp3rskiii/.cache/pre-commit/patch1644531600-14059.
+Hook process exited.

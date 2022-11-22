@@ -1,0 +1,26 @@
+[WARNING] Unstaged files detected.
+[INFO] Stashing unstaged files to /Users/k4cp3rskiii/.cache/pre-commit/patch1644858570-23108.
+black....................................................................Failed
+- hook id: black
+- files were modified by this hook
+
+reformatted taxes/taxes/visualize.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+flake8...................................................................Passed
+Check JSON...........................................(no files to check)Skipped
+Check Yaml...........................................(no files to check)Skipped
+Check for merge conflicts................................................Passed
+Fix End of Files.........................................................Passed
+Trim Trailing Whitespace.................................................Passed
+Debug Statements (Python)................................................Passed
+Mixed line ending........................................................Passed
+setup-cfg-fmt........................................(no files to check)Skipped
+pyupgrade................................................................Passed
+rst ``code`` is two backticks........................(no files to check)Skipped
+isort....................................................................Passed
+[WARNING] Stashed changes conflicted with hook auto-fixes... Rolling back fixes...
+[INFO] Restored changes from /Users/k4cp3rskiii/.cache/pre-commit/patch1644858570-23108.
+Hook process exited.

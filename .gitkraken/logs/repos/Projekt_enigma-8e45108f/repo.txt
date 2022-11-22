@@ -1,0 +1,64 @@
+[2021-11-16T00:02:09.714Z] Fetch remote origin: could not find appropriate mechanism for credentials
+[2021-11-16T00:02:30.401Z] Checkout refs/remotes/origin/main: started.
+[2021-11-16T00:02:42.788Z] Checkout refs/remotes/origin/main: cancelled. gk-log://duration?t=12387
+[2021-11-16T00:03:09.050Z] Fetch remote origin: could not find appropriate mechanism for credentials
+[2021-11-16T00:04:52.520Z] Push main: started.
+[2021-11-16T00:05:06.666Z] Set upstream for refs/heads/main: started.
+[2021-11-16T00:05:06.874Z] Set upstream for refs/heads/main: finished. gk-log://duration?t=208
+[2021-11-16T00:05:15.008Z] Pull main: started.
+[2021-11-16T00:05:15.024Z] Fetch remote origin: started
+[2021-11-16T00:05:15.883Z] Fetch remote origin: finished gk-log://duration?t=859
+[2021-11-16T00:05:15.979Z] Merge origin/main into main: started.
+[2021-11-16T00:05:16.088Z] Merge origin/main into main: There are merge conflicts that need to be resolved
+[2021-11-16T00:05:16.090Z] Merge origin/main into main: finished with errors. gk-log://duration?t=111
+[2021-11-16T00:05:16.101Z] Pull main: merge failed
+[2021-11-16T00:05:16.102Z] Pull main: finished with errors. gk-log://duration?t=1094
+[2021-11-16T00:05:16.125Z] Push main: merge failed
+[2021-11-16T00:05:16.127Z] Push main: finished with errors. gk-log://duration?t=23607
+[2021-11-16T00:05:24.211Z] Opening main.py in built-in merge tool: started.
+[2021-11-16T00:05:24.242Z] Opening main.py in built-in merge tool: finished. gk-log://duration?t=31
+[2021-11-16T00:05:38.715Z] Save merged main.py: started.
+[2021-11-16T00:05:38.749Z] Save merged main.py: finished. gk-log://duration?t=34
+[2021-11-16T00:05:38.757Z] Stage main.py for commit: started.
+[2021-11-16T00:05:39.003Z] Stage main.py for commit: finished. gk-log://duration?t=246
+[2021-11-16T00:05:53.398Z] Finish merge origin/main into main: started.
+[2021-11-16T00:05:53.481Z] Finish merge origin/main into main: finished. gk-log://duration?t=83
+[2021-11-16T00:06:10.864Z] Checkout refs/remotes/origin/main: started.
+[2021-11-16T00:06:14.443Z] Checkout refs/remotes/origin/main: cancelled. gk-log://duration?t=3579
+[2021-11-16T00:06:15.675Z] Checkout refs/heads/K4cp3rskii_dev: started.
+[2021-11-16T00:06:15.923Z] Checkout refs/heads/K4cp3rskii_dev: finished. gk-log://duration?t=248
+[2021-11-16T00:06:48.322Z] Push main: started.
+[2021-11-16T00:06:50.504Z] Push main: finished. gk-log://duration?t=2182
+[2021-11-16T00:06:59.182Z] Checkout refs/remotes/origin/main: started.
+[2021-11-16T00:06:59.441Z] Checkout refs/remotes/origin/main: finished. gk-log://duration?t=259
+[2021-11-16T00:07:02.274Z] Checkout refs/remotes/origin/main: started.
+[2021-11-16T00:07:02.516Z] Checkout refs/remotes/origin/main: finished. gk-log://duration?t=242
+[2021-11-16T00:07:06.715Z] Checkout refs/heads/K4cp3rskii_dev: started.
+[2021-11-16T00:07:07.156Z] Checkout refs/heads/K4cp3rskii_dev: finished. gk-log://duration?t=441
+[2021-11-16T00:07:09.199Z] Checkout refs/heads/main: started.
+[2021-11-16T00:07:09.435Z] Checkout refs/heads/main: finished. gk-log://duration?t=236
+[2021-11-16T00:07:16.034Z] Checkout refs/heads/K4cp3rskii_dev: started.
+[2021-11-16T00:07:16.308Z] Checkout refs/heads/K4cp3rskii_dev: finished. gk-log://duration?t=274
+[2021-11-16T00:07:29.197Z] Rebase K4cp3rskii_dev onto main: started.
+[2021-11-16T00:07:29.270Z] Rebase K4cp3rskii_dev onto main: finished. gk-log://duration?t=73
+[2021-11-16T00:09:26.797Z] Amend message of commit 020143531b586f3de26533374d715406a9eff122: started.
+[2021-11-16T00:09:26.832Z] Amend message of commit 020143531b586f3de26533374d715406a9eff122: finished.
+[2021-11-16T00:09:42.525Z] Checkout refs/heads/main: started.
+[2021-11-16T00:09:42.977Z] Checkout refs/heads/main: finished. gk-log://duration?t=452
+[2021-11-16T00:10:06.224Z] Amend message of commit 020143531b586f3de26533374d715406a9eff122: started.
+[2021-11-16T00:10:06.252Z] Amend message of commit 020143531b586f3de26533374d715406a9eff122: finished.
+[2021-11-16T00:11:28.276Z] Revert c4140f402237af387a404c76ee703c40e75759ec onto refs/heads/main: started.
+[2021-11-16T00:11:28.404Z] Revert c4140f402237af387a404c76ee703c40e75759ec onto refs/heads/main: finished. gk-log://duration?t=128
+[2021-11-16T00:11:55.230Z] Reset (hard) refs/heads/main to 020143531b586f3de26533374d715406a9eff122: started.
+[2021-11-16T00:11:55.350Z] Reset (hard) refs/heads/main to 020143531b586f3de26533374d715406a9eff122: finished. gk-log://duration?t=120
+[2021-11-16T00:12:01.275Z] Checkout refs/heads/K4cp3rskii_dev: started.
+[2021-11-16T00:12:01.544Z] Checkout refs/heads/K4cp3rskii_dev: finished. gk-log://duration?t=269
+[2021-11-16T00:12:08.397Z] Reset (hard) refs/heads/K4cp3rskii_dev to 020143531b586f3de26533374d715406a9eff122: started.
+[2021-11-16T00:12:08.487Z] Reset (hard) refs/heads/K4cp3rskii_dev to 020143531b586f3de26533374d715406a9eff122: finished. gk-log://duration?t=90
+[2021-11-16T00:32:28.697Z] Stage 5 files for commit: started.
+[2021-11-16T00:32:28.817Z] Stage 5 files for commit: finished. gk-log://duration?t=120
+[2021-11-16T00:33:07.749Z] Commit: started.
+[2021-11-16T00:33:08.064Z] Commit: successfully created commit c318362bda07745ae11361348cabe07fd50dcdb5
+[2021-11-16T00:33:08.066Z] Commit: finished gk-log://duration?t=317
+[2021-11-16T00:33:13.359Z] Checkout refs/heads/main: started.
+[2021-11-16T00:33:13.624Z] Checkout refs/heads/main: finished. gk-log://duration?t=265

@@ -1,0 +1,1028 @@
+latexmk -xelatex -pv Raport.tex\\
+
+latexmk -xelatex -pv Raport.tex\\
+
+latexmk -xelatex -pv Raport.tex\\
+
+latexmk -xelatex -pv Raport.tex\\
+
+cd iCloud_Drive/MISMaP/Julia_Lang
+jupyter lab
+cd iCloud_Drive/MISMaP/Pracownia\ II\ R/J14
+cd Projekt_J14
+latexmk -xelatex -pv Raport.tex\\
+
+open -a Vistual\ Studio\ Code.app Raport.tex
+open -a Visual\ Studio\ Code.app Raport.tex
+latexmk -xelatex -pv Raport.tex\\
+
+latexmk -xelatex -pv Raport.tex\\
+
+latexmk -xelatex -pv Raport.tex\\
+
+latexmk -xelatex -pv Raport.tex\\
+
+latexmk -xelatex -pv Raport.tex\\
+
+latexmk -xelatex -pv Raport.tex\\
+
+latexmk -xelatex -pv Raport.tex\\
+
+latexmk -xelatex -pv Raport.tex\\
+
+latexmk -xelatex -pv Raport.tex\\
+
+latexmk -xelatex -pv Raport.tex\\
+
+latexmk -xelatex -pv Raport.tex\\
+
+latexmk -xelatex -pv Raport.tex\\
+
+latexmk -xelatex -pv Raport.tex\\
+
+latexmk -xelatex -pv Raport.tex\\
+
+latexmk -xelatex -pv Raport.tex\\
+
+latexmk -xelatex -pv Raport.tex\\
+
+latexmk -xelatex -pv Raport.tex\\
+
+latexmk -xelatex -pv Raport.tex\\
+
+cd iCloud_Drive/MISMaP/Pracownia\ II\ R/J14
+latexmk -xelatex -pv Raport-kopia.tex\\
+
+ls
+cd 
+cd iCloud_Drive/MISMaP/Pracownia\ II\ R/J14/Projekt_J14
+latexmk -xelatex -pv Raport-kopia.tex\\
+
+latexmk -xelatex -pv Raport-kopia.tex\\
+
+ls
+cd iCloud_Drive/MISMaP
+ls
+cd uczenie-maszynowe-2021-22-main
+ls
+jupyter l;ab
+jupyter lab
+activate ML
+conda
+conda activate ML
+list
+pip list
+conda install numba
+conda help
+conda help
+conda
+conda update scipy
+pip
+pip install
+pip install -U scipy
+conda list
+printenv > /var/folders/4f/nc8733x97cnbfw1jfx_t9mfm0000gn/T/tmp-10666tC1JDhYtMI7vtxt
+ /usr/bin/env /opt/homebrew/bin/python3 /Users/k4cp3rskiii/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 65345 -- /Users/k4cp3rskiii/Library/Mobile\ Documents/com~apple~CloudDocs/MISMaP/Topo_SSH/Topo_SSH/Hubbard\ Hamiltonian.ipynb 
+conda activate base
+conda activate base
+conda activate base
+ /usr/bin/env /Users/k4cp3rskiii/miniforge3/bin/python /Users/k4cp3rskiii/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 51507 -- /Users/k4cp3rskiii/Library/Mobile\ Documents/com~apple~CloudDocs/MISMaP/Topo_SSH/Topo_SSH/1-comp\ Hubbard\ Hamiltonian.ipynb 
+ cd /Users/k4cp3rskiii/Library/Mobile\ Documents/com~apple~CloudDocs/MISMaP/Topo_SSH/Topo_SSH ; /usr/bin/env /Users/k4cp3rskiii/miniforge3/bin/python /Users/k4cp3rskiii/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 51545 -- /Users/k4cp3rskiii/Library/Mobile\ Documents/com~apple~CloudDocs/MISMaP/Topo_SSH/Topo_SSH/1-comp\ Hubbard\ Hamiltonian.ipynb 
+ cd /Users/k4cp3rskiii/Library/Mobile\ Documents/com~apple~CloudDocs/MISMaP/Topo_SSH/Topo_SSH ; /usr/bin/env /Users/k4cp3rskiii/miniforge3/bin/python /Users/k4cp3rskiii/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 51593 -- /Users/k4cp3rskiii/Library/Mobile\ Documents/com~apple~CloudDocs/MISMaP/Topo_SSH/Topo_SSH/1-comp\ Hubbard\ Hamiltonian.ipynb 
+ cd /Users/k4cp3rskiii/Library/Mobile\ Documents/com~apple~CloudDocs/MISMaP/Topo_SSH/Topo_SSH ; /usr/bin/env /Users/k4cp3rskiii/miniforge3/bin/python /Users/k4cp3rskiii/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 65290 -- /Users/k4cp3rskiii/Library/Mobile\ Documents/com~apple~CloudDocs/MISMaP/Topo_SSH/Topo_SSH/1-comp\ Hubbard\ Hamiltonian.ipynb 
+ cd /Users/k4cp3rskiii/Library/Mobile\ Documents/com~apple~CloudDocs/MISMaP/Topo_SSH/Topo_SSH ; /usr/bin/env /Users/k4cp3rskiii/miniforge3/bin/python /Users/k4cp3rskiii/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 50062 -- /Users/k4cp3rskiii/Library/Mobile\ Documents/com~apple~CloudDocs/MISMaP/Topo_SSH/Topo_SSH/1-comp\ Hubbard\ Hamiltonian.ipynb 
+ cd /Users/k4cp3rskiii/Library/Mobile\ Documents/com~apple~CloudDocs/MISMaP/Topo_SSH/Topo_SSH ; /usr/bin/env /Users/k4cp3rskiii/miniforge3/bin/python /Users/k4cp3rskiii/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 50940 -- /Users/k4cp3rskiii/Library/Mobile\ Documents/com~apple~CloudDocs/MISMaP/Topo_SSH/Topo_SSH/1-comp\ Hubbard\ Hamiltonian.ipynb 
+ cd /Users/k4cp3rskiii/Library/Mobile\ Documents/com~apple~CloudDocs/MISMaP/Topo_SSH/Topo_SSH ; /usr/bin/env /Users/k4cp3rskiii/miniforge3/bin/python /Users/k4cp3rskiii/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 62038 -- /Users/k4cp3rskiii/Library/Mobile\ Documents/com~apple~CloudDocs/MISMaP/Topo_SSH/Topo_SSH/1-comp\ Hubbard\ Hamiltonian.ipynb 
+conda activate ML
+cd iCloud_Drive/MISMaP/Topo_SSH/Topo_SSH/
+jupyter lab
+jupyter notebook
+conda activate base
+jupyter lab
+jupyter lab
+jupyter notebook
+conda install xeus-python -c conda-forge
+jupyter labextension install @jupyterlab/debugger
+conda install -u jupyter_lab
+conda install jupyter_lab
+conda list
+conda install jupyterlab
+conda install -c conda-forge jupyterlab
+conda list
+jupyter lab
+jupyter lab
+ls
+black
+black Hubbard_aux.py
+black Hubbard_aux.py
+black Hubbard_aux.py
+conda activate base
+ /usr/bin/env /Users/k4cp3rskiii/miniforge3/bin/python /Users/k4cp3rskiii/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 55296 -- /Users/k4cp3rskiii/Library/Mobile\ Documents/com~apple~CloudDocs/MISMaP/Topo_SSH/Topo_SSH/Hubbard\ Hamiltonian.ipynb 
+ cd /Users/k4cp3rskiii/Library/Mobile\ Documents/com~apple~CloudDocs/MISMaP/Topo_SSH/Topo_SSH ; /usr/bin/env /Users/k4cp3rskiii/miniforge3/bin/python /Users/k4cp3rskiii/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 55356 -- /Users/k4cp3rskiii/Library/Mobile\ Documents/com~apple~CloudDocs/MISMaP/Topo_SSH/Topo_SSH/Hubbard\ Hamiltonian.ipynb 
+conda activate base
+ /usr/bin/env /Users/k4cp3rskiii/miniforge3/bin/python /Users/k4cp3rskiii/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 55378 -- /Users/k4cp3rskiii/Library/Mobile\ Documents/com~apple~CloudDocs/MISMaP/Topo_SSH/Topo_SSH/Hubbard\ Hamiltonian.ipynb 
+ cd /Users/k4cp3rskiii/Library/Mobile\ Documents/com~apple~CloudDocs/MISMaP/Topo_SSH/Topo_SSH ; /usr/bin/env /Users/k4cp3rskiii/miniforge3/bin/python /Users/k4cp3rskiii/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 55435 -- /Users/k4cp3rskiii/Library/Mobile\ Documents/com~apple~CloudDocs/MISMaP/Topo_SSH/Topo_SSH/Hubbard\ Hamiltonian.ipynb 
+conda activate base
+ /usr/bin/env /Users/k4cp3rskiii/miniforge3/bin/python /Users/k4cp3rskiii/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 64110 -- /Users/k4cp3rskiii/Library/Mobile\ Documents/com~apple~CloudDocs/MISMaP/Topo_SSH/Topo_SSH/Hubbard\ Hamiltonian.ipynb 
+ /usr/bin/env /opt/homebrew/bin/python3 /Users/k4cp3rskiii/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 53324 -- /Users/k4cp3rskiii/Library/Mobile\ Documents/com~apple~CloudDocs/MISMaP/Topo_SSH/Topo_SSH/Hubbard\ Hamiltonian.ipynb 
+echo "---------";env;echo "-----------"
+exit
+conda install spyder-notebook -c spyder-ide
+echo "---------";env;echo "-----------"
+exit
+conda install spyder-notebook -c spyder-ide
+echo "---------";env;echo "-----------"
+exit
+echo "---------";env;echo "-----------"
+exit
+echo "---------";env;echo "-----------"
+exit
+echo "---------";env;echo "-----------"
+exit
+echo "---------";env;echo "-----------"
+exit
+echo "---------";env;echo "-----------"
+exit
+echo "---------";env;echo "-----------"
+exit
+echo "---------";env;echo "-----------"
+exit
+echo "---------";env;echo "-----------"
+exit
+jupyter lab
+echo "---------";env;echo "-----------"
+exit
+echo "---------";env;echo "-----------"
+exit
+echo "---------";env;echo "-----------"
+exit
+python3
+ls
+pwd
+cd iCloud_Drive/MISMaP
+ls
+cd Topo_SSH/Topo_SSH
+ls
+black
+black Hubbard_aux.py
+black Hubbard_aux.py
+black Hubbard_aux.py
+black SSH_spyder.py
+echo "---------";env;echo "-----------"
+exit
+echo "---------";env;echo "-----------"
+exit
+cd iCloud_Drive/MISMaP/Topo_SSH/Topo_SSH
+latexmk -xelatex -pv questions.tex
+latexmk -xelatex -pv questions.tex
+q
+q
+latexmk -xelatex -pv questions.tex
+latexmk -xelatex -pv questions.tex
+latexmk -xelatex -pv questions.tex
+latexmk -xelatex -pv questions.tex
+latexmk -xelatex -pv questions.tex
+latexmk -xelatex -pv questions.tex
+latexmk -xelatex -pv questions.tex
+latexmk -xelatex -pv questions.tex
+latexmk -xelatex -pv questions.tex
+latexmk -xelatex -pv questions.tex
+latexmk -xelatex -pv questions.tex
+latexmk -xelatex -pv questions.tex
+latexmk -xelatex -pv questions.tex
+latexmk -xelatex -pv questions.tex
+latexmk -xelatex -pv questions.tex
+latexmk -xelatex -pv questions.tex
+latexmk -xelatex -pv questions.tex
+echo "---------";env;echo "-----------"
+exit
+echo "---------";env;echo "-----------"
+exit
+echo "---------";env;echo "-----------"
+exit
+echo "---------";env;echo "-----------"
+exit
+echo "---------";env;echo "-----------"
+exit
+cd iCloud_Drive/MISMaP/Topo_SSH/Topo_SSH
+latexmk -xelatex -pv calculations.tex
+latexmk -xelatex -pv calculations.tex
+latexmk -xelatex -pv calculations.tex
+latexmk -xelatex -pv calculations.tex
+latexmk -xelatex -pv calculations.tex
+latexmk -xelatex -pv calculations.tex
+latexmk -xelatex -pv calculations.tex
+latexmk -xelatex -pv calculations.tex
+latexmk -xelatex -pv calculations.tex
+latexmk -xelatex -pv calculations.tex
+latexmk -xelatex -pv calculations.tex
+latexmk -xelatex -pv calculations.tex
+latexmk -xelatex -pv calculations.tex
+latexmk -xelatex -pv calculations.tex
+latexmk -xelatex -pv calculations.tex
+latexmk -xelatex -pv calculations.tex
+latexmk -xelatex -pv calculations.tex
+d Work\ Notes
+d Work\ Notes
+cd Work\ Notes
+latexmk -xelatex -pv Hubbard_Hamiltonian.tex
+latexmk -xelatex -pv Hubbard_Hamiltonian.tex
+latexmk -xelatex -pv Hubbard_Hamiltonian.tex
+latexmk -xelatex -pv Hubbard_Hamiltonian.tex
+latexmk -xelatex -pv Hubbard_Hamiltonian.tex
+echo "---------";env;echo "-----------"
+exit
+latexmk -xelatex -pv Hubbard_Hamiltonian.tex
+latexmk -xelatex -pv Hubbard_Hamiltonian.tex
+latexmk -xelatex -pv Hubbard_Hamiltonian.tex
+cd Hubbard_notes
+latexmk -xelatex -pv Hubbard_notes.tex
+latexmk -xelatex -pv -c -pdf Hubbard_notes.tex
+latexmk -xelatex -pv -c -pdf Hubbard_notes.tex
+latexmk -xelatex -pv -c Hubbard_notes.tex
+latexmk -xelatex -pv Hubbard_notes.tex
+latexmk -xelatex -pdf -pvc Hubbard_notes.tex
+latexmk -xelatex -pdf -pvc Hubbard_notes.tex
+latexmk -xelatex -pdf -pvc Hubbard_notes.tex
+latexmk -xelatex -pdf -pvc Hubbard_notes.tex
+latexmk -xelatex -pdf -pv Hubbard_notes.tex
+latexmk -xelatex -pdf -pv Hubbard_notes.tex
+latexmk -xelatex -pdf -pv Hubbard_notes.tex
+latexmk -xelatex -pdf -pv Hubbard_notes.tex
+latexmk -xelatex -pdf -pv Hubbard_notes.tex
+latexmk -xelatex -pdf -pv Hubbard_notes.tex
+latexmk -xelatex -pdf -pv Hubbard_notes.tex
+latexmk -xelatex -pdf -pv Hubbard_notes.tex
+latexmk -xelatex -pdf -pv Hubbard_notes.tex
+latexmk -xelatex -pdf -pv Hubbard_notes.tex
+latexmk -xelatex -pdf -pv Hubbard_notes.tex
+latexmk -xelatex -pdf -pv Hubbard_notes.tex
+latexmk -xelatex -pdf -pv Hubbard_notes.tex
+latexmk -xelatex -pdf -pv Hubbard_notes.tex
+latexmk -xelatex -pdf -pv Hubbard_notes.tex
+makeindex Hubbard_notes.nlo
+makeindex Hubbard_notes.nlo -s Hubbard_notes.ist -o Hubbard_notes.nls
+latexmk -xelatex -pdf -pv Hubbard_notes.tex
+latexmk -xelatex -pdf -pv Hubbard_notes.tex
+latexmk -xelatex -pdf -pv Hubbard_notes.tex
+latexmk -xelatex -pdf -pv Hubbard_notes.tex
+latexmk -xelatex -pdf -pv Hubbard_notes.tex
+arara
+xelatex
+arara Hubbard_notes.tex
+arara Hubbard_notes.tex
+arara Hubbard_notes.tex
+arara Hubbard_notes.tex
+arara Hubbard_notes.tex
+arara Hubbard_notes.tex
+latexmk -pv Hubbard_notes.tex
+latexmk -pv Hubbard_notes.tex
+latexmk -pv Hubbard_notes.tex
+latexmk -pv Hubbard_notes.tex
+latexmk -pv Hubbard_notes.tex
+pwd
+pwd
+latexmk -pv Hubbard_notes.tex
+latexmk -pv Hubbard_notes.tex
+arara Hubbard_notes.tex
+arara Hubbard_notes.tex
+echo "---------";env;echo "-----------"
+exit
+echo "---------";env;echo "-----------"
+exit
+conda install mlextend
+conda install mlxtend
+conda list
+cd iCloud_Drive/MISMaP/Topo_SSH/Topo_SSH/Work\ Notes
+cd Hubbard_
+cd Hubbard_notes
+ls
+arara Hubbard_notes.tex
+latexmk -pv Hubbard_notes.tex
+latexmk -pv Hubbard_notes.tex
+arara Hubbard_notes.tex
+cd ..
+cd Report\ from\ ICFO_\ SSH\ and\ winding\ number
+ls
+arara main.tex
+cd ..
+cd Hubbard_notes
+arara Hubbard_notes.tex
+xelatex Hubbard_notes.tex
+latexmk  Hubbard_notes.tex
+latexmk  Hubbard_notes.tex
+latexmk  Hubbard_notes.tex
+latexmk  Hubbard_notes.tex
+latexmk  Hubbard_notes.tex
+latexmk  Hubbard_notes.tex
+cd ..
+cd Report\ from\ ICFO_\ SSH\ and\ winding\ number
+arara main.tex
+latexmk -pv Hubbard_notes.tex
+latexmk -pv main.tex
+conda install plotly
+conda install networkx
+conda install pycaret
+conda create --name DM python=3.8
+conda activate DM
+conda install pycaret[full]
+pip install pycaret[full]
+pip install pycaret [full]
+pip install pycaret[full]
+pip install pycaret
+conda install pycaret
+echo "---------";env;echo "-----------"
+exit
+cd iCloud_Drive/MISMaP/Hydrodynamics/Lecture_Hydro
+latexmk -pv Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+latexmk -pv -xelatex Lecture_Hydro.tex
+echo "---------";env;echo "-----------"
+exit
+echo "---------";env;echo "-----------"
+exit
+echo "---------";env;echo "-----------"
+exit
+python3
+conda install torch torchvision torchaudio
+conda install torch torchvision torchaudio -c pytorch
+conda install torch torchvision -c pytorch
+conda install pytorch torchvision torchaudio -c pytor
+conda install pytorch torchvision torchaudio -c pytorch
+python3
+conda install -c anaconda "pillow<7"
+conda install -c anaconda pillow=6.1
+conda list
+conda uninstall pillow
+pip uninstall pillow
+conda install pillow=9.2.0
+python3
+conda install pillow=6.2.1
+pip uninstall pillow
+conda install pillow=6.2.1
+conda install PIL
+conda install pillow
+pip uninstall pillow
+pip install pillow
+conda list
+/Applications/Postgres.app/Contents/Versions/14/bin/psql -p5432 "k4cp3rskiii"
+psql
+psql
+psql
+psql
+psql
+psql
+initdb --locale=C -E UTF-8 /opt/homebrew/var/postgresql@14
+psql
+brew services start postgresql
+psql
+postgresql@14
+postgresql
+brew services stop postgresql
+psql postgres
+psql
+brew services start postgresql
+psql
+brew services stop postgresql
+sudo mkdir -p /etc/paths.d &&\
+
+sudo mkdir -p /etc/paths.d &&\
+echo /Applications/Postgres.app/Contents/Versions/latest/bin | sudo tee /etc/paths.d/postgresapp
+psql
+brew remove postgresql
+psql
+brew install psql
+brew install postgresql@14
+ brew services restart postgresql@14
+cd iCloud_Drive/MISMaP/FMS
+ls
+cd iCloud_Drive/MISMaP/FMS
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+[A
+[A
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+latexmk -pv -xelatex FMS_Wyk.tex
+cd ..
+cd Subatomy\ R
+latexmk -pv -xelatex Subatomy_wyk.tex
+latexmk -pv -xelatex Subatomy_wyk.tex
+echo "---------";env;echo "-----------"
+exit
+echo "---------";env;echo "-----------"
+exit
+cd iCloud_Drive/MISMaP/Hydrodynamics/Lecture_Hydro
+latexmk -pv -xelatex Lecture_Hydro.tex
+cd ..
+cd ..
+cd Topo_SSH/Topo_SSH
+ls
+ssh tempac
+echo "---------";env;echo "-----------"
+exit
+ssh tempac
+pip list
+conda install cv2
+conda activate base
+/Users/k4cp3rskiii/miniforge3/bin/python
+cd iCloud_Drive/MISMaP/Metody_Numeryczne
+ls
+cd Zad_Przyg
+ls
+python3 Zad_2.py
+python3 Zad_4.py
+python3 Zad_4.py
+python3 Zad_4.py
+ipython
+cd iCloud_Drive/MISMaP/Symulacje\ komputerowe
+ls
+ipython Hydro.py
+ipython Hydro.py
+ipython Hydro.py
+ipython Hydro.py
+ipython Hydro.py
+ipython Hydro.py
+ipython Hydro.py
+ipython Hydro.py
+ipython Hydro.py
+ipython Hydro.py
+ipython Hydro.py
+ipython Hydro.py
+ipython Hydro.py
+ipython Hydro.py
+ipython Hydro.py
+ipython Hydro.py
+ipython Hydro.py
+ipython Hydro.py
+ipython Hydro.py
+ipython Hydro.py
+ipython Hydro.py
+ipython Hydro.py
+ipython Hydro.py
+ipython Hydro.py
+ipython Hydro.py
+ipython Hydro.py
+ipython Hydro_animated.py
+ipython Hydro_animated.py
+ipython Hydro_animated.py
+ipython Hydro_animated.py
+ipython Hydro_animated.py
+ipython Hydro_animated.py
+ipython Hydro_animated.py
+ipython Hydro_animated.py
+ipython Hydro_animated.py
+ipython Hydro_animated.py
+ipython Hydro_animated.py
+ipython Hydro_animated.py
+ipython Hydro_animated.py
+ipython Hydro_animated.py
+ipython Hydro_animated.py
+ipython Hydro_animated.py
+ipython Hydro_animated.py
+ipython Hydro_animated.py
+ipython Hydro_animated.py
+ipython Hydro_animated.py
+ipython Hydro_animated.py
+ipython Hydro_animated.py
+ipython Hydro_animated.py
+cd iCloud_Drive/MISMaP/Symulacje\ komputerowe
+ipython Hydro_animated.py
+ipython Hydro_animated.py
+ipython Hydro_animated.py
+ipython Hydro_animated.py
+ipython Hydro_animated.py
+ipython Hydro_animated.py
+ipython Hydro_animated.py
+cd iCloud_Drive/MISMaP/Symulacje\ komputerowe
+ls
+ipython Hydro_animated.py
+/Applications/Postgres.app/Contents/Versions/14/bin/psql -p5432 "k4cp3rskiii"
+cd iCloud_Drive/MISMaP/Bazy\ Danych
+ls
+latexmk -pv -xelatex wykład.tex
+latexmk -pv -xelatex wykład.tex
+latexmk -pv -xelatex wykład.tex
+latexmk -pv -xelatex wykład.tex
+psql
+ipython
+/Applications/Postgres.app/Contents/Versions/14/bin/psql -p5432 "k4cp3rskiii"
+psql 
+psql -h lkdb.mimuw.edu.pl lkdb kc427902
+psql -h lkdb.mimuw.edu.pl lkdb kc427902@students.mimuw.edu.pl
+cd iCloud_Drive/MISMaP/Bazy\ Danych
+latexmk -pvc -xelatex wyklad.tex
+latexmk -pvc -xelatex wykład.tex
+latexmk -c -pv -xelatex wykład.tex
+latexmk -pv -c -xelatex wykład.tex
+latexmk -cpv -xelatex wykład.tex
+latexmk
+latexmk help
+man latexmk
+latexmk -pv -c -xelatex -file=wykład.tex
+man latexmk
+latexmk -pv -c -xelatex wykład.tex
+latexmk -pv -xelatex wykład.tex
+cd Lecture_Notes
+latexmk -pv -xelatex Labs.tex
+ls
+latexmk -pv -xelatex Labs.tex
+latexmk -pvc -xelatex Labs.tex
+conda activate base
+ /usr/bin/env /Users/k4cp3rskiii/miniforge3/bin/python /Users/k4cp3rskiii/.vscode/extensions/ms-python.python-2022.16.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 50894 -- /Users/k4cp3rskiii/Library/Mobile\ Documents/com~apple~CloudDocs/MISMaP/Chemia\ Fizyczna/Chemia_Kwantowa/lab3.py 
+ cd /Users/k4cp3rskiii/Library/Mobile\ Documents/com~apple~CloudDocs/MISMaP ; /usr/bin/env /Users/k4cp3rskiii/miniforge3/bin/python /Users/k4cp3rskiii/.vscode/extensions/ms-python.python-2022.16.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 50998 -- /Users/k4cp3rskiii/Library/Mobile\ Documents/com~apple~CloudDocs/MISMaP/Chemia\ Fizyczna/Chemia_Kwantowa/lab3.py 
+ cd /Users/k4cp3rskiii/Library/Mobile\ Documents/com~apple~CloudDocs/MISMaP ; /usr/bin/env /Users/k4cp3rskiii/miniforge3/bin/python /Users/k4cp3rskiii/.vscode/extensions/ms-python.python-2022.16.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 51145 -- /Users/k4cp3rskiii/Library/Mobile\ Documents/com~apple~CloudDocs/MISMaP/Chemia\ Fizyczna/Chemia_Kwantowa/lab3.py 
+conda activate base
+ /usr/bin/env /Users/k4cp3rskiii/miniforge3/bin/python /Users/k4cp3rskiii/.vscode/extensions/ms-python.python-2022.16.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 51606 -- /Users/k4cp3rskiii/Library/Mobile\ Documents/com~apple~CloudDocs/MISMaP/Chemia\ Fizyczna/Chemia_Kwantowa/lab3.py 
+conda activate base
+/Users/k4cp3rskiii/miniforge3/bin/python "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Chemia Fizyczna/Chemia_Kwantowa/lab3.py"
+echo "---------";env;echo "-----------"
+exit
+echo "---------";env;echo "-----------"
+exit
+ipython
+cd iCloud_Drive/MISMaP/Symulacje\ komputerowe
+ls
+ipython Lab3.py
+ipython Lab3.py
+ipython Lab3.py
+ipython Lab3.py
+ipython Lab3.py
+ipython Lab3.py
+ipython Lab3.py
+ipython Lab3.py
+ipython Lab3.py
+ipython Lab3.py
+ipython Lab3.py
+ipython Lab3.py
+ipython Lab3.py
+ipython Lab3.py
+ipython Lab3.py
+ipython Lab3.py
+ipython Lab3.py
+ipython Lab3.py
+ipython Lab3.py
+ipython Lab3.py
+ipython Lab3.py
+ipython Lab3.py
+ipython Lab3.py
+ipython Lab3.py
+ipython Lab3.py
+ipython Lab3.py
+brew install ffmpeg
+cd iCloud_Drive/MISMaP/Symulacje\ komputerowe
+ipython Lab3.py
+ipython Lab3.py
+ipython Lab3.py
+ipython Lab3.py
+ipython Lab4.py
+ipython Lab4.py
+ipython Lab4.py
+ipython Lab4.py
+echo "---------";env;echo "-----------"
+exit
+cd iCloud_Drive/MISMaP/
+mkdir Topo_Ins_FUW
+cd Topo_Ins_FUW
+ls
+echo "---------";env;echo "-----------"
+exit
+ls
+cd ~
+ls
+ls -la
+nano .zshrc
+psql -h lkdb mrbd
+ssh kc427902@students.mimuw.edu.pl Amphiprion@01
+ssh kc427902@students.mimuw.edu.pl
+ssh kc427902@students.mimuw.edu.pl
+ssh kc427902@mimuw.edu.pl
+ssh kc427902@students.mimuw.edu.pl
+cd iCloud_Drive/MISMaP/Bazy\ Danych
+ls
+cd Lecture_Notes
+ls
+latexmk -pv -xelatex Labs.tex
+latexmk -pvc -xelatex Labs.tex
+echo "---------";env;echo "-----------"
+exit
+conda install termcolor
+cd iCloud_Drive/MISMaP/Topo_SSH
+ls
+cd Topo_SSH
+ls
+pep8
+black
+black Hubbard_aux.py
+black Models.py
+black Models.py
+black CNN_dev.py
+black CNN_model_search.py
+black CNN_testing.py
+pylint
+ls
+ls -la
+cd .ssh
+ls
+ls -la
+nano id_rsa
+nano config
+conda install humanize
+ssh tempac
+echo "---------";env;echo "-----------"
+exit
+cd iCloud_Drive/MISMaP/Topo_SSH/Topo_SSH/Data
+cd iCloud_Drive/MISMaP/Topo_SSH/Topo_SSH/Datasets
+ls
+nano readme.md
+conda list
+echo "---------";env;echo "-----------"
+exit
+echo "---------";env;echo "-----------"
+exit
+conda install ipympl
+cd iCloud_Drive/MISMaP/UPC_2022
+ipython Ball.ipy
+ /usr/bin/env /opt/homebrew/bin/python3 /Users/k4cp3rskiii/.vscode/extensions/ms-python.python-2022.18.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 64738 -- /Users/k4cp3rskiii/Library/Mobile\ Documents/com~apple~CloudDocs/MISMaP/UPC_2022/trajectory.ipynb 
+echo "---------";env;echo "-----------"
+exit
+conda install pandarallel
+echo "---------";env;echo "-----------"
+exit
+ls
+nano .zshrc
+ls
+cd iCloud_Drive/MISMaP
+cd Symulacje\ komputerowe
+ls
+ls -G
+cd ..
+ls
+ls -G
+cd ICFO_Hubbard
+ls -G
+cd ..
+cd ..
+cd .
+cd ~
+ls
+ls -la
+ls -la -G
+nano .zshrc
+cd iCloud_Drive/MISMaP/Chemia_Kwantowa
+ls
+mkdir Lab_4
+ls
+cd Lab_4
+ls
+cd ..
+cd ..
+cd Symulacje\ komputerowe
+ls
+mkdir Lab5
+ls
+nano .zshrc
+nano .zshrc
+nano .zprofile
+cd iCloud_Drive/MISMaP/Symulacje\ komputerowe
+nano zsh.txt
+echo $LS_COLORS
+echo $LS_COLORS
+nano .zprofile
+nano .zshrc
+cutl
+curl
+curl --help
+nano .zshrc
+cd iCloud_Drive/MISMaP/Symulacje\ komputerowe
+ls
+nano zsh.txt
+nano .zshrc
+echo $LS_COLORS
+echo $LS_COLORS
+brew install vivid
+psql
+vivid
+vivid --help
+vivid themes
+vivid preview nord
+vivid preview lava
+vivid preview iceberg-dark
+clear
+vivid --help
+vivid themes
+vivid previes snazzy
+vivid preview snazzy
+vivid themes
+vivid previes ayu
+vivid preview ayu
+vivid --help
+vivid -m 8-bit prewiev ayu
+vivid -m 8-bit preview ayu
+vivid -m 8-bit preview snazzy
+vivid temes
+vivid themes
+vivid -m 8-bit preview dracula
+vivid -m 8-bit preview snazzy
+gls --color
+vivid --help
+vivid -m 8-bit generate snazzy
+ls
+ls -G
+ls
+ls /usr/local/opt/coreutils/libexec/gnubin
+cd usr
+ls
+ls -la
+ls -la -G
+cd opt
+ls -la -G
+cd .~
+cd ~
+ls
+cd ..
+cd ..
+ls -la
+ls /usr/local/opt/coreutils/libexec/gnubin
+cd usr
+ls
+cd local
+ls
+cd ..
+ls
+cd libexec
+ls
+cd .
+cd Z~
+cd 
+ls
+ls -,a
+ls -la
+cd ..
+cd ..
+ ls
+cd opt
+ls
+cd homebrew
+ls
+cd opt
+ls
+ls /opt/homebrew/opt/coreutils/libexec/gnubin/
+/opt/homebrew/opt/coreutils/libexec/gnubin/ls
+ls -G
+ls
+tree
+brew install coreutils
+brew upgrade
+gls
+gls -la
+ls
+ls -la
+gls -la
+clear
+gls --colors
+gls --help
+gls --color=auto
+gls
+gla
+gls
+gls
+gls
+ls $LS_COLORS
+gls
+gls -la
+tree
+gls
+clear
+gls
+cd iCloud_Drive/MISMaP
+gls
+ls
+cd iCloud_Drive
+ls
+vivid 
+vivid --help
+vivid --themes
+vivid themes
+ls
+vivid themes
+vivid preview lava
+vivid themes
+vivid preview solarized-dark
+vivid preview -m 8-bit solarized-dark
+vivid --help
+vivid preview -m=8-bit solarized-dark
+vivid preview -m 8-bit preview solarized-dark
+vivid -m 8-bit preview solarized-dark
+ls
+cd iCloud_Drive/MISMaP
+ls
+ls
+celar
+clear
+ls 
+ls | lolcat
+brew install lolcat
+ls | lolcat
+lolcat
+clear
+ls
+ls
+ls
+man zhs
+man zsh
+ls
+clear
+ls /opt/homebrew/opt/coreutils/libexec/gnubin/
+tree -a
+brew install tree
+tree
+ls
+cd iCloud_Drive/MISMaP
+ls
+cd Topo_
+cd Topo_SSH
+tree
+cd ..
+ls
+cd Symulacje\ komputerowe
+ls
+tree
+cat /etc/motd
+motd
+echo "---------";env;echo "-----------"
+exit
+echo "---------";env;echo "-----------"
+exit
+ls
+cd iCloud_Drive/MISMaP/Symulacje\ komputerowe
+tree
+cd Lab3
+cd ..
+open Lab.py
+open Lab4.py
+ls
+cd Lab4
+open Lab4.py
+cd ..
+cd Lab3
+open Lab3.py
+ls
+cd iCloud_Drive/MISMaP/Topo_SSH/Topo_SSH
+ls
+tree
+man tree
+tree -L 1
+tree -L 2
+ls
+open CNN_dev.ipynb
+man open
+cd ~
+ls
+cd ls
+ls
+clear
+ls
+ls -la
+open -a VisualStudioCode.app .zshrc
+open .zshrc
+vivid 
+vivid --help
+vivid themes
+vivid preview nord
+q
+vivid themes
+vivid preview -m 8-bit ayu
+vivid -m 8-bit preview ayu
+vivid themes
+vivid -m 8-bit preview one-light
+echo "---------";env;echo "-----------"
+exit
+ls
+pwd
+cd ..
+ cd..
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+ls 
+cd iCloud_Drive/MISMaP
+ls
+cd Topo_SSH/Topo_SSH
+tree -l 1
+tree -l 2
+man tree
+tree -L 2
+cd ,.
+cd ..
+cd ..
+ls
+cd Topo_Ins_FUW
+ls
+jupyter lab
+jupyter notebook
+cd 
+pwd
+ls -la
+open .zshrc
+cd iCloud_Drive/MISMaP/Topo_SSH/Topo_SSH
+cd .. 
+cd..
+cd ..
+ls
+cd Topo_Ins_FUW
+open topo_lab.ipynb
+pwd
+jupyter nbconvert 'topo_lab.ipynb' --to slides --post serve
+ls
+rm topo_lab.slides.html
+ls
+ls
+cd iCloud_Drive/MISMaP/
+neofetch

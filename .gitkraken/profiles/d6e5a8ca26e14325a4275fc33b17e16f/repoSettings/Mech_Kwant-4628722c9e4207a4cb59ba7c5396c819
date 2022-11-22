@@ -1,0 +1,205 @@
+{
+  "remoteParents": {
+    "github": {
+      "K4cp3rski": {
+        "Mech_Kwant": {
+          "hostingServiceType": "github",
+          "owner": "K4cp3rski",
+          "name": "Mech_Kwant"
+        }
+      }
+    }
+  },
+  "teams": {
+    "hasFinishedSettingUpTeams": true
+  },
+  "issues": {
+    "github": {
+      "type": "github",
+      "currentRemote": null,
+      "collapsedFilters": []
+    },
+    "githubEnterprise": {
+      "type": "githubEnterprise",
+      "currentRemote": null,
+      "collapsedFilters": []
+    },
+    "gitlabSelfHosted": {
+      "type": "gitlabSelfHosted",
+      "collapsedFilters": [],
+      "currentProjectId": null
+    },
+    "gitlab": {
+      "type": "gitlab",
+      "collapsedFilters": [],
+      "currentProjectId": null
+    },
+    "glo": {
+      "type": "glo",
+      "collapsedFilters": [],
+      "currentBoardId": null
+    },
+    "jiraCloud": {
+      "type": "jiraCloud",
+      "currentProject": null,
+      "collapsedFilters": [],
+      "collapsedIssues": []
+    },
+    "jiraServer": {
+      "type": "jiraServer",
+      "currentProject": null,
+      "collapsedFilters": [],
+      "collapsedIssues": []
+    },
+    "trello": {
+      "type": "trello",
+      "collapsedFilters": [],
+      "currentBoardId": null
+    },
+    "activeIssueTrackerType": "gitlab"
+  },
+  "pullRequests": {
+    "filters": [
+      {
+        "id": "a454325d-9bce-4cf6-ba94-d99882b571a8",
+        "filter": "author:K4cp3rski",
+        "name": "My Pull Requests",
+        "author": [
+          {
+            "not": false,
+            "values": [
+              "K4cp3rski"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "97dacc98-22ed-4f5c-9aa3-9a96081108b6",
+        "filter": "assignee:K4cp3rski",
+        "name": "Assigned To Me",
+        "assignee": [
+          {
+            "not": false,
+            "values": [
+              "K4cp3rski"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3ba3ed46-d0ac-4dc2-b007-07156926ad6f",
+        "filter": "review-requested:K4cp3rski",
+        "name": "Awaiting My Review",
+        "review-requested": [
+          {
+            "not": false,
+            "values": [
+              "K4cp3rski"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "fe78e180-f728-4a41-ad7f-0372924e75cc",
+        "filter": "",
+        "name": "All Pull Requests",
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      }
+    ],
+    "collapsedFilters": [
+      "a454325d-9bce-4cf6-ba94-d99882b571a8"
+    ]
+  },
+  "remoteHeadCollectionByRemoteName": {
+    "origin": {
+      "HEAD": {
+        "name": "HEAD",
+        "oid": "7e1a7f72faf3f92a3af52fb8557520eab7dbff7f",
+        "local": 0,
+        "loid": "0000000000000000000000000000000000000000",
+        "symrefTarget": "refs/heads/main"
+      },
+      "refs/heads/dev": {
+        "name": "refs/heads/dev",
+        "oid": "8a330dada47285be5a8fc4503cfd78e53ca8cefa",
+        "local": 1,
+        "loid": "0000000000000000000000000000000000000000",
+        "symrefTarget": null
+      },
+      "refs/heads/main": {
+        "name": "refs/heads/main",
+        "oid": "7e1a7f72faf3f92a3af52fb8557520eab7dbff7f",
+        "local": 1,
+        "loid": "0000000000000000000000000000000000000000",
+        "symrefTarget": null
+      },
+      "refs/pull/1/head": {
+        "name": "refs/pull/1/head",
+        "oid": "81160405b944464b3b81b25e840084ccedad6b64",
+        "local": 0,
+        "loid": "0000000000000000000000000000000000000000",
+        "symrefTarget": null
+      },
+      "refs/pull/2/head": {
+        "name": "refs/pull/2/head",
+        "oid": "186aafebe94f0a51905f36c729e78ca955207f75",
+        "local": 0,
+        "loid": "0000000000000000000000000000000000000000",
+        "symrefTarget": null
+      },
+      "refs/pull/3/head": {
+        "name": "refs/pull/3/head",
+        "oid": "617d8c2a5d1cf823bd84f730858429fc3d9797ad",
+        "local": 0,
+        "loid": "0000000000000000000000000000000000000000",
+        "symrefTarget": null
+      }
+    }
+  },
+  "upstreamFrecencyMetadata": {
+    "origin": {
+      "id": "remote-origin",
+      "timestamps": [
+        1646331660592,
+        1646396835101,
+        1646828786095
+      ],
+      "total": 3
+    }
+  }
+}

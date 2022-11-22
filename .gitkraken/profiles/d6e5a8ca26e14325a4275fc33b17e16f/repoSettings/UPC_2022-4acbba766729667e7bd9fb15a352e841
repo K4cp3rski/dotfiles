@@ -1,0 +1,190 @@
+{
+  "pullRequests": {
+    "filters": [
+      {
+        "id": "af81115f-ab3b-45cc-8d74-08a0eb016e02",
+        "filter": "author:K4cp3rski",
+        "name": "My Pull Requests",
+        "author": [
+          {
+            "not": false,
+            "values": [
+              "K4cp3rski"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "0b407432-ec6a-4650-a0a1-7283899d01bc",
+        "filter": "assignee:K4cp3rski",
+        "name": "Assigned To Me",
+        "assignee": [
+          {
+            "not": false,
+            "values": [
+              "K4cp3rski"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a562a7f3-2017-4ae9-a221-c264c9f1bcf2",
+        "filter": "review-requested:K4cp3rski",
+        "name": "Awaiting My Review",
+        "review-requested": [
+          {
+            "not": false,
+            "values": [
+              "K4cp3rski"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "f4324126-fa52-4ecc-8de5-1b0094e2ff8b",
+        "filter": "",
+        "name": "All Pull Requests",
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "teams": {
+    "hasFinishedSettingUpTeams": true
+  },
+  "upstreamFrecencyMetadata": {
+    "origin": {
+      "id": "remote-origin",
+      "timestamps": [
+        1667643765705,
+        1667643910916
+      ],
+      "total": 2
+    }
+  },
+  "remoteParents": {
+    "github": {
+      "K4cp3rski": {
+        "UPC_2022": {
+          "hostingServiceType": "github",
+          "owner": "K4cp3rski",
+          "name": "UPC_2022"
+        }
+      }
+    }
+  },
+  "issues": {
+    "github": {
+      "type": "github",
+      "currentRemote": "k4cp3rski/upc_2022",
+      "collapsedFilters": []
+    },
+    "githubEnterprise": {
+      "type": "githubEnterprise",
+      "currentRemote": null,
+      "collapsedFilters": []
+    },
+    "gitlabSelfHosted": {
+      "type": "gitlabSelfHosted",
+      "collapsedFilters": [],
+      "currentProjectId": null
+    },
+    "gitlab": {
+      "type": "gitlab",
+      "collapsedFilters": [],
+      "currentProjectId": null
+    },
+    "glo": {
+      "type": "glo",
+      "collapsedFilters": [],
+      "currentBoardId": null
+    },
+    "jiraCloud": {
+      "type": "jiraCloud",
+      "currentProject": null,
+      "collapsedFilters": [],
+      "collapsedIssues": []
+    },
+    "jiraServer": {
+      "type": "jiraServer",
+      "currentProject": null,
+      "collapsedFilters": [],
+      "collapsedIssues": []
+    },
+    "trello": {
+      "type": "trello",
+      "collapsedFilters": [],
+      "currentBoardId": null
+    },
+    "activeIssueTrackerType": "github"
+  },
+  "remoteHeadCollectionByRemoteName": {
+    "origin": {
+      "HEAD": {
+        "name": "HEAD",
+        "oid": "6aba2f3def20a697e808be19c70daa5d74a53937",
+        "local": 0,
+        "symrefTarget": "refs/heads/main"
+      },
+      "refs/heads/Kacper": {
+        "name": "refs/heads/Kacper",
+        "oid": "af4469b45200fed3c563ad6d166a5c0eb83849e5",
+        "local": 1,
+        "symrefTarget": null
+      },
+      "refs/heads/Stasiek": {
+        "name": "refs/heads/Stasiek",
+        "oid": "f214665d6aef7caf5fe0c352d479299d8f090fdd",
+        "local": 1,
+        "symrefTarget": null
+      },
+      "refs/heads/main": {
+        "name": "refs/heads/main",
+        "oid": "6aba2f3def20a697e808be19c70daa5d74a53937",
+        "local": 1,
+        "symrefTarget": null
+      },
+      "refs/pull/1/head": {
+        "name": "refs/pull/1/head",
+        "oid": "898ca651bcace59a91c3f85343147e0a491e3712",
+        "local": 0,
+        "symrefTarget": null
+      }
+    }
+  },
+  "expandedSections": []
+}

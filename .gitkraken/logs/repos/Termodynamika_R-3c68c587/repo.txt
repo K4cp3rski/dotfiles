@@ -1,0 +1,371 @@
+[2022-03-03T07:45:37.890Z] Adding remote (origin): https://github.com/K4cp3rski/Termodynamika_R.git: started.
+[2022-03-03T07:45:37.942Z] Fetch remote origin: started
+[2022-03-03T07:45:38.328Z] Fetch remote origin: finished gk-log://duration?t=386
+[2022-03-03T07:45:38.440Z] Adding remote (origin): https://github.com/K4cp3rski/Termodynamika_R.git: finished. gk-log://duration?t=550
+[2022-03-03T07:53:31.794Z] Stage 9 files for commit: started.
+[2022-03-03T07:53:32.021Z] Stage 9 files for commit: finished. gk-log://duration?t=227
+[2022-03-03T07:53:52.743Z] Unstage .ipynb_checkpoints/Lecture-checkpoint.pdf: started.
+[2022-03-03T07:53:52.777Z] Unstage .ipynb_checkpoints/Lecture-checkpoint.pdf: finished. gk-log://duration?t=34
+[2022-03-03T07:53:53.263Z] Unstage .ipynb_checkpoints/Lecture-checkpoint.tex: started.
+[2022-03-03T07:53:53.303Z] Unstage .ipynb_checkpoints/Lecture-checkpoint.tex: finished. gk-log://duration?t=40
+[2022-03-03T07:54:59.612Z] Commit: started.
+[2022-03-03T07:54:59.708Z] Commit: successfully created commit 34087189af600e43f0a3a922ac052ec63e938d4b
+[2022-03-03T07:54:59.709Z] Commit: finished gk-log://duration?t=97
+[2022-03-03T07:55:05.036Z] Push main: started.
+[2022-03-03T07:55:09.346Z] Set upstream for refs/heads/main: started.
+[2022-03-03T07:55:09.426Z] Set upstream for refs/heads/main: finished. gk-log://duration?t=80
+[2022-03-03T07:55:11.440Z] Push main: finished. gk-log://duration?t=6404
+[2022-03-03T08:18:40.775Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-03T10:48:24.410Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-03T10:55:00.965Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-03T11:03:45.866Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-03T11:39:49.525Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-03T12:27:47.454Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-03T12:57:38.715Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-03T17:26:08.809Z] Stage 10 files for commit: started.
+[2022-03-03T17:26:09.401Z] Stage 10 files for commit: finished. gk-log://duration?t=592
+[2022-03-03T17:26:36.690Z] Commit: started.
+[2022-03-03T17:26:36.805Z] Commit: successfully created commit 1ac7261cf78158dd6013c6c54d79dee6941f4cf8
+[2022-03-03T17:26:36.806Z] Commit: finished gk-log://duration?t=116
+[2022-03-03T17:26:38.998Z] Push main: started.
+[2022-03-03T17:26:42.841Z] Push main: finished. gk-log://duration?t=3843
+[2022-03-14T14:02:24.662Z] Stage 34 files for commit: started.
+[2022-03-14T14:02:26.664Z] Stage 34 files for commit: finished. gk-log://duration?t=2002
+[2022-03-14T14:02:53.557Z] Create ref refs/heads/dev at 1ac7261cf78158dd6013c6c54d79dee6941f4cf8: started.
+[2022-03-14T14:02:53.600Z] Checkout refs/heads/dev: started.
+[2022-03-14T14:02:54.937Z] Checkout refs/heads/dev: finished. gk-log://duration?t=1337
+[2022-03-14T14:02:54.951Z] Create ref refs/heads/dev at 1ac7261cf78158dd6013c6c54d79dee6941f4cf8: finished. gk-log://duration?t=1394
+[2022-03-14T14:02:56.910Z] Push dev: started.
+[2022-03-14T14:02:59.093Z] Set upstream for refs/heads/dev: started.
+[2022-03-14T14:02:59.798Z] Set upstream for refs/heads/dev: finished. gk-log://duration?t=705
+[2022-03-14T14:03:00.888Z] Push dev: finished. gk-log://duration?t=3978
+[2022-03-14T14:03:16.340Z] Commit: started.
+[2022-03-14T14:03:16.501Z] Commit: successfully created commit 022631422f28540cc67599190c76426854f91e9c
+[2022-03-14T14:03:16.502Z] Commit: finished gk-log://duration?t=162
+[2022-03-14T14:03:19.130Z] Push dev: started.
+[2022-03-14T14:03:21.164Z] Push dev: finished. gk-log://duration?t=2034
+[2022-03-14T14:44:53.242Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-14T15:16:02.475Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-14T18:04:50.630Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-14T18:55:36.845Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-17T06:59:04.491Z] Stage 20 files for commit: started.
+[2022-03-17T06:59:05.501Z] Stage 20 files for commit: finished. gk-log://duration?t=1010
+[2022-03-17T06:59:18.300Z] Commit: started.
+[2022-03-17T06:59:18.547Z] Commit: successfully created commit 92345c419e35b661f90b81512210ee87ed14ed89
+[2022-03-17T06:59:18.550Z] Commit: finished gk-log://duration?t=250
+[2022-03-17T06:59:20.149Z] Push dev: started.
+[2022-03-17T06:59:26.276Z] Push dev: finished. gk-log://duration?t=6127
+[2022-03-17T08:00:29.134Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-17T08:28:21.053Z] Fetch remote origin: error sending data: Broken pipe
+[2022-03-17T10:56:35.072Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-17T12:28:31.016Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-17T16:32:49.800Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-17T20:35:34.985Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-21T11:12:43.294Z] Stage 15 files for commit: started.
+[2022-03-21T11:12:44.503Z] Stage 15 files for commit: finished. gk-log://duration?t=1209
+[2022-03-21T11:13:17.889Z] Commit: started.
+[2022-03-21T11:13:18.079Z] Commit: successfully created commit 6169b14665a25bd4f4ca15e9f5ca2c00caba838c
+[2022-03-21T11:13:18.081Z] Commit: finished gk-log://duration?t=191
+[2022-03-21T11:13:19.877Z] Push dev: started.
+[2022-03-21T11:13:22.252Z] Push dev: finished. gk-log://duration?t=2375
+[2022-03-21T11:13:43.450Z] Creating pull request on GitHub: started.
+[2022-03-21T11:13:44.959Z] Finished creating pull request
+[2022-03-21T11:13:56.749Z] Push dev: started.
+[2022-03-21T11:13:57.643Z] Push dev: finished. gk-log://duration?t=894
+[2022-03-21T11:14:01.352Z] Pull dev: started.
+[2022-03-21T11:14:01.361Z] Fetch remote origin: started
+[2022-03-21T11:14:01.968Z] Fetch remote origin: finished gk-log://duration?t=607
+[2022-03-21T11:14:02.067Z] Merge origin/dev into dev: started.
+[2022-03-21T11:14:02.089Z] Merge origin/dev into dev: finished. gk-log://duration?t=22
+[2022-03-21T11:14:02.097Z] Pull dev: finished. gk-log://duration?t=745
+[2022-03-21T11:14:03.777Z] Checkout refs/heads/main: started.
+[2022-03-21T11:14:04.115Z] Checkout refs/heads/main: finished. gk-log://duration?t=338
+[2022-03-21T11:14:04.981Z] Pull main: started.
+[2022-03-21T11:14:04.993Z] Fetch remote origin: started
+[2022-03-21T11:14:05.342Z] Fetch remote origin: finished gk-log://duration?t=349
+[2022-03-21T11:14:05.396Z] Merge origin/main into main: started.
+[2022-03-21T11:14:05.798Z] Merge origin/main into main: finished. gk-log://duration?t=402
+[2022-03-21T11:14:05.808Z] Pull main: finished. gk-log://duration?t=827
+[2022-03-21T11:14:16.693Z] Checkout refs/heads/dev: started.
+[2022-03-21T11:14:17.151Z] Checkout refs/heads/dev: finished. gk-log://duration?t=458
+[2022-03-21T19:18:55.663Z] Stage 39 files for commit: started.
+[2022-03-21T19:18:57.282Z] Stage 39 files for commit: finished. gk-log://duration?t=1619
+[2022-03-21T19:19:06.035Z] Commit: started.
+[2022-03-21T19:19:06.178Z] Commit: successfully created commit e8cde0fabe96b5974b642e76235be212d810f722
+[2022-03-21T19:19:06.180Z] Commit: finished gk-log://duration?t=145
+[2022-03-21T19:19:10.879Z] Push dev: started.
+[2022-03-21T19:19:12.697Z] Push dev: finished. gk-log://duration?t=1818
+[2022-03-27T11:55:11.551Z] Stage 6 files for commit: started.
+[2022-03-27T11:55:12.209Z] Stage 6 files for commit: finished. gk-log://duration?t=658
+[2022-03-27T11:55:22.648Z] Commit: started.
+[2022-03-27T11:55:22.801Z] Commit: successfully created commit e647ea632b98e4bce16689538659a6bfecf98496
+[2022-03-27T11:55:22.802Z] Commit: finished gk-log://duration?t=154
+[2022-03-27T11:55:24.180Z] Push dev: started.
+[2022-03-27T11:55:31.239Z] Push dev: finished. gk-log://duration?t=7059
+[2022-03-31T07:27:53.799Z] Stage 10 files for commit: started.
+[2022-03-31T07:27:55.761Z] Stage 10 files for commit: finished. gk-log://duration?t=1962
+[2022-03-31T07:28:10.929Z] Commit: started.
+[2022-03-31T07:28:11.391Z] Commit: successfully created commit 6a06c14e2dfb2b8df277ce3535461314f9abd724
+[2022-03-31T07:28:11.394Z] Commit: finished gk-log://duration?t=465
+[2022-03-31T07:28:12.688Z] Push dev: started.
+[2022-03-31T07:28:15.184Z] Push dev: finished. gk-log://duration?t=2496
+[2022-03-31T09:03:27.943Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-31T09:06:00.341Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-31T09:09:18.020Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-31T09:45:25.699Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-31T10:50:37.576Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-31T16:07:27.349Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-31T16:13:01.514Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-31T17:07:17.095Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-31T17:08:16.300Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-01T09:13:21.726Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-01T09:16:15.812Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-04T11:19:47.018Z] Stage 3 files for commit: started.
+[2022-04-04T11:19:48.691Z] Stage 3 files for commit: finished. gk-log://duration?t=1673
+[2022-04-04T11:19:57.871Z] Commit: started.
+[2022-04-04T11:19:58.289Z] Commit: successfully created commit f5c7f47853e53cb49152a2c7a9da4821a4f1e242
+[2022-04-04T11:19:58.293Z] Commit: finished gk-log://duration?t=422
+[2022-04-04T11:20:00.752Z] Push dev: started.
+[2022-04-04T11:20:03.479Z] Push dev: finished. gk-log://duration?t=2727
+[2022-04-04T12:20:38.164Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-04T13:05:07.241Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-04T13:40:39.098Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-04T14:39:13.900Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-04T15:44:43.173Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-04T16:42:42.040Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-04T18:14:23.019Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-04T18:17:45.106Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-04T21:27:19.412Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:10:31.369Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:11:36.167Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:12:32.360Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:13:34.250Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:14:33.321Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:15:33.793Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:16:33.550Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:17:33.671Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:18:33.622Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:19:33.613Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:20:33.617Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:21:33.630Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:22:33.596Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:23:33.653Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:24:33.583Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:25:33.655Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:26:33.564Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:27:33.667Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:28:33.558Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:29:33.672Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:30:33.572Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:31:33.632Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:32:33.587Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:33:33.638Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:34:33.620Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:35:33.617Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:36:33.584Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:37:33.628Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:38:33.612Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:39:33.566Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:40:03.606Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:41:10.058Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:42:05.315Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:43:09.315Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:44:05.782Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:45:09.161Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:46:05.907Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:47:08.317Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:48:07.055Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:49:07.559Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:50:07.346Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:51:07.398Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:52:07.446Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:53:07.391Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:54:07.458Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:55:02.420Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:56:11.456Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:57:04.735Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:58:09.523Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T09:59:00.761Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T10:00:11.808Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T10:01:04.613Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T10:02:09.581Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T10:03:05.691Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T10:04:09.109Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T10:05:05.977Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T10:06:08.287Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T10:07:07.037Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T10:08:07.533Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T10:08:59.320Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T10:10:00.272Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T10:11:11.535Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T10:12:04.682Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T11:37:56.954Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T11:38:58.401Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T11:39:57.393Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T11:40:58.142Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T11:59:25.536Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T12:00:26.756Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T12:01:26.454Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T12:02:26.631Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T12:03:26.527Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T12:04:26.602Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T12:05:26.574Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T12:06:26.586Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T12:07:26.561Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T12:08:26.613Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T12:09:26.555Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T12:10:26.581Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T12:11:26.623Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T12:12:26.562Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T12:13:26.602Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T12:14:26.593Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T12:23:30.981Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T12:24:18.339Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T13:58:55.330Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-05T16:18:21.071Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-07T07:24:34.241Z] Stage 12 files for commit: started.
+[2022-04-07T07:24:35.352Z] Stage 12 files for commit: finished. gk-log://duration?t=1111
+[2022-04-07T07:24:44.540Z] Commit: started.
+[2022-04-07T07:24:44.810Z] Commit: successfully created commit 1a2a8376b6ee5318cd06cfaf36663fe02478d5e3
+[2022-04-07T07:24:44.812Z] Commit: finished gk-log://duration?t=272
+[2022-04-07T07:24:46.238Z] Push dev: started.
+[2022-04-07T07:24:52.833Z] Push dev: finished. gk-log://duration?t=6595
+[2022-04-25T11:24:17.460Z] Stage 17 files for commit: started.
+[2022-04-25T11:24:19.243Z] Stage 17 files for commit: finished. gk-log://duration?t=1783
+[2022-04-25T11:24:40.898Z] Commit: started.
+[2022-04-25T11:24:41.111Z] Commit: successfully created commit 25a714b03c70276b7ea418cf4443cdcb2e22cdc6
+[2022-04-25T11:24:41.113Z] Commit: finished gk-log://duration?t=215
+[2022-04-25T11:24:42.562Z] Push dev: started.
+[2022-04-25T11:24:45.518Z] Push dev: finished. gk-log://duration?t=2956
+[2022-04-25T13:00:30.697Z] Stage 3 files for commit: started.
+[2022-04-25T13:00:31.638Z] Stage 3 files for commit: finished. gk-log://duration?t=940
+[2022-04-25T13:04:11.160Z] Commit: started.
+[2022-04-25T13:04:11.518Z] Commit: successfully created commit 0e37c2d2aea65f7f1d814d9951062bf5a1888ba9
+[2022-04-25T13:04:11.520Z] Commit: finished gk-log://duration?t=360
+[2022-04-25T13:09:29.703Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-25T17:00:25.713Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-25T18:41:41.877Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-05T07:21:27.966Z] Stage .DS_Store for commit: started.
+[2022-05-05T07:21:28.068Z] Stage .DS_Store for commit: finished. gk-log://duration?t=102
+[2022-05-05T07:21:30.415Z] Push dev: started.
+[2022-05-05T07:21:32.298Z] Push dev: finished. gk-log://duration?t=1883
+[2022-05-05T09:06:41.931Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-05T09:10:49.270Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-05T09:46:50.124Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-05T10:18:50.664Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-05T11:10:57.108Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-05T11:30:01.771Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-05T11:35:02.982Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-05T14:09:56.758Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-05T15:46:42.747Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-05T17:10:04.119Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-05T18:17:07.763Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-05T19:40:17.017Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-05T21:02:18.221Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-05T23:08:12.419Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-05T23:45:18.705Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-06T01:33:47.851Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-06T02:48:16.717Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-06T06:13:26.235Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-06T09:23:53.482Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-06T09:47:02.789Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-06T10:51:19.966Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-06T10:56:01.063Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-06T11:00:05.456Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-06T11:37:19.558Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-06T12:09:18.479Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-06T12:26:13.479Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-06T13:02:51.288Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-06T13:37:31.412Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-06T13:53:18.055Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-06T13:56:49.147Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-06T14:16:53.868Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-06T15:03:00.485Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-06T15:55:53.787Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-06T17:17:13.111Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-06T17:25:14.207Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-06T17:27:16.442Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-06T17:46:49.428Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-06T17:49:59.456Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-06T21:02:04.645Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-07T00:41:08.055Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-07T01:56:03.861Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-07T03:45:47.000Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-07T05:49:06.518Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-07T07:23:02.117Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-07T08:00:25.763Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-07T10:46:07.331Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-07T11:07:49.181Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-07T11:08:52.096Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-09T11:24:47.435Z] Stage 4 files for commit: started.
+[2022-05-09T11:24:48.415Z] Stage 4 files for commit: finished. gk-log://duration?t=980
+[2022-05-09T11:24:57.694Z] Commit: started.
+[2022-05-09T11:24:57.903Z] Commit: successfully created commit b8c0958ad4ac6d44b1c2ef01d989364717fcac77
+[2022-05-09T11:24:57.905Z] Commit: finished gk-log://duration?t=211
+[2022-05-09T11:24:59.487Z] Push dev: started.
+[2022-05-09T11:25:01.763Z] Push dev: finished. gk-log://duration?t=2276
+[2022-05-09T14:26:59.381Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-09T14:32:29.947Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-09T14:35:29.861Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-09T15:23:20.288Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-09T16:42:52.810Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-09T18:03:26.276Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-09T23:22:23.985Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-10T06:03:18.846Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-10T08:18:38.227Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-10T09:26:54.761Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-10T10:00:14.897Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-10T10:39:55.560Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-10T11:04:53.334Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-10T11:30:32.619Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-11T00:55:01.672Z] Fetch remote origin: failed to connect to github.com: Operation timed out
+[2022-05-11T08:06:33.938Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-26T07:07:55.981Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-26T07:08:56.765Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-26T07:09:56.736Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-26T09:03:24.738Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-26T09:24:12.107Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-26T09:29:54.486Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-26T10:13:26.421Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-26T10:49:16.165Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-26T10:53:13.403Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-26T11:01:06.142Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-26T11:26:03.105Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-26T12:07:07.403Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-26T12:11:09.576Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-26T12:33:09.783Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-26T12:34:49.396Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-26T12:57:46.949Z] Fetch remote origin: unexpected EOF
+[2022-05-26T12:59:46.705Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-26T13:00:39.627Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-26T13:12:39.612Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-26T13:41:49.542Z] Fetch remote origin: unexpected return value from ssl handshake -9806
+[2022-05-26T13:42:10.508Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-26T13:43:10.208Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-26T13:44:10.216Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-26T13:45:10.225Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-26T13:46:10.200Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-26T13:47:10.225Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-26T13:48:10.228Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-26T13:49:10.230Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-26T13:50:10.211Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-26T13:51:10.231Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-26T13:52:10.152Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-26T13:53:10.236Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-26T16:10:09.596Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-05-26T16:12:06.092Z] Stage 24 files for commit: started.
+[2022-05-26T16:12:07.206Z] Stage 24 files for commit: finished. gk-log://duration?t=1114
+[2022-05-26T16:12:33.592Z] Commit: started.
+[2022-05-26T16:12:33.907Z] Commit: successfully created commit 95ba89f036960a5e462bd8ba8e4d3ce284ce0b3b
+[2022-05-26T16:12:33.910Z] Commit: finished gk-log://duration?t=318
+[2022-05-26T16:12:35.892Z] Push dev: started.
+[2022-05-26T16:12:40.160Z] Push dev: finished. gk-log://duration?t=4268
+[2022-06-20T22:18:27.342Z] Stage 25 files for commit: started.
+[2022-06-20T22:18:29.241Z] Stage 25 files for commit: finished. gk-log://duration?t=1899
+[2022-06-20T22:18:31.582Z] Unstage Lecture_Termo/Lecture 2.pdf: started.
+[2022-06-20T22:18:31.682Z] Unstage Lecture_Termo/Lecture 2.pdf: finished. gk-log://duration?t=100
+[2022-06-20T22:20:21.616Z] Commit: started.
+[2022-06-20T22:20:21.973Z] Commit: successfully created commit 401fda3a8568426e906e4c563faa961b52937972
+[2022-06-20T22:20:21.976Z] Commit: finished gk-log://duration?t=360
+[2022-06-20T22:20:23.847Z] Push dev: started.
+[2022-06-20T22:20:30.366Z] Push dev: finished. gk-log://duration?t=6519

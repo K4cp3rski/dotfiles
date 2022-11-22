@@ -1,0 +1,26 @@
+black....................................................................Failed
+- hook id: black
+- files were modified by this hook
+
+reformatted /Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/NPD_Final/NPD_final/taxes/tests/test_preprocessing.py
+All done! ✨ 🍰 ✨
+1 file reformatted, 2 files left unchanged.
+
+flake8...................................................................Passed
+Check JSON...........................................(no files to check)Skipped
+Check Yaml...........................................(no files to check)Skipped
+Check for merge conflicts................................................Passed
+Fix End of Files.........................................................Passed
+Trim Trailing Whitespace.................................................Passed
+Debug Statements (Python)................................................Passed
+Mixed line ending........................................................Passed
+setup-cfg-fmt........................................(no files to check)Skipped
+pyupgrade................................................................Passed
+rst ``code`` is two backticks........................(no files to check)Skipped
+isort....................................................................Failed
+- hook id: isort
+- files were modified by this hook
+
+Fixing /Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/NPD_Final/NPD_final/taxes/tests/test_preprocessing.py
+
+Hook process exited.

@@ -1,0 +1,197 @@
+[2022-01-21T08:09:32.029Z] Stage 483 files for commit: started.
+[2022-01-21T08:09:49.651Z] Stage 483 files for commit: finished. gk-log://duration?t=17622
+[2022-01-21T08:10:11.568Z] Adding remote (origin): https://github.com/K4cp3rski/Programowanie-II-R.git: started.
+[2022-01-21T08:10:11.708Z] Fetch remote origin: started
+[2022-01-21T08:10:12.169Z] Fetch remote origin: finished gk-log://duration?t=461
+[2022-01-21T08:10:13.164Z] Adding remote (origin): https://github.com/K4cp3rski/Programowanie-II-R.git: finished. gk-log://duration?t=1596
+[2022-01-21T08:11:28.885Z] Fetch all remotes: started.
+[2022-01-21T08:11:28.922Z] Fetch all remotes: finished. gk-log://duration?t=37
+[2022-01-21T08:12:12.333Z] Merge origin/master into master: started.
+[2022-01-21T08:12:12.506Z] Auto-stash uncommitted changes: started.
+[2022-01-21T08:12:12.551Z] Stage 483 files for stash: started.
+[2022-01-21T08:12:13.079Z] Stage 483 files for stash: finished. gk-log://duration?t=528
+[2022-01-21T08:12:13.527Z] Auto-stash uncommitted changes: finished. Stash sha: undefined gk-log://duration?t=1021
+[2022-01-21T08:12:13.572Z] Merge origin/master into master: 483 uncommitted changes would be overwritten by merge
+[2022-01-21T08:12:13.574Z] Merge origin/master into master: finished with errors. gk-log://duration?t=1241
+[2022-01-21T08:13:52.253Z] Stage 484 files for commit: started.
+[2022-01-21T08:13:52.833Z] Stage 484 files for commit: finished. gk-log://duration?t=580
+[2022-01-21T08:14:36.237Z] Commit: started.
+[2022-01-21T08:14:37.107Z] Commit: successfully created commit f5dde6d0db71140f748d8417199d3d6a3c077656
+[2022-01-21T08:14:37.108Z] Commit: finished gk-log://duration?t=871
+[2022-01-21T08:14:42.960Z] Merge origin/master into master: started.
+[2022-01-21T08:14:43.099Z] Auto-stash uncommitted changes: started.
+[2022-01-21T08:14:43.128Z] Stage Projekt_2 for stash: started.
+[2022-01-21T08:14:43.559Z] Stage Projekt_2 for stash: finished. gk-log://duration?t=431
+[2022-01-21T08:14:43.755Z] Auto-stash uncommitted changes: finished. Stash sha: undefined gk-log://duration?t=656
+[2022-01-21T08:14:43.891Z] Finish merge origin/master into master: started.
+[2022-01-21T08:14:43.974Z] Finish merge origin/master into master: finished. gk-log://duration?t=83
+[2022-01-21T08:14:43.984Z] Pop most recent stash: started.
+[2022-01-21T08:14:44.001Z] Pop most recent stash: Could not find stash
+[2022-01-21T08:14:44.003Z] Pop most recent stash: finished with errors. gk-log://duration?t=19
+[2022-01-21T08:14:44.200Z] Merge origin/master into master: Could not find stash
+[2022-01-21T08:14:44.201Z] Merge origin/master into master: finished with errors. gk-log://duration?t=1241
+[2022-01-21T08:15:02.481Z] Merge master into origin/master: started.
+[2022-01-21T08:15:02.505Z] Merge master into origin/master: finished. gk-log://duration?t=24
+[2022-01-21T08:15:10.078Z] Push master: started.
+[2022-01-21T08:15:11.754Z] Set upstream for refs/heads/master: started.
+[2022-01-21T08:15:12.339Z] Set upstream for refs/heads/master: finished. gk-log://duration?t=585
+[2022-01-21T08:16:04.062Z] Push master: Push failed on refs/heads/master: pre-receive hook declined
+[2022-01-21T08:16:04.064Z] Push master: finished with errors. gk-log://duration?t=53986
+[2022-01-21T08:16:12.131Z] Push master: started.
+[2022-01-21T08:17:39.377Z] Push master: Push failed on refs/heads/master: pre-receive hook declined
+[2022-01-21T08:17:39.384Z] Push master: finished with errors. gk-log://duration?t=87253
+[2022-01-21T08:18:37.129Z] Pull master: started.
+[2022-01-21T08:18:37.142Z] Fetch remote origin: started
+[2022-01-21T08:18:37.612Z] Fetch remote origin: finished gk-log://duration?t=470
+[2022-01-21T08:18:37.724Z] Merge origin/master into master: started.
+[2022-01-21T08:18:37.740Z] Merge origin/master into master: finished. gk-log://duration?t=16
+[2022-01-21T08:18:37.777Z] Pull master: finished. gk-log://duration?t=648
+[2022-01-21T08:18:37.778Z] Update all submodules: started.
+[2022-01-21T08:18:38.346Z] Update submodule Projekt_2: started.
+[2022-01-21T08:18:38.461Z] Update submodule Projekt_2: remote 'origin' does not exist
+[2022-01-21T08:18:38.463Z] Update submodule Projekt_2: finished with errors. gk-log://duration?t=117
+[2022-01-21T08:18:38.465Z] Update all submodules: remote 'origin' does not exist
+[2022-01-21T08:18:38.466Z] Update all submodules: finished with errors. gk-log://duration?t=688
+[2022-01-21T08:19:42.407Z] Revert ee0254e55601cc5eaca9e809693d007876b46e85 onto refs/heads/master: started.
+[2022-01-21T08:19:42.539Z] Auto-stash uncommitted changes: started.
+[2022-01-21T08:19:42.569Z] Stage 9 files for stash: started.
+[2022-01-21T08:19:43.036Z] Stage 9 files for stash: finished. gk-log://duration?t=467
+[2022-01-21T08:19:43.892Z] Auto-stash uncommitted changes: finished. Stash sha: c2ea4007b9c82173b9e5b0a7400bf84853e7f995 gk-log://duration?t=1353
+[2022-01-21T08:19:44.190Z] Update all submodules: started.
+[2022-01-21T08:19:44.206Z] Update submodule Projekt_2: started.
+[2022-01-21T08:19:44.312Z] Update submodule Projekt_2: remote 'origin' does not exist
+[2022-01-21T08:19:44.314Z] Update submodule Projekt_2: finished with errors. gk-log://duration?t=108
+[2022-01-21T08:19:44.316Z] Update all submodules: remote 'origin' does not exist
+[2022-01-21T08:19:44.317Z] Update all submodules: finished with errors. gk-log://duration?t=127
+[2022-01-21T08:19:44.318Z] Revert ee0254e55601cc5eaca9e809693d007876b46e85 onto refs/heads/master: remote 'origin' does not exist
+[2022-01-21T08:19:44.319Z] Revert ee0254e55601cc5eaca9e809693d007876b46e85 onto refs/heads/master: finished with errors. gk-log://duration?t=1912
+[2022-01-21T08:21:18.841Z] Create ref refs/heads/dev at 94a766aded1803d5d5b8d75ca141001ebeaf800f: started.
+[2022-01-21T08:21:18.909Z] Checkout refs/heads/dev: started.
+[2022-01-21T08:21:19.604Z] Update all submodules: started.
+[2022-01-21T08:21:19.621Z] Update submodule Projekt_2: started.
+[2022-01-21T08:21:19.727Z] Update submodule Projekt_2: remote 'origin' does not exist
+[2022-01-21T08:21:19.729Z] Update submodule Projekt_2: finished with errors. gk-log://duration?t=108
+[2022-01-21T08:21:19.730Z] Update all submodules: remote 'origin' does not exist
+[2022-01-21T08:21:19.731Z] Update all submodules: finished with errors. gk-log://duration?t=127
+[2022-01-21T08:21:19.743Z] Checkout refs/heads/dev: finished. gk-log://duration?t=834
+[2022-01-21T08:21:20.057Z] Create ref refs/heads/dev at 94a766aded1803d5d5b8d75ca141001ebeaf800f: finished. gk-log://duration?t=1216
+[2022-01-21T08:21:38.328Z] Push dev: started.
+[2022-01-21T08:21:42.027Z] Set upstream for refs/heads/dev: started.
+[2022-01-21T08:21:42.778Z] Set upstream for refs/heads/dev: finished. gk-log://duration?t=751
+[2022-01-21T08:22:18.671Z] Push dev: Push failed on refs/heads/dev: pre-receive hook declined
+[2022-01-21T08:22:18.674Z] Push dev: finished with errors. gk-log://duration?t=40346
+[2022-01-21T08:22:30.732Z] Checkout refs/heads/master: started.
+[2022-01-21T08:22:31.180Z] Update all submodules: started.
+[2022-01-21T08:22:31.194Z] Update submodule Projekt_2: started.
+[2022-01-21T08:22:31.300Z] Update submodule Projekt_2: remote 'origin' does not exist
+[2022-01-21T08:22:31.302Z] Update submodule Projekt_2: finished with errors. gk-log://duration?t=108
+[2022-01-21T08:22:31.304Z] Update all submodules: remote 'origin' does not exist
+[2022-01-21T08:22:31.305Z] Update all submodules: finished with errors. gk-log://duration?t=125
+[2022-01-21T08:22:31.314Z] Checkout refs/heads/master: finished. gk-log://duration?t=582
+[2022-01-21T08:22:49.972Z] Fetch remote origin: started
+[2022-01-21T08:22:50.351Z] Fetch remote origin: finished gk-log://duration?t=379
+[2022-01-21T08:24:19.559Z] Adding remote (origin): https://github.com/K4cp3rski/Programowanie-II-R.git: started.
+[2022-01-21T08:24:19.655Z] Fetch remote origin: started
+[2022-01-21T08:24:20.049Z] Fetch remote origin: finished gk-log://duration?t=394
+[2022-01-21T08:24:20.633Z] Adding remote (origin): https://github.com/K4cp3rski/Programowanie-II-R.git: finished. gk-log://duration?t=1074
+[2022-01-21T08:25:35.005Z] Reset (hard) refs/heads/master to f5dde6d0db71140f748d8417199d3d6a3c077656: started.
+[2022-01-21T08:25:35.165Z] Reset (hard) refs/heads/master to f5dde6d0db71140f748d8417199d3d6a3c077656: finished. gk-log://duration?t=160
+[2022-01-21T08:25:35.166Z] Update all submodules: started.
+[2022-01-21T08:25:35.193Z] Update submodule Projekt_2: started.
+[2022-01-21T08:25:35.195Z] Initialize submodule Projekt_2: started.
+[2022-01-21T08:25:35.242Z] Initialize submodule Projekt_2: no URL configured for submodule 'Projekt_2'
+[2022-01-21T08:25:35.245Z] Initialize submodule Projekt_2: finished with errors. gk-log://duration?t=50
+[2022-01-21T08:25:35.250Z] Update submodule Projekt_2: no URL configured for submodule 'Projekt_2'
+[2022-01-21T08:25:35.251Z] Update submodule Projekt_2: finished with errors. gk-log://duration?t=58
+[2022-01-21T08:25:35.253Z] Update all submodules: no URL configured for submodule 'Projekt_2'
+[2022-01-21T08:25:35.253Z] Update all submodules: finished with errors. gk-log://duration?t=87
+[2022-01-21T08:25:35.255Z] Reset (hard) refs/heads/master to f5dde6d0db71140f748d8417199d3d6a3c077656: no URL configured for submodule 'Projekt_2'
+[2022-01-21T08:25:35.256Z] Reset (hard) refs/heads/master to f5dde6d0db71140f748d8417199d3d6a3c077656: finished with errors. gk-log://duration?t=251
+[2022-01-21T08:25:46.137Z] Delete ref refs/heads/dev at 94a766aded1803d5d5b8d75ca141001ebeaf800f: started.
+[2022-01-21T08:25:46.189Z] Delete ref refs/heads/dev at 94a766aded1803d5d5b8d75ca141001ebeaf800f: finished. gk-log://duration?t=52
+[2022-01-21T08:27:29.143Z] Adding remote (origin): https://github.com/K4cp3rski/Programowanie-II-R.git: started.
+[2022-01-21T08:27:29.330Z] Fetch remote origin: started
+[2022-01-21T08:27:29.962Z] Fetch remote origin: finished gk-log://duration?t=632
+[2022-01-21T08:27:30.411Z] Adding remote (origin): https://github.com/K4cp3rski/Programowanie-II-R.git: finished. gk-log://duration?t=1268
+[2022-01-21T08:29:02.437Z] Fetch remote origin: unexpected http status code: 404
+[2022-01-21T08:31:56.108Z] Adding remote (origin): https://github.com/K4cp3rski/Programowanie-II-R.git: started.
+[2022-01-21T08:31:56.231Z] Fetch remote origin: started
+[2022-01-21T08:31:56.665Z] Fetch remote origin: finished gk-log://duration?t=434
+[2022-01-21T08:31:56.955Z] Adding remote (origin): https://github.com/K4cp3rski/Programowanie-II-R.git: finished. gk-log://duration?t=847
+[2022-01-21T08:53:43.709Z] Undo Remove remote "origin": started.
+[2022-01-21T08:53:43.802Z] Adding remote (origin): https://github.com/K4cp3rski/Programowanie-II-R.git: started.
+[2022-01-21T08:53:43.873Z] Fetch remote origin: started
+[2022-01-21T08:53:44.223Z] Fetch remote origin: finished gk-log://duration?t=350
+[2022-01-21T08:53:44.587Z] Adding remote (origin): https://github.com/K4cp3rski/Programowanie-II-R.git: finished. gk-log://duration?t=785
+[2022-01-21T08:53:44.610Z] Fetch remote origin: started
+[2022-01-21T08:53:44.978Z] Fetch remote origin: finished gk-log://duration?t=368
+[2022-01-21T08:53:45.050Z] Undo Remove remote "origin": finished. gk-log://duration?t=1341
+[2022-01-21T08:53:45.376Z] Undo Remove remote "origin": started.
+[2022-01-21T08:53:45.417Z] Undo Remove remote "origin": finished. gk-log://duration?t=41
+[2022-01-21T08:53:45.418Z] Undo Commit "COmmit 21.01 10AM": started.
+[2022-01-21T08:53:45.464Z] Undo Commit "COmmit 21.01 10AM": finished. gk-log://duration?t=46
+[2022-01-21T08:53:48.308Z] Redo Commit "COmmit 21.01 10AM": started.
+[2022-01-21T08:53:48.338Z] Redo Commit "COmmit 21.01 10AM": finished. gk-log://duration?t=30
+[2022-01-21T09:13:11.954Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-01-21T09:30:33.245Z] Adding remote (K4cp3rski): https://github.com/K4cp3rski/Programowanie-II-R.git: started.
+[2022-01-21T09:30:33.411Z] Fetch remote K4cp3rski: started
+[2022-01-21T09:30:37.519Z] Fetch remote K4cp3rski: finished gk-log://duration?t=4108
+[2022-01-21T09:30:37.861Z] Adding remote (K4cp3rski): https://github.com/K4cp3rski/Programowanie-II-R.git: finished. gk-log://duration?t=4616
+[2022-01-21T09:30:42.928Z] Push master: started.
+[2022-01-21T09:30:44.588Z] Set upstream for refs/heads/master: started.
+[2022-01-21T09:30:44.843Z] Set upstream for refs/heads/master: finished. gk-log://duration?t=255
+[2022-01-21T09:30:46.881Z] Push master: finished. gk-log://duration?t=3953
+[2022-01-21T10:43:45.453Z] Fetch remote K4cp3rski: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-01-21T10:43:45.485Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-01-21T10:56:29.859Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-01-21T10:56:29.876Z] Fetch remote K4cp3rski: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-01-21T11:00:29.856Z] Fetch remote K4cp3rski: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-01-21T11:00:29.873Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-01-21T11:05:17.244Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-01-21T11:05:17.251Z] Fetch remote K4cp3rski: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-01-21T11:28:11.423Z] Fetch remote K4cp3rski: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-01-21T11:28:11.445Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-01-21T12:40:45.339Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-01-21T12:40:45.355Z] Fetch remote K4cp3rski: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-01-21T12:44:12.365Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-01-21T12:44:12.385Z] Fetch remote K4cp3rski: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-01-21T12:55:50.714Z] Fetch remote K4cp3rski: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-01-21T12:55:50.722Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-01-21T12:58:28.530Z] Fetch remote K4cp3rski: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-01-21T12:58:28.551Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-01-21T14:19:16.926Z] Fetch remote K4cp3rski: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-01-21T14:19:16.934Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-01-21T18:55:43.114Z] Fetch remote K4cp3rski: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-01-21T18:55:43.131Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-01-21T21:03:14.449Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-01-21T21:03:14.468Z] Fetch remote K4cp3rski: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-04T21:05:36.983Z] Fetch remote K4cp3rski: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-04T21:05:37.102Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-04T22:00:59.734Z] Fetch remote K4cp3rski: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-04T22:00:59.750Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-05T00:01:24.241Z] Fetch remote K4cp3rski: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-05T00:01:24.256Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-05T01:57:53.493Z] Fetch remote K4cp3rski: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-05T01:57:53.511Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-05T03:10:19.185Z] Fetch remote K4cp3rski: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-05T03:10:19.194Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-05T03:54:23.997Z] Fetch remote K4cp3rski: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-05T03:54:24.006Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-05T04:55:14.602Z] Fetch remote K4cp3rski: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-05T04:55:14.615Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-05T06:07:04.278Z] Fetch remote K4cp3rski: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-05T06:07:04.288Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-05T06:43:26.345Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-05T06:43:26.353Z] Fetch remote K4cp3rski: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-05T10:22:00.567Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-05T10:22:00.602Z] Fetch remote K4cp3rski: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-05T18:48:35.779Z] Fetch remote K4cp3rski: unexpected return value from ssl handshake -9806
+[2022-02-05T18:51:34.875Z] Fetch remote origin: unexpected return value from ssl handshake -9806
+[2022-02-09T13:21:03.622Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-09T13:21:03.636Z] Fetch remote K4cp3rski: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-09T13:22:01.132Z] Fetch remote K4cp3rski: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-09T13:22:01.151Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-09T13:23:07.782Z] Fetch remote K4cp3rski: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-09T13:23:07.791Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-09T13:39:54.738Z] Fetch remote K4cp3rski: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-09T13:39:54.764Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known

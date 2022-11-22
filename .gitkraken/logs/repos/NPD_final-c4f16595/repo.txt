@@ -1,0 +1,653 @@
+[2022-02-09T13:48:10.013Z] Create ref refs/heads/dev at 6d3bae56849ae9246e96e250833c60de38eff335: started.
+[2022-02-09T13:48:10.121Z] Checkout refs/heads/dev: started.
+[2022-02-09T13:48:10.593Z] Checkout refs/heads/dev: finished. gk-log://duration?t=472
+[2022-02-09T13:48:10.618Z] Create ref refs/heads/dev at 6d3bae56849ae9246e96e250833c60de38eff335: finished. gk-log://duration?t=605
+[2022-02-09T13:48:15.547Z] Push dev: started.
+[2022-02-09T13:48:19.507Z] Set upstream for refs/heads/dev: started.
+[2022-02-09T13:48:19.687Z] Set upstream for refs/heads/dev: finished. gk-log://duration?t=180
+[2022-02-09T13:48:20.692Z] Push dev: finished. gk-log://duration?t=5145
+[2022-02-09T20:08:50.147Z] Fetch remote origin: failed to connect to github.com: Network is unreachable
+[2022-02-09T21:49:04.377Z] Stage 16 files for commit: started.
+[2022-02-09T21:49:04.507Z] Stage 16 files for commit: finished. gk-log://duration?t=130
+[2022-02-09T21:49:07.208Z] Unstage data/20200214_Gminy_za_2019.xlsx: started.
+[2022-02-09T21:49:07.266Z] Unstage data/20200214_Gminy_za_2019.xlsx: finished. gk-log://duration?t=58
+[2022-02-09T21:49:07.847Z] Unstage data/20200214_Gornoslasko_Zaglebiowska_Metropolia.xlsx: started.
+[2022-02-09T21:49:07.910Z] Unstage data/20200214_Gornoslasko_Zaglebiowska_Metropolia.xlsx: finished. gk-log://duration?t=63
+[2022-02-09T21:49:08.229Z] Unstage data/20200214_Miasta_NPP_za_2019.xlsx: started.
+[2022-02-09T21:49:08.299Z] Unstage data/20200214_Miasta_NPP_za_2019.xlsx: finished. gk-log://duration?t=70
+[2022-02-09T21:49:08.632Z] Unstage data/20200214_Powiaty_za_2019.xlsx: started.
+[2022-02-09T21:49:08.666Z] Unstage data/20200214_Powiaty_za_2019.xlsx: finished. gk-log://duration?t=34
+[2022-02-09T21:49:09.114Z] Unstage data/20200214_Wojewodztwa_za_2019.xlsx: started.
+[2022-02-09T21:49:09.166Z] Unstage data/20200214_Wojewodztwa_za_2019.xlsx: finished. gk-log://duration?t=52
+[2022-02-09T21:49:20.391Z] Unstage unknown-0.0-0.tar.bz2: started.
+[2022-02-09T21:49:20.457Z] Unstage unknown-0.0-0.tar.bz2: finished. gk-log://duration?t=66
+[2022-02-09T21:53:13.436Z] Commit: started.
+[2022-02-09T21:53:13.713Z] Commit: successfully created commit 12fc473b6a36b4c9e742e7c19e889faf7f2c64f8
+[2022-02-09T21:53:13.714Z] Commit: finished gk-log://duration?t=278
+[2022-02-09T21:53:22.266Z] Push dev: started.
+[2022-02-09T21:53:23.381Z] Push dev: finished. gk-log://duration?t=1115
+[2022-02-09T21:53:37.364Z] Merge dev into main: started.
+[2022-02-09T21:53:37.416Z] Merge dev into main: finished. gk-log://duration?t=52
+[2022-02-09T21:53:41.526Z] Push dev: started.
+[2022-02-09T21:53:42.597Z] Push dev: finished. gk-log://duration?t=1071
+[2022-02-09T21:53:48.822Z] Checkout refs/heads/main: started.
+[2022-02-09T21:53:49.021Z] Checkout refs/heads/main: finished. gk-log://duration?t=199
+[2022-02-09T21:53:50.490Z] Push main: started.
+[2022-02-09T21:53:51.524Z] Push main: finished. gk-log://duration?t=1034
+[2022-02-09T21:54:04.283Z] Checkout refs/heads/dev: started.
+[2022-02-09T21:54:04.462Z] Checkout refs/heads/dev: finished. gk-log://duration?t=179
+[2022-02-09T23:23:47.212Z] Stage Driver.ipynb for commit: started.
+[2022-02-09T23:23:47.319Z] Stage Driver.ipynb for commit: finished. gk-log://duration?t=107
+[2022-02-09T23:24:20.643Z] Stage tests/test_download.py for commit: started.
+[2022-02-09T23:24:20.745Z] Stage tests/test_download.py for commit: finished. gk-log://duration?t=102
+[2022-02-09T23:24:25.471Z] Stage taxes/taxes/.DS_Store for commit: started.
+[2022-02-09T23:24:25.570Z] Stage taxes/taxes/.DS_Store for commit: finished. gk-log://duration?t=99
+[2022-02-09T23:24:25.741Z] Stage taxes/taxes/__init__.py for commit: started.
+[2022-02-09T23:24:25.804Z] Stage taxes/taxes/__init__.py for commit: finished. gk-log://duration?t=63
+[2022-02-09T23:24:26.309Z] Stage taxes/taxes/download.py for commit: started.
+[2022-02-09T23:24:26.432Z] Stage taxes/taxes/download.py for commit: finished. gk-log://duration?t=123
+[2022-02-09T23:24:28.263Z] Stage taxes/tests/__init__.py for commit: started.
+[2022-02-09T23:24:28.338Z] Stage taxes/tests/__init__.py for commit: finished. gk-log://duration?t=75
+[2022-02-09T23:24:29.202Z] Stage taxes/tests/test_download.py for commit: started.
+[2022-02-09T23:24:29.291Z] Stage taxes/tests/test_download.py for commit: finished. gk-log://duration?t=89
+[2022-02-09T23:24:30.406Z] Stage taxes/LICENSE.md for commit: started.
+[2022-02-09T23:24:30.642Z] Stage taxes/LICENSE.md for commit: finished. gk-log://duration?t=236
+[2022-02-09T23:24:31.083Z] Stage taxes/README.md for commit: started.
+[2022-02-09T23:24:31.187Z] Stage taxes/README.md for commit: finished. gk-log://duration?t=104
+[2022-02-09T23:24:32.052Z] Stage taxes/requirements.txt for commit: started.
+[2022-02-09T23:24:32.112Z] Stage taxes/requirements.txt for commit: finished. gk-log://duration?t=59
+[2022-02-09T23:24:32.906Z] Stage taxes/setup.cfg for commit: started.
+[2022-02-09T23:24:32.997Z] Stage taxes/setup.cfg for commit: finished. gk-log://duration?t=91
+[2022-02-09T23:24:33.666Z] Stage taxes/setup.py for commit: started.
+[2022-02-09T23:24:33.739Z] Stage taxes/setup.py for commit: finished. gk-log://duration?t=73
+[2022-02-09T23:25:21.440Z] Commit: started.
+[2022-02-09T23:25:21.657Z] Commit: successfully created commit 980a5d964b7f8f0b99ddb75dd394729ece3da64e
+[2022-02-09T23:25:21.659Z] Commit: finished gk-log://duration?t=219
+[2022-02-09T23:25:24.088Z] Push dev: started.
+[2022-02-09T23:25:25.067Z] Push dev: finished. gk-log://duration?t=979
+[2022-02-09T23:25:43.887Z] Checkout refs/heads/main: started.
+[2022-02-09T23:25:44.068Z] Checkout refs/heads/main: finished. gk-log://duration?t=181
+[2022-02-09T23:25:48.299Z] Merge dev into main: started.
+[2022-02-09T23:25:48.332Z] Auto-stash uncommitted changes: started.
+[2022-02-09T23:25:48.369Z] Stage 11 files for stash: started.
+[2022-02-09T23:25:48.453Z] Stage 11 files for stash: finished. gk-log://duration?t=84
+[2022-02-09T23:25:48.624Z] Auto-stash uncommitted changes: finished. Stash sha: 34a23dca2e198de9366009161a1022e274dc574f gk-log://duration?t=292
+[2022-02-09T23:25:48.641Z] Finish merge dev into main: started.
+[2022-02-09T23:25:48.661Z] Finish merge dev into main: finished. gk-log://duration?t=20
+[2022-02-09T23:25:48.662Z] Pop most recent stash: started.
+[2022-02-09T23:25:48.700Z] Pop stash 34a23dca2e198de9366009161a1022e274dc574f: finished. gk-log://duration?t=38
+[2022-02-09T23:25:48.765Z] Merge dev into main: finished. gk-log://duration?t=466
+[2022-02-09T23:25:51.688Z] Push main: started.
+[2022-02-09T23:25:52.711Z] Push main: finished. gk-log://duration?t=1023
+[2022-02-09T23:25:58.152Z] Checkout refs/heads/dev: started.
+[2022-02-09T23:25:58.542Z] Checkout refs/heads/dev: finished. gk-log://duration?t=390
+[2022-02-09T23:26:00.841Z] Checkout refs/heads/main: started.
+[2022-02-09T23:26:00.972Z] Checkout refs/heads/main: finished. gk-log://duration?t=131
+[2022-02-10T15:17:07.912Z] Checkout refs/heads/dev: started.
+[2022-02-10T15:17:08.149Z] Checkout refs/heads/dev: finished. gk-log://duration?t=237
+[2022-02-10T15:17:18.317Z] Stage taxes/taxes/download.py for commit: started.
+[2022-02-10T15:17:18.416Z] Stage taxes/taxes/download.py for commit: finished. gk-log://duration?t=99
+[2022-02-10T15:17:19.510Z] Stage taxes/requirements.txt for commit: started.
+[2022-02-10T15:17:19.570Z] Stage taxes/requirements.txt for commit: finished. gk-log://duration?t=60
+[2022-02-10T15:17:20.859Z] Stage .DS_Store for commit: started.
+[2022-02-10T15:17:20.931Z] Stage .DS_Store for commit: finished. gk-log://duration?t=72
+[2022-02-10T15:17:21.370Z] Stage Driver.ipynb for commit: started.
+[2022-02-10T15:17:21.449Z] Stage Driver.ipynb for commit: finished. gk-log://duration?t=79
+[2022-02-10T15:17:22.803Z] Stage unknown-0.0-0.tar.bz2 for commit: started.
+[2022-02-10T15:17:22.850Z] Stage unknown-0.0-0.tar.bz2 for commit: finished. gk-log://duration?t=47
+[2022-02-10T15:17:25.414Z] Stage data/20210211_Metropolia_2020.xlsx for commit: started.
+[2022-02-10T15:17:25.482Z] Stage data/20210211_Metropolia_2020.xlsx for commit: finished. gk-log://duration?t=68
+[2022-02-10T15:17:25.674Z] Stage data/20210211_Powiaty_za_2020.xlsx for commit: started.
+[2022-02-10T15:17:25.728Z] Stage data/20210211_Powiaty_za_2020.xlsx for commit: finished. gk-log://duration?t=53
+[2022-02-10T15:17:25.993Z] Stage data/20210211_Województwa_za_2020.xlsx for commit: started.
+[2022-02-10T15:17:26.055Z] Stage data/20210211_Województwa_za_2020.xlsx for commit: finished. gk-log://duration?t=62
+[2022-02-10T15:17:26.309Z] Stage data/20210215_Gminy_2_za_2020.xlsx for commit: started.
+[2022-02-10T15:17:26.371Z] Stage data/20210215_Gminy_2_za_2020.xlsx for commit: finished. gk-log://duration?t=62
+[2022-02-10T15:17:26.678Z] Stage data/20210215_Miasta_NPP_2_za_2020.xlsx for commit: started.
+[2022-02-10T15:17:26.825Z] Stage data/20210215_Miasta_NPP_2_za_2020.xlsx for commit: finished. gk-log://duration?t=147
+[2022-02-10T15:17:30.340Z] Unstage data/20200214_Gminy_za_2019.xlsx: started.
+[2022-02-10T15:17:30.396Z] Unstage data/20200214_Gminy_za_2019.xlsx: finished. gk-log://duration?t=56
+[2022-02-10T15:17:30.618Z] Unstage data/20200214_Gornoslasko_Zaglebiowska_Metropolia.xlsx: started.
+[2022-02-10T15:17:30.663Z] Unstage data/20200214_Gornoslasko_Zaglebiowska_Metropolia.xlsx: finished. gk-log://duration?t=45
+[2022-02-10T15:17:31.241Z] Unstage data/20200214_Miasta_NPP_za_2019.xlsx: started.
+[2022-02-10T15:17:31.300Z] Unstage data/20200214_Miasta_NPP_za_2019.xlsx: finished. gk-log://duration?t=59
+[2022-02-10T15:17:31.601Z] Unstage data/20200214_Powiaty_za_2019.xlsx: started.
+[2022-02-10T15:17:31.673Z] Unstage data/20200214_Powiaty_za_2019.xlsx: finished. gk-log://duration?t=72
+[2022-02-10T15:17:32.037Z] Unstage data/20200214_Wojewodztwa_za_2019.xlsx: started.
+[2022-02-10T15:17:32.099Z] Unstage data/20200214_Wojewodztwa_za_2019.xlsx: finished. gk-log://duration?t=62
+[2022-02-10T15:17:39.909Z] Ignore data: started.
+[2022-02-10T15:17:42.903Z] Ignore data: finished. gk-log://duration?t=2994
+[2022-02-10T15:17:44.818Z] Stage .gitignore for commit: started.
+[2022-02-10T15:17:44.886Z] Stage .gitignore for commit: finished. gk-log://duration?t=68
+[2022-02-10T15:19:10.214Z] Commit: started.
+[2022-02-10T15:19:10.463Z] Commit: successfully created commit 9ee107b8c86905bcfcf81d9730fa7f876b844a30
+[2022-02-10T15:19:10.464Z] Commit: finished gk-log://duration?t=250
+[2022-02-10T15:19:15.943Z] Push dev: started.
+[2022-02-10T15:19:17.125Z] Push dev: finished. gk-log://duration?t=1182
+[2022-02-10T16:55:30.932Z] Stage .pre-commit-config.yaml for commit: started.
+[2022-02-10T16:55:31.011Z] Stage .pre-commit-config.yaml for commit: finished. gk-log://duration?t=79
+[2022-02-10T16:55:45.138Z] Commit: started.
+[2022-02-10T16:55:45.187Z] pre-commit hook started.
+[2022-02-10T16:55:49.793Z] pre-commit hook finished. gk-log://duration?t=4606 gk-log://log-link?type=RAW_TEXT&file=repos%2FNPD_final-c4f16595%2Fhooks%2Fpre-commit%2F1644512145231.b97dbcd3&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-commit
+[2022-02-10T16:55:50.050Z] Commit: successfully created commit 422da3d7d9efc57b3735287e70a36791801f03d6
+[2022-02-10T16:55:50.051Z] Commit: finished gk-log://duration?t=4913
+[2022-02-10T16:55:55.015Z] Push dev: started.
+[2022-02-10T16:55:56.063Z] Push dev: finished. gk-log://duration?t=1048
+[2022-02-10T16:59:58.748Z] Pull dev: started.
+[2022-02-10T16:59:58.764Z] Fetch remote origin: started
+[2022-02-10T16:59:59.262Z] Fetch remote origin: finished gk-log://duration?t=497
+[2022-02-10T16:59:59.364Z] Merge origin/dev into dev: started.
+[2022-02-10T16:59:59.377Z] Auto-stash uncommitted changes: started.
+[2022-02-10T16:59:59.403Z] Stage 10 files for stash: started.
+[2022-02-10T16:59:59.494Z] Stage 10 files for stash: finished. gk-log://duration?t=91
+[2022-02-10T16:59:59.690Z] Auto-stash uncommitted changes: finished. Stash sha: 5662fcafd816a3cfa7aaf0c231cf778bda699bb7 gk-log://duration?t=313
+[2022-02-10T16:59:59.704Z] Pop most recent stash: started.
+[2022-02-10T16:59:59.736Z] Pop stash 5662fcafd816a3cfa7aaf0c231cf778bda699bb7: finished. gk-log://duration?t=32
+[2022-02-10T16:59:59.803Z] Merge origin/dev into dev: finished. gk-log://duration?t=439
+[2022-02-10T16:59:59.827Z] Pull dev: finished. gk-log://duration?t=1079
+[2022-02-10T19:16:47.146Z] Stage taxes/taxes/.DS_Store for commit: started.
+[2022-02-10T19:16:47.236Z] Stage taxes/taxes/.DS_Store for commit: finished. gk-log://duration?t=90
+[2022-02-10T19:16:47.827Z] Stage taxes/taxes/download.py for commit: started.
+[2022-02-10T19:16:47.908Z] Stage taxes/taxes/download.py for commit: finished. gk-log://duration?t=81
+[2022-02-10T19:17:00.250Z] Stage taxes/tests/test_download.py for commit: started.
+[2022-02-10T19:17:00.332Z] Stage taxes/tests/test_download.py for commit: finished. gk-log://duration?t=82
+[2022-02-10T22:19:00.702Z] Stage taxes/tests/test_download.py for commit: started.
+[2022-02-10T22:19:00.807Z] Stage taxes/tests/test_download.py for commit: finished. gk-log://duration?t=105
+[2022-02-10T22:19:04.049Z] Stage taxes/taxes/download.py for commit: started.
+[2022-02-10T22:19:04.130Z] Stage taxes/taxes/download.py for commit: finished. gk-log://duration?t=81
+[2022-02-10T22:19:06.895Z] Stage taxes/requirements.txt for commit: started.
+[2022-02-10T22:19:07.053Z] Stage taxes/requirements.txt for commit: finished. gk-log://duration?t=158
+[2022-02-10T22:19:25.935Z] Commit: started.
+[2022-02-10T22:19:25.995Z] pre-commit hook started.
+[2022-02-10T22:19:31.075Z] pre-commit hook failed. gk-log://duration?t=5080 gk-log://log-link?type=RAW_TEXT&file=repos%2FNPD_final-c4f16595%2Fhooks%2Fpre-commit%2F1644531565997.3d69cec0&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-commit
+[2022-02-10T22:19:31.102Z] {{{GK_MULTI_LINE}}}
+Commit: pre-commit Failed
+Git Hook exited with 1
+{{{/GK_MULTI_LINE}}}
+[2022-02-10T22:19:31.103Z] Commit: finished with errors. gk-log://duration?t=5168
+[2022-02-10T22:19:31.105Z] Commit: finished gk-log://duration?t=5170
+[2022-02-10T22:20:00.041Z] Commit: started.
+[2022-02-10T22:20:00.112Z] pre-commit hook started.
+[2022-02-10T22:20:01.947Z] pre-commit hook failed. gk-log://duration?t=1835 gk-log://log-link?type=RAW_TEXT&file=repos%2FNPD_final-c4f16595%2Fhooks%2Fpre-commit%2F1644531600114.f8223f40&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-commit
+[2022-02-10T22:20:01.978Z] {{{GK_MULTI_LINE}}}
+Commit: pre-commit Failed
+Git Hook exited with 1
+{{{/GK_MULTI_LINE}}}
+[2022-02-10T22:20:01.979Z] Commit: finished with errors. gk-log://duration?t=1938
+[2022-02-10T22:20:01.980Z] Commit: finished gk-log://duration?t=1939
+[2022-02-10T22:22:19.517Z] Stage taxes/tests/test_download.py for commit: started.
+[2022-02-10T22:22:19.605Z] Stage taxes/tests/test_download.py for commit: finished. gk-log://duration?t=88
+[2022-02-10T22:22:21.796Z] Stage taxes/taxes/download.py for commit: started.
+[2022-02-10T22:22:21.860Z] Stage taxes/taxes/download.py for commit: finished. gk-log://duration?t=64
+[2022-02-10T22:22:27.568Z] Unstage taxes/.DS_Store: started.
+[2022-02-10T22:22:27.817Z] Unstage taxes/.DS_Store: finished. gk-log://duration?t=249
+[2022-02-10T22:22:35.620Z] Commit: started.
+[2022-02-10T22:22:35.682Z] pre-commit hook started.
+[2022-02-10T22:22:37.161Z] pre-commit hook failed. gk-log://duration?t=1479 gk-log://log-link?type=RAW_TEXT&file=repos%2FNPD_final-c4f16595%2Fhooks%2Fpre-commit%2F1644531755684.09f0314c&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-commit
+[2022-02-10T22:22:37.184Z] {{{GK_MULTI_LINE}}}
+Commit: pre-commit Failed
+Git Hook exited with 1
+{{{/GK_MULTI_LINE}}}
+[2022-02-10T22:22:37.185Z] Commit: finished with errors. gk-log://duration?t=1565
+[2022-02-10T22:22:37.187Z] Commit: finished gk-log://duration?t=1567
+[2022-02-10T22:34:59.967Z] Stage taxes/tests/test_download.py for commit: started.
+[2022-02-10T22:35:00.071Z] Stage taxes/tests/test_download.py for commit: finished. gk-log://duration?t=104
+[2022-02-10T22:35:02.158Z] Stage taxes/taxes/download.py for commit: started.
+[2022-02-10T22:35:02.271Z] Stage taxes/taxes/download.py for commit: finished. gk-log://duration?t=113
+[2022-02-10T22:35:10.326Z] Commit: started.
+[2022-02-10T22:35:10.382Z] pre-commit hook started.
+[2022-02-10T22:35:12.049Z] pre-commit hook failed. gk-log://duration?t=1667 gk-log://log-link?type=RAW_TEXT&file=repos%2FNPD_final-c4f16595%2Fhooks%2Fpre-commit%2F1644532510384.113622f1&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-commit
+[2022-02-10T22:35:12.075Z] {{{GK_MULTI_LINE}}}
+Commit: pre-commit Failed
+Git Hook exited with 1
+{{{/GK_MULTI_LINE}}}
+[2022-02-10T22:35:12.076Z] Commit: finished with errors. gk-log://duration?t=1750
+[2022-02-10T22:35:12.077Z] Commit: finished gk-log://duration?t=1751
+[2022-02-10T22:40:45.074Z] Commit: started.
+[2022-02-10T22:40:45.130Z] pre-commit hook started.
+[2022-02-10T22:40:46.762Z] pre-commit hook failed. gk-log://duration?t=1632 gk-log://log-link?type=RAW_TEXT&file=repos%2FNPD_final-c4f16595%2Fhooks%2Fpre-commit%2F1644532845131.8a179db8&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-commit
+[2022-02-10T22:40:46.795Z] {{{GK_MULTI_LINE}}}
+Commit: pre-commit Failed
+Git Hook exited with 1
+{{{/GK_MULTI_LINE}}}
+[2022-02-10T22:40:46.796Z] Commit: finished with errors. gk-log://duration?t=1722
+[2022-02-10T22:40:46.797Z] Commit: finished gk-log://duration?t=1723
+[2022-02-10T22:40:54.656Z] Stage taxes/tests/test_download.py for commit: started.
+[2022-02-10T22:40:54.747Z] Stage taxes/tests/test_download.py for commit: finished. gk-log://duration?t=91
+[2022-02-10T22:40:57.203Z] Stage taxes/taxes/download.py for commit: started.
+[2022-02-10T22:40:57.275Z] Stage taxes/taxes/download.py for commit: finished. gk-log://duration?t=72
+[2022-02-10T22:41:05.267Z] Commit: started.
+[2022-02-10T22:41:05.346Z] pre-commit hook started.
+[2022-02-10T22:41:06.985Z] pre-commit hook finished. gk-log://duration?t=1639 gk-log://log-link?type=RAW_TEXT&file=repos%2FNPD_final-c4f16595%2Fhooks%2Fpre-commit%2F1644532865346.558c4013&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-commit
+[2022-02-10T22:41:07.235Z] Commit: successfully created commit c83ba1e2012db60f784862cef4a050749c824785
+[2022-02-10T22:41:07.236Z] Commit: finished gk-log://duration?t=1969
+[2022-02-10T22:41:14.008Z] Push dev: started.
+[2022-02-10T22:41:15.143Z] Push dev: finished. gk-log://duration?t=1135
+[2022-02-11T00:09:09.933Z] Stage Documentation.tex for commit: started.
+[2022-02-11T00:09:10.050Z] Stage Documentation.tex for commit: finished. gk-log://duration?t=117
+[2022-02-11T00:09:10.770Z] Stage Documentation.pdf for commit: started.
+[2022-02-11T00:09:10.832Z] Stage Documentation.pdf for commit: finished. gk-log://duration?t=62
+[2022-02-11T00:10:12.671Z] Stage Documentation.tex for commit: started.
+[2022-02-11T00:10:12.771Z] Stage Documentation.tex for commit: finished. gk-log://duration?t=100
+[2022-02-11T00:10:49.771Z] Commit: started.
+[2022-02-11T00:10:49.820Z] pre-commit hook started.
+[2022-02-11T00:10:50.897Z] pre-commit hook finished. gk-log://duration?t=1077 gk-log://log-link?type=RAW_TEXT&file=repos%2FNPD_final-c4f16595%2Fhooks%2Fpre-commit%2F1644538249821.f452f242&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-commit
+[2022-02-11T00:10:51.182Z] Commit: successfully created commit 4d3d0a5463511bf19b8b9c8f9f003c29632208a3
+[2022-02-11T00:10:51.183Z] Commit: finished gk-log://duration?t=1412
+[2022-02-11T00:10:53.184Z] Push dev: started.
+[2022-02-11T00:10:54.232Z] Push dev: finished. gk-log://duration?t=1048
+[2022-02-11T00:14:56.284Z] Stage 6 files for commit: started.
+[2022-02-11T00:14:56.384Z] Stage 6 files for commit: finished. gk-log://duration?t=100
+[2022-02-11T00:15:15.237Z] Commit: started.
+[2022-02-11T00:15:15.275Z] pre-commit hook started.
+[2022-02-11T00:15:17.363Z] pre-commit hook finished. gk-log://duration?t=2088 gk-log://log-link?type=RAW_TEXT&file=repos%2FNPD_final-c4f16595%2Fhooks%2Fpre-commit%2F1644538515277.61c2f514&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-commit
+[2022-02-11T00:15:17.624Z] Commit: successfully created commit 804747b89a3f24596228278f069ed96fd51ccf44
+[2022-02-11T00:15:17.625Z] Commit: finished gk-log://duration?t=2388
+[2022-02-11T00:15:20.315Z] Push dev: started.
+[2022-02-11T00:15:21.471Z] Push dev: finished. gk-log://duration?t=1156
+[2022-02-11T00:17:01.892Z] Pull dev: started.
+[2022-02-11T00:17:01.908Z] Fetch remote origin: started
+[2022-02-11T00:17:02.596Z] Fetch remote origin: finished gk-log://duration?t=688
+[2022-02-11T00:17:02.703Z] Merge origin/dev into dev: started.
+[2022-02-11T00:17:02.733Z] Merge origin/dev into dev: finished. gk-log://duration?t=30
+[2022-02-11T00:17:02.744Z] Pull dev: finished. gk-log://duration?t=852
+[2022-02-11T00:17:05.080Z] Checkout refs/heads/main: started.
+[2022-02-11T00:17:05.302Z] Checkout refs/heads/main: finished. gk-log://duration?t=222
+[2022-02-11T00:17:06.673Z] Pull main: started.
+[2022-02-11T00:17:06.690Z] Fetch remote origin: started
+[2022-02-11T00:17:07.260Z] Fetch remote origin: finished gk-log://duration?t=570
+[2022-02-11T00:17:07.467Z] Merge origin/main into main: started.
+[2022-02-11T00:17:07.483Z] Auto-stash uncommitted changes: started.
+[2022-02-11T00:17:07.502Z] Stage 35 files for stash: started.
+[2022-02-11T00:17:08.271Z] Stage 35 files for stash: finished. gk-log://duration?t=769
+[2022-02-11T00:17:08.834Z] Auto-stash uncommitted changes: finished. Stash sha: a8a8302406650a83b7adae4928b31dcc27b33eec gk-log://duration?t=1351
+[2022-02-11T00:17:08.856Z] Pop most recent stash: started.
+[2022-02-11T00:17:09.094Z] Pop stash a8a8302406650a83b7adae4928b31dcc27b33eec: finished. gk-log://duration?t=238
+[2022-02-11T00:17:09.262Z] Merge origin/main into main: finished. gk-log://duration?t=1795
+[2022-02-11T00:17:09.279Z] Pull main: finished. gk-log://duration?t=2606
+[2022-02-11T00:17:14.254Z] Checkout refs/heads/dev: started.
+[2022-02-11T00:17:14.544Z] Checkout refs/heads/dev: finished. gk-log://duration?t=290
+[2022-02-11T00:42:41.887Z] Ignore data: started.
+[2022-02-11T00:42:43.471Z] Ignore data: finished. gk-log://duration?t=1584
+[2022-02-11T00:42:51.948Z] Stage taxes/taxes/download.py for commit: started.
+[2022-02-11T00:42:52.047Z] Stage taxes/taxes/download.py for commit: finished. gk-log://duration?t=98
+[2022-02-11T00:43:15.672Z] Commit: started.
+[2022-02-11T00:43:15.714Z] pre-commit hook started.
+[2022-02-11T00:43:17.322Z] pre-commit hook failed. gk-log://duration?t=1608 gk-log://log-link?type=RAW_TEXT&file=repos%2FNPD_final-c4f16595%2Fhooks%2Fpre-commit%2F1644540195715.e221608c&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-commit
+[2022-02-11T00:43:17.349Z] {{{GK_MULTI_LINE}}}
+Commit: pre-commit Failed
+Git Hook exited with 1
+{{{/GK_MULTI_LINE}}}
+[2022-02-11T00:43:17.350Z] Commit: finished with errors. gk-log://duration?t=1678
+[2022-02-11T00:43:17.351Z] Commit: finished gk-log://duration?t=1679
+[2022-02-11T00:43:26.984Z] Commit: started.
+[2022-02-11T00:43:27.053Z] pre-commit hook started.
+[2022-02-11T00:43:28.586Z] pre-commit hook failed. gk-log://duration?t=1533 gk-log://log-link?type=RAW_TEXT&file=repos%2FNPD_final-c4f16595%2Fhooks%2Fpre-commit%2F1644540207054.5b018603&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-commit
+[2022-02-11T00:43:28.609Z] {{{GK_MULTI_LINE}}}
+Commit: pre-commit Failed
+Git Hook exited with 1
+{{{/GK_MULTI_LINE}}}
+[2022-02-11T00:43:28.611Z] Commit: finished with errors. gk-log://duration?t=1627
+[2022-02-11T00:43:28.612Z] Commit: finished gk-log://duration?t=1628
+[2022-02-11T00:43:53.215Z] Stage taxes/taxes/download.py for commit: started.
+[2022-02-11T00:43:53.451Z] Stage taxes/taxes/download.py for commit: finished. gk-log://duration?t=236
+[2022-02-11T00:43:55.782Z] Commit: started.
+[2022-02-11T00:43:55.841Z] pre-commit hook started.
+[2022-02-11T00:43:57.305Z] pre-commit hook finished. gk-log://duration?t=1464 gk-log://log-link?type=RAW_TEXT&file=repos%2FNPD_final-c4f16595%2Fhooks%2Fpre-commit%2F1644540235843.18c7be31&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-commit
+[2022-02-11T00:43:57.554Z] Commit: successfully created commit 6ecc9f8dc85ff8127c2870d9a325b4cb6c0d17a4
+[2022-02-11T00:43:57.555Z] Commit: finished gk-log://duration?t=1773
+[2022-02-11T00:43:59.852Z] Push dev: started.
+[2022-02-11T00:44:00.895Z] Push dev: finished. gk-log://duration?t=1043
+[2022-02-11T00:45:30.297Z] Stage taxes/tests/test_download.py for commit: started.
+[2022-02-11T00:45:30.381Z] Stage taxes/tests/test_download.py for commit: finished. gk-log://duration?t=84
+[2022-02-11T00:46:02.729Z] Commit: started.
+[2022-02-11T00:46:02.775Z] pre-commit hook started.
+[2022-02-11T00:46:04.322Z] pre-commit hook finished. gk-log://duration?t=1547 gk-log://log-link?type=RAW_TEXT&file=repos%2FNPD_final-c4f16595%2Fhooks%2Fpre-commit%2F1644540362777.2623c54b&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-commit
+[2022-02-11T00:46:04.638Z] Commit: successfully created commit 56c8d441030f195475f1ef15ecc9fdde193014a6
+[2022-02-11T00:46:04.639Z] Commit: finished gk-log://duration?t=1910
+[2022-02-11T00:46:07.016Z] Push dev: started.
+[2022-02-11T00:46:08.115Z] Push dev: finished. gk-log://duration?t=1099
+[2022-02-11T03:26:48.691Z] Stage 7 files for commit: started.
+[2022-02-11T03:26:48.795Z] Stage 7 files for commit: finished. gk-log://duration?t=104
+[2022-02-11T03:28:02.066Z] Commit: started.
+[2022-02-11T03:28:02.127Z] pre-commit hook started.
+[2022-02-11T03:28:03.875Z] pre-commit hook failed. gk-log://duration?t=1748 gk-log://log-link?type=RAW_TEXT&file=repos%2FNPD_final-c4f16595%2Fhooks%2Fpre-commit%2F1644550082129.e131d79e&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-commit
+[2022-02-11T03:28:03.903Z] {{{GK_MULTI_LINE}}}
+Commit: pre-commit Failed
+Git Hook exited with 1
+{{{/GK_MULTI_LINE}}}
+[2022-02-11T03:28:03.904Z] Commit: finished with errors. gk-log://duration?t=1838
+[2022-02-11T03:28:03.905Z] Commit: finished gk-log://duration?t=1839
+[2022-02-11T03:35:03.874Z] Stage 7 files for commit: started.
+[2022-02-11T03:35:03.957Z] Stage 7 files for commit: finished. gk-log://duration?t=83
+[2022-02-11T03:41:40.456Z] Stage 7 files for commit: started.
+[2022-02-11T03:41:40.529Z] Stage 7 files for commit: finished. gk-log://duration?t=73
+[2022-02-11T03:43:15.159Z] Commit: started.
+[2022-02-11T03:43:15.218Z] pre-commit hook started.
+[2022-02-11T03:43:16.920Z] pre-commit hook failed. gk-log://duration?t=1702 gk-log://log-link?type=RAW_TEXT&file=repos%2FNPD_final-c4f16595%2Fhooks%2Fpre-commit%2F1644550995220.0fb4639a&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-commit
+[2022-02-11T03:43:16.947Z] {{{GK_MULTI_LINE}}}
+Commit: pre-commit Failed
+Git Hook exited with 1
+{{{/GK_MULTI_LINE}}}
+[2022-02-11T03:43:16.948Z] Commit: finished with errors. gk-log://duration?t=1789
+[2022-02-11T03:43:16.949Z] Commit: finished gk-log://duration?t=1790
+[2022-02-11T03:45:26.187Z] Unstage 7 files: started.
+[2022-02-11T03:45:26.279Z] Unstage 7 files: finished. gk-log://duration?t=92
+[2022-02-11T03:45:28.287Z] Stage 7 files for commit: started.
+[2022-02-11T03:45:28.364Z] Stage 7 files for commit: finished. gk-log://duration?t=77
+[2022-02-11T03:45:42.757Z] Unstage 7 files: started.
+[2022-02-11T03:45:42.828Z] Unstage 7 files: finished. gk-log://duration?t=71
+[2022-02-11T03:45:57.288Z] Stage 7 files for commit: started.
+[2022-02-11T03:45:57.412Z] Stage 7 files for commit: finished. gk-log://duration?t=124
+[2022-02-11T03:47:42.027Z] Commit: started.
+[2022-02-11T03:47:42.074Z] pre-commit hook started.
+[2022-02-11T03:47:43.679Z] pre-commit hook failed. gk-log://duration?t=1605 gk-log://log-link?type=RAW_TEXT&file=repos%2FNPD_final-c4f16595%2Fhooks%2Fpre-commit%2F1644551262075.93583109&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-commit
+[2022-02-11T03:47:43.700Z] {{{GK_MULTI_LINE}}}
+Commit: pre-commit Failed
+Git Hook exited with 1
+{{{/GK_MULTI_LINE}}}
+[2022-02-11T03:47:43.702Z] Commit: finished with errors. gk-log://duration?t=1675
+[2022-02-11T03:47:43.703Z] Commit: finished gk-log://duration?t=1676
+[2022-02-11T03:52:14.317Z] Unstage taxes/taxes/preprocessing.py: started.
+[2022-02-11T03:52:14.391Z] Unstage taxes/taxes/preprocessing.py: finished. gk-log://duration?t=74
+[2022-02-11T03:52:16.734Z] Unstage taxes/tests/test_preprocessing.py: started.
+[2022-02-11T03:52:16.797Z] Unstage taxes/tests/test_preprocessing.py: finished. gk-log://duration?t=63
+[2022-02-11T03:52:27.544Z] Stage 7 files for commit: started.
+[2022-02-11T03:52:27.623Z] Stage 7 files for commit: finished. gk-log://duration?t=79
+[2022-02-11T03:56:17.990Z] Stage 7 files for commit: started.
+[2022-02-11T03:56:18.067Z] Stage 7 files for commit: finished. gk-log://duration?t=77
+[2022-02-11T03:56:45.580Z] Stage 7 files for commit: started.
+[2022-02-11T03:56:45.647Z] Stage 7 files for commit: finished. gk-log://duration?t=67
+[2022-02-11T03:57:37.656Z] Stage .pre-commit-config.yaml for commit: started.
+[2022-02-11T03:57:37.888Z] Stage .pre-commit-config.yaml for commit: finished. gk-log://duration?t=232
+[2022-02-11T03:58:11.843Z] Stage 8 files for commit: started.
+[2022-02-11T03:58:11.928Z] Stage 8 files for commit: finished. gk-log://duration?t=85
+[2022-02-11T03:59:04.770Z] Stage 8 files for commit: started.
+[2022-02-11T03:59:04.845Z] Stage 8 files for commit: finished. gk-log://duration?t=75
+[2022-02-11T04:00:52.442Z] Stage 9 files for commit: started.
+[2022-02-11T04:00:52.541Z] Stage 9 files for commit: finished. gk-log://duration?t=99
+[2022-02-11T04:01:07.282Z] Stage 9 files for commit: started.
+[2022-02-11T04:01:07.517Z] Stage 9 files for commit: finished. gk-log://duration?t=235
+[2022-02-11T04:02:32.812Z] Stage 8 files for commit: started.
+[2022-02-11T04:02:32.886Z] Stage 8 files for commit: finished. gk-log://duration?t=74
+[2022-02-11T04:04:52.660Z] Stage 8 files for commit: started.
+[2022-02-11T04:04:52.744Z] Stage 8 files for commit: finished. gk-log://duration?t=84
+[2022-02-11T04:06:04.284Z] Stage 8 files for commit: started.
+[2022-02-11T04:06:04.526Z] Stage 8 files for commit: finished. gk-log://duration?t=242
+[2022-02-11T04:06:38.855Z] Stage 8 files for commit: started.
+[2022-02-11T04:06:38.927Z] Stage 8 files for commit: finished. gk-log://duration?t=72
+[2022-02-11T04:07:11.135Z] Stage 8 files for commit: started.
+[2022-02-11T04:07:11.232Z] Stage 8 files for commit: finished. gk-log://duration?t=97
+[2022-02-11T04:16:39.233Z] Stage 10 files for commit: started.
+[2022-02-11T04:16:39.504Z] Stage 10 files for commit: finished. gk-log://duration?t=271
+[2022-02-11T04:16:57.599Z] Stage 10 files for commit: started.
+[2022-02-11T04:16:57.673Z] Stage 10 files for commit: finished. gk-log://duration?t=74
+[2022-02-11T04:17:12.092Z] Stage 10 files for commit: started.
+[2022-02-11T04:17:12.173Z] Stage 10 files for commit: finished. gk-log://duration?t=81
+[2022-02-11T04:17:27.494Z] Stage 10 files for commit: started.
+[2022-02-11T04:17:27.577Z] Stage 10 files for commit: finished. gk-log://duration?t=83
+[2022-02-11T04:17:40.682Z] Stage 11 files for commit: started.
+[2022-02-11T04:17:40.761Z] Stage 11 files for commit: finished. gk-log://duration?t=79
+[2022-02-11T04:18:17.155Z] Stage 11 files for commit: started.
+[2022-02-11T04:18:17.230Z] Stage 11 files for commit: finished. gk-log://duration?t=75
+[2022-02-11T04:19:08.286Z] Stage 11 files for commit: started.
+[2022-02-11T04:19:08.383Z] Stage 11 files for commit: finished. gk-log://duration?t=97
+[2022-02-11T04:19:19.179Z] Stage 11 files for commit: started.
+[2022-02-11T04:19:19.253Z] Stage 11 files for commit: finished. gk-log://duration?t=74
+[2022-02-11T04:19:33.229Z] Commit: started.
+[2022-02-11T04:19:33.276Z] pre-commit hook started.
+[2022-02-11T04:19:35.521Z] pre-commit hook finished. gk-log://duration?t=2245 gk-log://log-link?type=RAW_TEXT&file=repos%2FNPD_final-c4f16595%2Fhooks%2Fpre-commit%2F1644553173278.6f816da0&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-commit
+[2022-02-11T04:19:36.215Z] Commit: successfully created commit c05817a160bcd7436adb560eed4a27b664b14013
+[2022-02-11T04:19:36.216Z] Commit: finished gk-log://duration?t=2987
+[2022-02-11T04:19:38.575Z] Push dev: started.
+[2022-02-11T04:19:39.783Z] Push dev: finished. gk-log://duration?t=1208
+[2022-02-11T04:22:03.534Z] Stage 6 files for commit: started.
+[2022-02-11T04:22:03.650Z] Stage 6 files for commit: finished. gk-log://duration?t=116
+[2022-02-11T04:22:21.792Z] Commit: started.
+[2022-02-11T04:22:21.830Z] pre-commit hook started.
+[2022-02-11T04:22:23.830Z] pre-commit hook finished. gk-log://duration?t=2000 gk-log://log-link?type=RAW_TEXT&file=repos%2FNPD_final-c4f16595%2Fhooks%2Fpre-commit%2F1644553341832.83f9ac6d&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-commit
+[2022-02-11T04:22:24.033Z] Commit: successfully created commit 8b968957a917171e27db98da903fc76f60d42261
+[2022-02-11T04:22:24.034Z] Commit: finished gk-log://duration?t=2242
+[2022-02-11T04:22:26.574Z] Push dev: started.
+[2022-02-11T04:22:27.579Z] Push dev: finished. gk-log://duration?t=1005
+[2022-02-11T05:04:35.858Z] Stage 3 files for commit: started.
+[2022-02-11T05:04:35.960Z] Stage 3 files for commit: finished. gk-log://duration?t=102
+[2022-02-11T05:05:51.328Z] Stage 3 files for commit: started.
+[2022-02-11T05:05:51.422Z] Stage 3 files for commit: finished. gk-log://duration?t=94
+[2022-02-11T05:07:30.046Z] Stage 3 files for commit: started.
+[2022-02-11T05:07:30.139Z] Stage 3 files for commit: finished. gk-log://duration?t=93
+[2022-02-11T05:12:58.374Z] Stage 3 files for commit: started.
+[2022-02-11T05:12:58.445Z] Stage 3 files for commit: finished. gk-log://duration?t=71
+[2022-02-11T05:13:13.225Z] Stage 3 files for commit: started.
+[2022-02-11T05:13:13.292Z] Stage 3 files for commit: finished. gk-log://duration?t=67
+[2022-02-11T05:13:55.448Z] Stage 3 files for commit: started.
+[2022-02-11T05:13:55.537Z] Stage 3 files for commit: finished. gk-log://duration?t=89
+[2022-02-11T05:19:30.854Z] Stage 3 files for commit: started.
+[2022-02-11T05:19:30.941Z] Stage 3 files for commit: finished. gk-log://duration?t=86
+[2022-02-11T05:19:38.711Z] Stage 3 files for commit: started.
+[2022-02-11T05:19:38.775Z] Stage 3 files for commit: finished. gk-log://duration?t=64
+[2022-02-11T05:22:42.320Z] Commit: started.
+[2022-02-11T05:22:42.369Z] pre-commit hook started.
+[2022-02-11T05:22:44.203Z] pre-commit hook finished. gk-log://duration?t=1834 gk-log://log-link?type=RAW_TEXT&file=repos%2FNPD_final-c4f16595%2Fhooks%2Fpre-commit%2F1644556962370.f3c4ef23&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-commit
+[2022-02-11T05:22:44.503Z] Commit: successfully created commit 95b4117a3f0caf8a8083d2534790f227b375a5f0
+[2022-02-11T05:22:44.504Z] Commit: finished gk-log://duration?t=2184
+[2022-02-11T05:22:46.464Z] Stage 3 files for commit: started.
+[2022-02-11T05:22:46.554Z] Stage 3 files for commit: finished. gk-log://duration?t=90
+[2022-02-11T05:23:09.074Z] Commit: started.
+[2022-02-11T05:23:09.110Z] pre-commit hook started.
+[2022-02-11T05:23:10.825Z] pre-commit hook failed. gk-log://duration?t=1715 gk-log://log-link?type=RAW_TEXT&file=repos%2FNPD_final-c4f16595%2Fhooks%2Fpre-commit%2F1644556989110.47e9ffdc&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-commit
+[2022-02-11T05:23:10.852Z] {{{GK_MULTI_LINE}}}
+Commit: pre-commit Failed
+Git Hook exited with 1
+{{{/GK_MULTI_LINE}}}
+[2022-02-11T05:23:10.854Z] Commit: finished with errors. gk-log://duration?t=1780
+[2022-02-11T05:23:10.855Z] Commit: finished gk-log://duration?t=1781
+[2022-02-11T05:23:14.860Z] Stage 3 files for commit: started.
+[2022-02-11T05:23:14.946Z] Stage 3 files for commit: finished. gk-log://duration?t=86
+[2022-02-11T05:23:16.658Z] Commit: started.
+[2022-02-11T05:23:16.701Z] pre-commit hook started.
+[2022-02-11T05:23:18.397Z] pre-commit hook finished. gk-log://duration?t=1695 gk-log://log-link?type=RAW_TEXT&file=repos%2FNPD_final-c4f16595%2Fhooks%2Fpre-commit%2F1644556996702.48d705ae&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-commit
+[2022-02-11T05:23:18.649Z] Commit: successfully created commit bc89f87c17a1d7fbf52d8e6c92fb1ba4ecc08fbb
+[2022-02-11T05:23:18.650Z] Commit: finished gk-log://duration?t=1992
+[2022-02-11T05:23:25.973Z] Push dev: started.
+[2022-02-11T05:23:26.949Z] Push dev: finished. gk-log://duration?t=976
+[2022-02-11T05:26:36.884Z] Creating pull request on GitHub: started.
+[2022-02-11T05:26:39.206Z] Finished creating pull request
+[2022-02-11T05:30:50.446Z] Pull dev: started.
+[2022-02-11T05:30:50.459Z] Fetch remote origin: started
+[2022-02-11T05:30:51.068Z] Fetch remote origin: finished gk-log://duration?t=609
+[2022-02-11T05:30:51.229Z] Merge origin/dev into dev: started.
+[2022-02-11T05:30:51.258Z] Merge origin/dev into dev: finished. gk-log://duration?t=29
+[2022-02-11T05:30:51.272Z] Pull dev: finished. gk-log://duration?t=826
+[2022-02-11T05:30:54.500Z] Checkout refs/heads/main: started.
+[2022-02-11T05:30:54.571Z] Checkout refs/heads/main: finished. gk-log://duration?t=71
+[2022-02-11T05:31:06.840Z] Checkout refs/remotes/origin/main: started.
+[2022-02-11T05:31:08.670Z] Checkout refs/remotes/origin/main: cancelled. gk-log://duration?t=1830
+[2022-02-11T05:31:09.801Z] Checkout refs/heads/main: started.
+[2022-02-11T05:31:09.861Z] Checkout refs/heads/main: finished. gk-log://duration?t=60
+[2022-02-11T05:31:13.912Z] Stash uncommitted changes: started.
+[2022-02-11T05:31:13.963Z] Stage Driver.ipynb for stash: started.
+[2022-02-11T05:31:14.037Z] Stage Driver.ipynb for stash: finished. gk-log://duration?t=74
+[2022-02-11T05:31:14.168Z] Stash uncommitted changes: finished. Stash sha: 3e95b54c6cc631f9261e33328779ee4ec872f926 gk-log://duration?t=256
+[2022-02-11T05:31:17.513Z] Checkout refs/heads/main: started.
+[2022-02-11T05:31:17.929Z] Checkout refs/heads/main: finished. gk-log://duration?t=416
+[2022-02-11T05:31:20.386Z] Pull main: started.
+[2022-02-11T05:31:20.400Z] Fetch remote origin: started
+[2022-02-11T05:31:20.822Z] Fetch remote origin: finished gk-log://duration?t=422
+[2022-02-11T05:31:20.913Z] Merge origin/main into main: started.
+[2022-02-11T05:31:20.938Z] Merge origin/main into main: finished. gk-log://duration?t=25
+[2022-02-11T05:31:20.956Z] Pull main: finished. gk-log://duration?t=570
+[2022-02-11T05:31:40.075Z] Drop stash 9d927842eca3b5f9e2287dc1930d206f92e8d43f: started.
+[2022-02-11T05:31:43.092Z] Drop stash 9d927842eca3b5f9e2287dc1930d206f92e8d43f: finished. gk-log://duration?t=3017
+[2022-02-11T11:39:37.663Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-11T11:45:20.924Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-11T12:06:09.500Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-11T12:14:02.015Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-11T12:15:01.989Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-11T12:16:02.034Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-11T12:33:55.769Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-11T13:10:39.138Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-11T13:15:18.881Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-11T20:57:58.969Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-12T09:46:06.408Z] Stage 7 files for commit: started.
+[2022-02-12T09:46:06.536Z] Stage 7 files for commit: finished. gk-log://duration?t=128
+[2022-02-12T09:53:33.848Z] Stage 11 files for commit: started.
+[2022-02-12T09:53:34.114Z] Stage 11 files for commit: finished. gk-log://duration?t=266
+[2022-02-12T09:54:01.460Z] Create ref refs/heads/dev_2 at 3a530b3d1f00bf561ad3d7d8d9c4b87b162778a8: started.
+[2022-02-12T09:54:01.585Z] Checkout refs/heads/dev_2: started.
+[2022-02-12T09:54:01.957Z] Checkout refs/heads/dev_2: finished. gk-log://duration?t=371
+[2022-02-12T09:54:02.025Z] Create ref refs/heads/dev_2 at 3a530b3d1f00bf561ad3d7d8d9c4b87b162778a8: finished. gk-log://duration?t=565
+[2022-02-12T09:54:06.464Z] Push dev_2: started.
+[2022-02-12T09:54:11.655Z] Set upstream for refs/heads/dev_2: started.
+[2022-02-12T09:54:11.944Z] Set upstream for refs/heads/dev_2: finished. gk-log://duration?t=289
+[2022-02-12T09:54:13.131Z] Push dev_2: finished. gk-log://duration?t=6667
+[2022-02-12T09:55:21.485Z] Stage 11 files for commit: started.
+[2022-02-12T09:55:21.635Z] Stage 11 files for commit: finished. gk-log://duration?t=150
+[2022-02-12T09:55:23.503Z] Commit: started.
+[2022-02-12T09:55:23.569Z] pre-commit hook started.
+[2022-02-12T09:55:26.202Z] pre-commit hook finished. gk-log://duration?t=2633 gk-log://log-link?type=RAW_TEXT&file=repos%2FNPD_final-c4f16595%2Fhooks%2Fpre-commit%2F1644659723572.50897b47&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-commit
+[2022-02-12T09:55:26.615Z] Commit: successfully created commit 109de3475c1d47bf3102bb188653951b312f12b3
+[2022-02-12T09:55:26.617Z] Commit: finished gk-log://duration?t=3114
+[2022-02-12T09:55:28.727Z] Push dev_2: started.
+[2022-02-12T09:55:29.923Z] Push dev_2: finished. gk-log://duration?t=1196
+[2022-02-12T09:55:33.258Z] Checkout refs/heads/main: started.
+[2022-02-12T09:55:33.519Z] Checkout refs/heads/main: finished. gk-log://duration?t=261
+[2022-02-12T09:55:36.437Z] Checkout refs/heads/dev_2: started.
+[2022-02-12T09:55:36.693Z] Checkout refs/heads/dev_2: finished. gk-log://duration?t=256
+[2022-02-12T22:13:25.506Z] Stage 6 files for commit: started.
+[2022-02-12T22:13:25.707Z] Stage 6 files for commit: finished. gk-log://duration?t=201
+[2022-02-12T22:16:03.376Z] Commit: started.
+[2022-02-12T22:16:03.434Z] pre-commit hook started.
+[2022-02-12T22:16:05.698Z] pre-commit hook failed. gk-log://duration?t=2264 gk-log://log-link?type=RAW_TEXT&file=repos%2FNPD_final-c4f16595%2Fhooks%2Fpre-commit%2F1644704163436.a8e70fb2&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-commit
+[2022-02-12T22:16:05.727Z] {{{GK_MULTI_LINE}}}
+Commit: pre-commit Failed
+Git Hook exited with 1
+{{{/GK_MULTI_LINE}}}
+[2022-02-12T22:16:05.728Z] Commit: finished with errors. gk-log://duration?t=2352
+[2022-02-12T22:16:05.729Z] Commit: finished gk-log://duration?t=2353
+[2022-02-12T22:21:29.939Z] Stage 7 files for commit: started.
+[2022-02-12T22:21:30.042Z] Stage 7 files for commit: finished. gk-log://duration?t=103
+[2022-02-12T22:21:32.311Z] Commit: started.
+[2022-02-12T22:21:32.360Z] pre-commit hook started.
+[2022-02-12T22:21:33.984Z] pre-commit hook finished. gk-log://duration?t=1624 gk-log://log-link?type=RAW_TEXT&file=repos%2FNPD_final-c4f16595%2Fhooks%2Fpre-commit%2F1644704492362.587f2ad1&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-commit
+[2022-02-12T22:21:34.247Z] Commit: successfully created commit a87e1d9043684ccce47d5d5eb18e2f7dc7c0ebf8
+[2022-02-12T22:21:34.249Z] Commit: finished gk-log://duration?t=1938
+[2022-02-12T22:21:36.068Z] Push dev_2: started.
+[2022-02-12T22:21:37.416Z] Push dev_2: finished. gk-log://duration?t=1348
+[2022-02-12T22:23:01.278Z] Creating pull request on GitHub: started.
+[2022-02-12T22:23:03.162Z] Finished creating pull request
+[2022-02-12T22:25:12.610Z] Delete ref refs/remotes/origin/dev_2 at a87e1d9043684ccce47d5d5eb18e2f7dc7c0ebf8: started.
+[2022-02-12T22:25:13.691Z] Delete ref refs/remotes/origin/dev_2 at a87e1d9043684ccce47d5d5eb18e2f7dc7c0ebf8: finished. gk-log://duration?t=1081
+[2022-02-12T22:25:24.256Z] Checkout refs/remotes/origin/main: started.
+[2022-02-12T22:25:28.188Z] Checkout refs/remotes/origin/main: cancelled. gk-log://duration?t=3932
+[2022-02-12T22:25:31.343Z] Pull dev_2: started.
+[2022-02-12T22:25:34.612Z] Pull dev_2: cancelled. gk-log://duration?t=3269
+[2022-02-12T22:25:39.442Z] Pull main: started.
+[2022-02-12T22:25:39.463Z] Fetch remote origin: started
+[2022-02-12T22:25:39.909Z] Fetch remote origin: finished gk-log://duration?t=446
+[2022-02-12T22:25:40.004Z] Merge origin/main into main: started.
+[2022-02-12T22:25:40.021Z] Merge origin/main into main: finished. gk-log://duration?t=17
+[2022-02-12T22:25:40.033Z] Pull main: finished. gk-log://duration?t=591
+[2022-02-12T22:25:41.405Z] Checkout refs/heads/main: started.
+[2022-02-12T22:25:41.580Z] Checkout refs/heads/main: finished. gk-log://duration?t=175
+[2022-02-12T22:26:57.971Z] Create annotated tag refs/tags/Version1.0 at d9b4b2ce19fc79da7e2b6e58171150c553bcfbb6: started.
+[2022-02-12T22:27:00.605Z] Create annotated tag refs/tags/Version1.0 at d9b4b2ce19fc79da7e2b6e58171150c553bcfbb6: cancelled. gk-log://duration?t=2634
+[2022-02-12T22:27:14.422Z] Create annotated tag refs/tags/Version_1.0 at d9b4b2ce19fc79da7e2b6e58171150c553bcfbb6: started.
+[2022-02-12T22:27:25.417Z] Create annotated tag refs/tags/Version_1.0 at d9b4b2ce19fc79da7e2b6e58171150c553bcfbb6: finished. gk-log://duration?t=10995
+[2022-02-12T22:27:30.493Z] Push main: started.
+[2022-02-12T22:27:31.637Z] Push main: finished. gk-log://duration?t=1144
+[2022-02-14T10:57:14.297Z] Fetch remote origin: unexpected return value from ssl handshake -9806
+[2022-02-14T12:24:12.767Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-14T15:18:19.010Z] Stage 2 files for commit: started.
+[2022-02-14T15:18:19.274Z] Stage 2 files for commit: finished. gk-log://duration?t=264
+[2022-02-14T15:18:35.622Z] Stage 2 files for commit: started.
+[2022-02-14T15:18:35.696Z] Stage 2 files for commit: finished. gk-log://duration?t=74
+[2022-02-14T15:18:49.465Z] Commit: started.
+[2022-02-14T15:18:49.506Z] pre-commit hook started.
+[2022-02-14T15:18:51.379Z] pre-commit hook finished. gk-log://duration?t=1873 gk-log://log-link?type=RAW_TEXT&file=repos%2FNPD_final-c4f16595%2Fhooks%2Fpre-commit%2F1644851929507.e66c3dba&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-commit
+[2022-02-14T15:18:51.859Z] Commit: successfully created commit 9360e86f8fccc7def31e84a284f85f02e9dd9b68
+[2022-02-14T15:18:51.860Z] Commit: finished gk-log://duration?t=2395
+[2022-02-14T15:18:53.581Z] Push main: started.
+[2022-02-14T15:18:54.803Z] Push main: finished. gk-log://duration?t=1222
+[2022-02-14T15:19:05.603Z] Checkout refs/heads/dev: started.
+[2022-02-14T15:19:05.829Z] Checkout refs/heads/dev: finished. gk-log://duration?t=226
+[2022-02-14T15:19:53.465Z] Merge main into dev: started.
+[2022-02-14T15:19:53.564Z] Merge main into dev: finished. gk-log://duration?t=99
+[2022-02-14T15:20:13.654Z] Push dev: started.
+[2022-02-14T15:20:14.813Z] Push dev: finished. gk-log://duration?t=1159
+[2022-02-14T15:20:34.088Z] Delete ref refs/heads/dev_2 at a87e1d9043684ccce47d5d5eb18e2f7dc7c0ebf8: started.
+[2022-02-14T15:20:34.164Z] Delete ref refs/heads/dev_2 at a87e1d9043684ccce47d5d5eb18e2f7dc7c0ebf8: finished. gk-log://duration?t=76
+[2022-02-14T15:20:37.587Z] Push dev: started.
+[2022-02-14T15:20:38.708Z] Push dev: finished. gk-log://duration?t=1121
+[2022-02-14T17:08:40.361Z] Stage Driver.ipynb for commit: started.
+[2022-02-14T17:08:40.684Z] Stage Driver.ipynb for commit: finished. gk-log://duration?t=323
+[2022-02-14T17:08:42.623Z] Stage taxes/taxes/visualize.py for commit: started.
+[2022-02-14T17:08:42.677Z] Stage taxes/taxes/visualize.py for commit: finished. gk-log://duration?t=54
+[2022-02-14T17:09:20.024Z] Commit: started.
+[2022-02-14T17:09:20.098Z] pre-commit hook started.
+[2022-02-14T17:09:21.831Z] pre-commit hook failed. gk-log://duration?t=1733 gk-log://log-link?type=RAW_TEXT&file=repos%2FNPD_final-c4f16595%2Fhooks%2Fpre-commit%2F1644858560100.a848f5ea&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-commit
+[2022-02-14T17:09:21.857Z] {{{GK_MULTI_LINE}}}
+Commit: pre-commit Failed
+Git Hook exited with 1
+{{{/GK_MULTI_LINE}}}
+[2022-02-14T17:09:21.858Z] Commit: finished with errors. gk-log://duration?t=1834
+[2022-02-14T17:09:21.859Z] Commit: finished gk-log://duration?t=1835
+[2022-02-14T17:09:30.348Z] Commit: started.
+[2022-02-14T17:09:30.398Z] pre-commit hook started.
+[2022-02-14T17:09:32.078Z] pre-commit hook failed. gk-log://duration?t=1680 gk-log://log-link?type=RAW_TEXT&file=repos%2FNPD_final-c4f16595%2Fhooks%2Fpre-commit%2F1644858570399.94e23083&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-commit
+[2022-02-14T17:09:32.097Z] {{{GK_MULTI_LINE}}}
+Commit: pre-commit Failed
+Git Hook exited with 1
+{{{/GK_MULTI_LINE}}}
+[2022-02-14T17:09:32.098Z] Commit: finished with errors. gk-log://duration?t=1750
+[2022-02-14T17:09:32.099Z] Commit: finished gk-log://duration?t=1751
+[2022-02-14T17:09:48.756Z] Stage 2 files for commit: started.
+[2022-02-14T17:09:48.896Z] Stage 2 files for commit: finished. gk-log://duration?t=140
+[2022-02-14T17:09:49.697Z] Commit: started.
+[2022-02-14T17:09:49.739Z] pre-commit hook started.
+[2022-02-14T17:09:51.262Z] pre-commit hook finished. gk-log://duration?t=1523 gk-log://log-link?type=RAW_TEXT&file=repos%2FNPD_final-c4f16595%2Fhooks%2Fpre-commit%2F1644858589741.32e81e0a&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-commit
+[2022-02-14T17:09:51.507Z] Commit: successfully created commit a12f511805142ffd324527563b901174e1870b94
+[2022-02-14T17:09:51.508Z] Commit: finished gk-log://duration?t=1811
+[2022-02-14T17:09:53.339Z] Push dev: started.
+[2022-02-14T17:09:54.943Z] Push dev: finished. gk-log://duration?t=1604
+[2022-02-14T17:58:04.464Z] Stage 2 files for commit: started.
+[2022-02-14T17:58:04.790Z] Stage 2 files for commit: finished. gk-log://duration?t=326
+[2022-02-14T17:58:11.598Z] Commit: started.
+[2022-02-14T17:58:11.682Z] pre-commit hook started.
+[2022-02-14T17:58:13.271Z] pre-commit hook finished. gk-log://duration?t=1589 gk-log://log-link?type=RAW_TEXT&file=repos%2FNPD_final-c4f16595%2Fhooks%2Fpre-commit%2F1644861491684.3ca9468a&linktext=View%20hook%20log&loglabel=Hook%3A%20pre-commit
+[2022-02-14T17:58:13.664Z] Commit: successfully created commit 11a649bff885db09811ee7ee849b14c348ab596d
+[2022-02-14T17:58:13.665Z] Commit: finished gk-log://duration?t=2067
+[2022-02-14T17:58:16.035Z] Push dev: started.
+[2022-02-14T17:58:17.560Z] Push dev: finished. gk-log://duration?t=1525
+[2022-02-14T17:58:30.907Z] Creating pull request on GitHub: started.
+[2022-02-14T17:58:32.058Z] Finished creating pull request
+[2022-02-14T17:58:44.000Z] Push dev: started.
+[2022-02-14T17:58:44.909Z] Push dev: finished. gk-log://duration?t=909
+[2022-02-14T17:58:46.123Z] Checkout refs/remotes/origin/main: started.
+[2022-02-14T17:58:47.950Z] Checkout refs/remotes/origin/main: cancelled. gk-log://duration?t=1827
+[2022-02-14T17:58:50.582Z] Checkout refs/heads/main: started.
+[2022-02-14T17:58:50.741Z] Checkout refs/heads/main: finished. gk-log://duration?t=159
+[2022-02-14T17:58:52.508Z] Pull main: started.
+[2022-02-14T17:58:52.522Z] Fetch remote origin: started
+[2022-02-14T17:58:52.955Z] Fetch remote origin: finished gk-log://duration?t=433
+[2022-02-14T17:58:53.056Z] Merge origin/main into main: started.
+[2022-02-14T17:58:53.089Z] Merge origin/main into main: finished. gk-log://duration?t=33
+[2022-02-14T17:58:53.104Z] Pull main: finished. gk-log://duration?t=596
+[2022-02-15T14:41:00.920Z] Fetch remote origin: error sending data: Broken pipe
+[2022-02-15T19:00:26.838Z] Fetch remote origin: failed to connect to github.com: Connection refused
+[2022-02-15T19:01:25.732Z] Fetch remote origin: failed to connect to github.com: Connection refused
+[2022-02-15T19:02:25.704Z] Fetch remote origin: failed to connect to github.com: Connection refused
+[2022-02-15T19:10:25.530Z] Fetch remote origin: failed to connect to github.com: Connection refused
+[2022-02-15T19:11:25.563Z] Fetch remote origin: failed to connect to github.com: Connection refused
+[2022-02-15T19:12:25.553Z] Fetch remote origin: failed to connect to github.com: Connection refused
+[2022-02-15T19:29:28.511Z] Fetch remote origin: failed to connect to github.com: Connection refused
+[2022-02-15T19:30:28.515Z] Fetch remote origin: failed to connect to github.com: Connection refused
+[2022-02-15T19:45:08.617Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-02-16T06:17:14.135Z] Fetch remote origin: error sending data: Broken pipe
+[2022-02-17T00:46:20.287Z] Fetch remote origin: error sending data: Broken pipe
+[2022-03-18T00:45:38.439Z] Fetch remote origin: error sending data: Broken pipe
+[2022-03-18T07:12:36.048Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-18T07:30:59.649Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-18T09:02:55.165Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-18T09:28:33.893Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-18T09:29:45.436Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known

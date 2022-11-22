@@ -1,0 +1,170 @@
+[2022-03-02T14:43:15.931Z] Adding remote (origin): https://github.com/K4cp3rski/Metody_Numeryczne.git: started.
+[2022-03-02T14:43:16.008Z] Fetch remote origin: started
+[2022-03-02T14:43:16.391Z] Fetch remote origin: finished gk-log://duration?t=383
+[2022-03-02T14:43:16.545Z] Adding remote (origin): https://github.com/K4cp3rski/Metody_Numeryczne.git: finished. gk-log://duration?t=614
+[2022-03-02T16:11:22.556Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-02T16:26:39.105Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-09T08:04:37.295Z] Create ref refs/heads/dev at 1cb3be25841bcbad2a5fb4432592f17670030bfa: started.
+[2022-03-09T08:04:37.344Z] Checkout refs/heads/dev: started.
+[2022-03-09T08:04:37.507Z] Checkout refs/heads/dev: finished. gk-log://duration?t=163
+[2022-03-09T08:04:37.536Z] Create ref refs/heads/dev at 1cb3be25841bcbad2a5fb4432592f17670030bfa: finished. gk-log://duration?t=241
+[2022-03-09T08:04:39.382Z] Push dev: started.
+[2022-03-09T08:04:41.031Z] Set upstream for refs/heads/dev: started.
+[2022-03-09T08:04:41.145Z] Set upstream for refs/heads/dev: finished. gk-log://duration?t=114
+[2022-03-09T08:04:42.121Z] Push dev: finished. gk-log://duration?t=2739
+[2022-03-09T08:04:46.182Z] Stage 30 files for commit: started.
+[2022-03-09T08:04:46.788Z] Stage 30 files for commit: finished. gk-log://duration?t=606
+[2022-03-09T08:05:15.747Z] Commit: started.
+[2022-03-09T08:05:15.886Z] Commit: successfully created commit 5bfda4826022827e4e9139e2e198b7b5248cf29e
+[2022-03-09T08:05:15.887Z] Commit: finished gk-log://duration?t=140
+[2022-03-09T08:05:18.945Z] Push dev: started.
+[2022-03-09T08:05:24.050Z] Push dev: finished. gk-log://duration?t=5105
+[2022-03-09T08:05:46.799Z] Checkout refs/heads/main: started.
+[2022-03-09T08:05:46.949Z] Checkout refs/heads/main: finished. gk-log://duration?t=150
+[2022-03-09T08:06:05.202Z] Checkout refs/heads/dev: started.
+[2022-03-09T08:06:05.730Z] Checkout refs/heads/dev: finished. gk-log://duration?t=528
+[2022-03-09T08:08:04.783Z] Ignore cw_02.03.2022/.idea: started.
+[2022-03-09T08:08:08.171Z] Ignore cw_02.03.2022/.idea: finished. gk-log://duration?t=3388
+[2022-03-09T08:08:12.778Z] Ignore cw_02.03.2022/cmake-build-debug: started.
+[2022-03-09T08:08:14.347Z] Ignore cw_02.03.2022/cmake-build-debug: finished. gk-log://duration?t=1569
+[2022-03-09T08:09:54.571Z] Stage 29 files for commit: started.
+[2022-03-09T08:09:54.621Z] Stage 29 files for commit: finished. gk-log://duration?t=50
+[2022-03-09T08:10:03.854Z] Unstage .DS_Store: started.
+[2022-03-09T08:10:04.111Z] Unstage .DS_Store: finished. gk-log://duration?t=257
+[2022-03-09T08:10:17.510Z] Commit: started.
+[2022-03-09T08:10:17.758Z] Commit: successfully created commit 934e9450b350065b11d46da541f15c02dbe3919c
+[2022-03-09T08:10:17.759Z] Commit: finished gk-log://duration?t=249
+[2022-03-09T08:10:19.938Z] Push dev: started.
+[2022-03-09T08:10:21.151Z] Push dev: finished. gk-log://duration?t=1213
+[2022-03-09T08:11:30.857Z] Creating pull request on GitHub: started.
+[2022-03-09T08:11:32.068Z] Finished creating pull request
+[2022-03-09T08:19:49.699Z] Pull dev: started.
+[2022-03-09T08:19:49.710Z] Fetch remote origin: started
+[2022-03-09T08:19:50.125Z] Fetch remote origin: finished gk-log://duration?t=415
+[2022-03-09T08:19:50.183Z] Merge origin/dev into dev: started.
+[2022-03-09T08:19:50.190Z] Merge origin/dev into dev: finished. gk-log://duration?t=7
+[2022-03-09T08:19:50.199Z] Pull dev: finished. gk-log://duration?t=500
+[2022-03-09T08:19:53.633Z] Checkout refs/heads/main: started.
+[2022-03-09T08:19:53.775Z] Checkout refs/heads/main: finished. gk-log://duration?t=142
+[2022-03-09T08:19:55.196Z] Pull main: started.
+[2022-03-09T08:19:57.334Z] Set upstream for refs/heads/main: started.
+[2022-03-09T08:19:57.407Z] Set upstream for refs/heads/main: finished. gk-log://duration?t=72
+[2022-03-09T08:19:57.413Z] Fetch remote origin: started
+[2022-03-09T08:19:57.788Z] Fetch remote origin: finished gk-log://duration?t=375
+[2022-03-09T08:19:57.845Z] Merge origin/main into main: started.
+[2022-03-09T08:19:57.858Z] Auto-stash uncommitted changes: started.
+[2022-03-09T08:19:57.873Z] Stage 72 files for stash: started.
+[2022-03-09T08:19:59.862Z] Stage 72 files for stash: finished. gk-log://duration?t=1989
+[2022-03-09T08:20:00.620Z] Auto-stash uncommitted changes: finished. Stash sha: undefined gk-log://duration?t=2762
+[2022-03-09T08:20:00.643Z] Pop most recent stash: started.
+[2022-03-09T08:20:00.655Z] Pop most recent stash: Could not find stash
+[2022-03-09T08:20:00.656Z] Pop most recent stash: finished with errors. gk-log://duration?t=13
+[2022-03-09T08:20:01.369Z] Merge origin/main into main: Could not find stash
+[2022-03-09T08:20:01.370Z] Merge origin/main into main: finished with errors. gk-log://duration?t=3525
+[2022-03-09T08:20:01.372Z] Pull main: Could not find stash
+[2022-03-09T08:20:01.372Z] Pull main: finished with errors. gk-log://duration?t=6176
+[2022-03-09T08:20:44.666Z] Reset (hard) refs/heads/main to 23ba5a11afb9ea2ffab757ba48d1cb03af8d4691: started.
+[2022-03-09T08:20:45.114Z] Reset (hard) refs/heads/main to 23ba5a11afb9ea2ffab757ba48d1cb03af8d4691: finished. gk-log://duration?t=448
+[2022-03-09T08:20:45.115Z] Update all submodules: started.
+[2022-03-09T08:20:45.123Z] Update all submodules: finished. gk-log://duration?t=8
+[2022-03-09T08:20:47.481Z] Push main: started.
+[2022-03-09T08:20:50.515Z] Pull main: started.
+[2022-03-09T08:20:50.524Z] Fetch remote origin: started
+[2022-03-09T08:20:50.906Z] Fetch remote origin: finished gk-log://duration?t=382
+[2022-03-09T08:20:50.964Z] Merge origin/main into main: started.
+[2022-03-09T08:20:50.972Z] Auto-stash uncommitted changes: started.
+[2022-03-09T08:20:50.986Z] Stage .DS_Store for stash: started.
+[2022-03-09T08:20:51.024Z] Stage .DS_Store for stash: finished. gk-log://duration?t=38
+[2022-03-09T08:20:51.128Z] Auto-stash uncommitted changes: finished. Stash sha: 769cb7430f3d64cfe7e8ae6d454b2e2b3d23d90c gk-log://duration?t=156
+[2022-03-09T08:20:51.136Z] Pop most recent stash: started.
+[2022-03-09T08:20:51.177Z] Pop stash 769cb7430f3d64cfe7e8ae6d454b2e2b3d23d90c: finished. gk-log://duration?t=40
+[2022-03-09T08:20:51.247Z] Merge origin/main into main: finished. gk-log://duration?t=283
+[2022-03-09T08:20:51.260Z] Pull main: finished. gk-log://duration?t=744
+[2022-03-09T08:20:52.204Z] Push main: finished. gk-log://duration?t=4723
+[2022-03-09T08:21:05.202Z] Reset (hard) refs/heads/main to 23ba5a11afb9ea2ffab757ba48d1cb03af8d4691: started.
+[2022-03-09T08:21:05.246Z] Reset (hard) refs/heads/main to 23ba5a11afb9ea2ffab757ba48d1cb03af8d4691: finished. gk-log://duration?t=44
+[2022-03-09T08:21:07.562Z] Push main: started.
+[2022-03-09T08:21:09.231Z] Pull main: started.
+[2022-03-09T08:21:09.241Z] Fetch remote origin: started
+[2022-03-09T08:21:09.628Z] Fetch remote origin: finished gk-log://duration?t=387
+[2022-03-09T08:21:09.689Z] Merge origin/main into main: started.
+[2022-03-09T08:21:09.697Z] Auto-stash uncommitted changes: started.
+[2022-03-09T08:21:09.714Z] Stage .DS_Store for stash: started.
+[2022-03-09T08:21:09.752Z] Stage .DS_Store for stash: finished. gk-log://duration?t=38
+[2022-03-09T08:21:09.851Z] Auto-stash uncommitted changes: finished. Stash sha: 544a5c01e36bc205c17b4999a389d156803b4d16 gk-log://duration?t=153
+[2022-03-09T08:21:09.899Z] Pop most recent stash: started.
+[2022-03-09T08:21:09.926Z] Pop stash 544a5c01e36bc205c17b4999a389d156803b4d16: finished. gk-log://duration?t=27
+[2022-03-09T08:21:10.007Z] Merge origin/main into main: finished. gk-log://duration?t=318
+[2022-03-09T08:21:10.020Z] Pull main: finished. gk-log://duration?t=789
+[2022-03-09T08:21:10.940Z] Push main: finished. gk-log://duration?t=3378
+[2022-03-09T08:21:16.814Z] Reset (hard) refs/heads/main to 23ba5a11afb9ea2ffab757ba48d1cb03af8d4691: started.
+[2022-03-09T08:21:16.872Z] Reset (hard) refs/heads/main to 23ba5a11afb9ea2ffab757ba48d1cb03af8d4691: finished. gk-log://duration?t=58
+[2022-03-09T08:21:19.022Z] Push main: started.
+[2022-03-09T08:21:27.305Z] Push main: finished. gk-log://duration?t=8283
+[2022-03-09T08:21:42.231Z] Revert 716355a144c943a885d636ef4069901d0369e593 onto refs/heads/main: started.
+[2022-03-09T08:21:42.244Z] Auto-stash uncommitted changes: started.
+[2022-03-09T08:21:42.266Z] Stage .DS_Store for stash: started.
+[2022-03-09T08:21:42.310Z] Stage .DS_Store for stash: finished. gk-log://duration?t=44
+[2022-03-09T08:21:42.411Z] Auto-stash uncommitted changes: finished. Stash sha: 5c2dbf44a0a03f7ccd95c5d4bdd8fc58c465fb3d gk-log://duration?t=167
+[2022-03-09T08:21:42.438Z] Pop most recent stash: started.
+[2022-03-09T08:21:42.469Z] Pop stash 5c2dbf44a0a03f7ccd95c5d4bdd8fc58c465fb3d: finished. gk-log://duration?t=30
+[2022-03-09T08:21:42.549Z] Revert 716355a144c943a885d636ef4069901d0369e593 onto refs/heads/main: finished. gk-log://duration?t=318
+[2022-03-09T08:21:51.269Z] Reset (hard) refs/heads/main to 23ba5a11afb9ea2ffab757ba48d1cb03af8d4691: started.
+[2022-03-09T08:21:51.311Z] Reset (hard) refs/heads/main to 23ba5a11afb9ea2ffab757ba48d1cb03af8d4691: finished. gk-log://duration?t=42
+[2022-03-09T08:21:53.933Z] Checkout refs/remotes/origin/K4cp3rski-CI-cpp: started.
+[2022-03-09T08:21:53.963Z] Create ref refs/heads/K4cp3rski-CI-cpp at 716355a144c943a885d636ef4069901d0369e593: started.
+[2022-03-09T08:21:54.020Z] Create ref refs/heads/K4cp3rski-CI-cpp at 716355a144c943a885d636ef4069901d0369e593: finished. gk-log://duration?t=57
+[2022-03-09T08:21:54.147Z] Checkout refs/remotes/origin/K4cp3rski-CI-cpp: finished. gk-log://duration?t=214
+[2022-03-09T08:21:58.842Z] Auto-stash uncommitted changes: started.
+[2022-03-09T08:21:58.863Z] Stage .DS_Store for stash: started.
+[2022-03-09T08:21:58.918Z] Stage .DS_Store for stash: finished. gk-log://duration?t=55
+[2022-03-09T08:21:59.002Z] Auto-stash uncommitted changes: finished. Stash sha: 56b5c02274feeb0ce061c3a5901244ad1cc0140c gk-log://duration?t=160
+[2022-03-09T08:21:59.007Z] Rebase (drop commits): started.
+[2022-03-09T08:21:59.008Z] Reset (hard) refs/heads/K4cp3rski-CI-cpp to 23ba5a11afb9ea2ffab757ba48d1cb03af8d4691: started.
+[2022-03-09T08:21:59.045Z] Reset (hard) refs/heads/K4cp3rski-CI-cpp to 23ba5a11afb9ea2ffab757ba48d1cb03af8d4691: finished. gk-log://duration?t=37
+[2022-03-09T08:21:59.046Z] Rebase (drop commits): finished. gk-log://duration?t=39
+[2022-03-09T08:21:59.052Z] Pop most recent stash: started.
+[2022-03-09T08:21:59.096Z] Pop stash 56b5c02274feeb0ce061c3a5901244ad1cc0140c: finished. gk-log://duration?t=44
+[2022-03-09T08:22:05.711Z] Push K4cp3rski-CI-cpp: started.
+[2022-03-09T08:22:10.371Z] Push K4cp3rski-CI-cpp: finished. gk-log://duration?t=4660
+[2022-03-09T08:22:29.179Z] Checkout refs/heads/main: started.
+[2022-03-09T08:22:29.340Z] Checkout refs/heads/main: finished. gk-log://duration?t=161
+[2022-03-09T08:22:35.166Z] Delete ref refs/heads/K4cp3rski-CI-cpp at 23ba5a11afb9ea2ffab757ba48d1cb03af8d4691: started.
+[2022-03-09T08:22:35.213Z] Delete ref refs/heads/K4cp3rski-CI-cpp at 23ba5a11afb9ea2ffab757ba48d1cb03af8d4691: finished. gk-log://duration?t=47
+[2022-03-09T08:22:40.794Z] Push main: started.
+[2022-03-09T08:22:41.790Z] Push main: finished. gk-log://duration?t=996
+[2022-03-09T08:22:44.601Z] Checkout refs/remotes/origin/K4cp3rski-CI-cpp: started.
+[2022-03-09T08:22:44.630Z] Create ref refs/heads/K4cp3rski-CI-cpp at 23ba5a11afb9ea2ffab757ba48d1cb03af8d4691: started.
+[2022-03-09T08:22:44.686Z] Create ref refs/heads/K4cp3rski-CI-cpp at 23ba5a11afb9ea2ffab757ba48d1cb03af8d4691: finished. gk-log://duration?t=56
+[2022-03-09T08:22:44.817Z] Checkout refs/remotes/origin/K4cp3rski-CI-cpp: finished. gk-log://duration?t=216
+[2022-03-09T08:22:49.804Z] Checkout refs/heads/main: started.
+[2022-03-09T08:22:49.908Z] Checkout refs/heads/main: finished. gk-log://duration?t=104
+[2022-03-09T08:22:53.466Z] Delete ref refs/heads/K4cp3rski-CI-cpp at 23ba5a11afb9ea2ffab757ba48d1cb03af8d4691: started.
+[2022-03-09T08:22:53.503Z] Delete ref refs/heads/K4cp3rski-CI-cpp at 23ba5a11afb9ea2ffab757ba48d1cb03af8d4691: finished. gk-log://duration?t=37
+[2022-03-09T08:22:59.353Z] Delete ref refs/remotes/origin/K4cp3rski-CI-cpp at 23ba5a11afb9ea2ffab757ba48d1cb03af8d4691: started.
+[2022-03-09T08:23:00.400Z] Delete ref refs/remotes/origin/K4cp3rski-CI-cpp at 23ba5a11afb9ea2ffab757ba48d1cb03af8d4691: finished. gk-log://duration?t=1047
+[2022-03-09T08:26:02.735Z] Pull main: started.
+[2022-03-09T08:26:02.744Z] Fetch remote origin: started
+[2022-03-09T08:26:03.299Z] Fetch remote origin: finished gk-log://duration?t=555
+[2022-03-09T08:26:03.380Z] Merge origin/main into main: started.
+[2022-03-09T08:26:03.401Z] Auto-stash uncommitted changes: started.
+[2022-03-09T08:26:03.416Z] Stage .DS_Store for stash: started.
+[2022-03-09T08:26:03.446Z] Stage .DS_Store for stash: finished. gk-log://duration?t=30
+[2022-03-09T08:26:03.546Z] Auto-stash uncommitted changes: finished. Stash sha: e9f66bde0c90e2c90df3b921e52ffca65bcf03c9 gk-log://duration?t=145
+[2022-03-09T08:26:03.608Z] Pop most recent stash: started.
+[2022-03-09T08:26:03.630Z] Pop stash e9f66bde0c90e2c90df3b921e52ffca65bcf03c9: finished. gk-log://duration?t=22
+[2022-03-09T08:26:03.710Z] Merge origin/main into main: finished. gk-log://duration?t=330
+[2022-03-09T08:26:03.721Z] Pull main: finished. gk-log://duration?t=986
+[2022-03-09T08:26:11.620Z] Reset (hard) refs/heads/main to 23ba5a11afb9ea2ffab757ba48d1cb03af8d4691: started.
+[2022-03-09T08:26:11.672Z] Reset (hard) refs/heads/main to 23ba5a11afb9ea2ffab757ba48d1cb03af8d4691: finished. gk-log://duration?t=52
+[2022-03-09T08:26:13.378Z] Push main: started.
+[2022-03-09T08:26:19.629Z] Push main: finished. gk-log://duration?t=6251
+[2022-03-09T08:26:27.967Z] Delete ref refs/remotes/origin/K4cp3rski-CI-cmake at 41d412503d62833c690333ff294b7bfbd04341ad: started.
+[2022-03-09T08:26:28.979Z] Delete ref refs/remotes/origin/K4cp3rski-CI-cmake at 41d412503d62833c690333ff294b7bfbd04341ad: finished. gk-log://duration?t=1012
+[2022-03-09T09:00:12.632Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-16T15:57:40.142Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-16T16:23:33.724Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-16T16:55:45.529Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-16T18:35:04.446Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-16T19:44:06.452Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-16T21:08:22.049Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known

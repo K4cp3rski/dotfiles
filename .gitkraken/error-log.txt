@@ -1,0 +1,10 @@
+[Tue Sep 13 2022 00:05:46 GMT+0200 (czas środkowoeuropejski letni)] Push Failed: main: Push failed on refs/heads/main: pre-receive hook declined
+[Tue Sep 13 2022 00:11:30 GMT+0200 (czas środkowoeuropejski letni)] Push Failed: main: Push failed on refs/heads/main: pre-receive hook declined
+[Tue Sep 13 2022 00:15:01 GMT+0200 (czas środkowoeuropejski letni)] Push Failed: main: Push failed on refs/heads/main: pre-receive hook declined
+[Fri Oct 21 2022 15:44:39 GMT+0200 (czas środkowoeuropejski letni)] Clone Failed: /Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Bazy Danych '/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Bazy Danych' exists and is not an empty directory
+[Fri Oct 21 2022 15:45:32 GMT+0200 (czas środkowoeuropejski letni)] GitLab integration failed to initialize: too many requests
+[Thu Oct 27 2022 14:37:35 GMT+0200 (czas środkowoeuropejski letni)] Clone Failed: /Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/ICFO_Hubbard '/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/ICFO_Hubbard' exists and is not an empty directory
+[Thu Oct 27 2022 14:38:22 GMT+0200 (czas środkowoeuropejski letni)] Clone Failed: /Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/ICFO_Hubbard '/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/ICFO_Hubbard' exists and is not an empty directory
+[Thu Oct 27 2022 14:57:03 GMT+0200 (czas środkowoeuropejski letni)] Push Failed: CNN_dev: Secure Transport Error for origin: this might indicate you're attempting to push too many files at once.
+[Thu Oct 27 2022 14:57:32 GMT+0200 (czas środkowoeuropejski letni)] Push Failed: CNN_dev: Secure Transport Error for origin: this might indicate you're attempting to push too many files at once.
+[Sat Nov 05 2022 16:01:19 GMT+0100 (czas środkowoeuropejski standardowy)] Undo Failed: 3 conflicts prevent checkout

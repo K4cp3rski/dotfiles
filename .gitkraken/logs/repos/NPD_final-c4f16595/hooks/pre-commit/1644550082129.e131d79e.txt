@@ -1,0 +1,47 @@
+black....................................................................Failed
+- hook id: black
+- files were modified by this hook
+
+reformatted /Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/NPD_Final/NPD_final/taxes/tests/test_preprocessing.py
+reformatted /Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/NPD_Final/NPD_final/taxes/taxes/preprocessing.py
+All done! ✨ 🍰 ✨
+2 files reformatted, 1 file left unchanged.
+
+flake8...................................................................Failed
+- hook id: flake8
+- exit code: 1
+
+taxes/taxes/preprocessing.py:1:80: E501 line too long (86 > 79 characters)
+taxes/taxes/preprocessing.py:4:1: F401 'colorama.Back' imported but unused
+taxes/taxes/preprocessing.py:76:80: E501 line too long (83 > 79 characters)
+taxes/tests/test_preprocessing.py:5:1: F401 'taxes.preprocessing.dload_to_df_list' imported but unused
+taxes/tests/test_preprocessing.py:12:80: E501 line too long (88 > 79 characters)
+taxes/tests/test_preprocessing.py:18:80: E501 line too long (81 > 79 characters)
+taxes/tests/test_preprocessing.py:19:80: E501 line too long (81 > 79 characters)
+taxes/tests/test_preprocessing.py:20:80: E501 line too long (81 > 79 characters)
+taxes/tests/test_preprocessing.py:21:80: E501 line too long (81 > 79 characters)
+taxes/tests/test_preprocessing.py:22:80: E501 line too long (81 > 79 characters)
+taxes/tests/test_preprocessing.py:34:80: E501 line too long (81 > 79 characters)
+taxes/tests/test_preprocessing.py:35:80: E501 line too long (81 > 79 characters)
+taxes/tests/test_preprocessing.py:36:80: E501 line too long (81 > 79 characters)
+taxes/tests/test_preprocessing.py:37:80: E501 line too long (81 > 79 characters)
+taxes/tests/test_preprocessing.py:38:80: E501 line too long (81 > 79 characters)
+
+Check JSON...........................................(no files to check)Skipped
+Check Yaml...........................................(no files to check)Skipped
+Check for merge conflicts................................................Passed
+Fix End of Files.........................................................Passed
+Trim Trailing Whitespace.................................................Passed
+Debug Statements (Python)................................................Passed
+Mixed line ending........................................................Passed
+setup-cfg-fmt........................................(no files to check)Skipped
+pyupgrade................................................................Passed
+rst ``code`` is two backticks........................(no files to check)Skipped
+isort....................................................................Failed
+- hook id: isort
+- files were modified by this hook
+
+Fixing /Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/NPD_Final/NPD_final/taxes/taxes/preprocessing.py
+Fixing /Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/NPD_Final/NPD_final/taxes/tests/test_preprocessing.py
+
+Hook process exited.

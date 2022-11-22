@@ -1,0 +1,31 @@
+black....................................................................Failed
+- hook id: black
+- files were modified by this hook
+
+reformatted taxes/taxes/analyze.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted, 2 files left unchanged.
+
+flake8...................................................................Failed
+- hook id: flake8
+- exit code: 1
+
+ipython_cell_input.py:1:14: F821 undefined name 'get_med_income_gminy'
+ipython_cell_input.py:1:35: F821 undefined name 'df_dict'
+ipython_cell_input.py:1:44: F821 undefined name 'stats_out'
+taxes/taxes/analyze.py:4:1: F401 'colorama.Fore' imported but unused
+taxes/taxes/analyze.py:4:1: F401 'colorama.Style' imported but unused
+
+Check JSON...........................................(no files to check)Skipped
+Check Yaml...........................................(no files to check)Skipped
+Check for merge conflicts................................................Passed
+Fix End of Files.........................................................Passed
+Trim Trailing Whitespace.................................................Passed
+Debug Statements (Python)................................................Passed
+Mixed line ending........................................................Passed
+setup-cfg-fmt........................................(no files to check)Skipped
+pyupgrade................................................................Passed
+rst ``code`` is two backticks........................(no files to check)Skipped
+isort....................................................................Passed
+Hook process exited.

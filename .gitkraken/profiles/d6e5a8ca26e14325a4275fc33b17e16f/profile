@@ -1,0 +1,230 @@
+{
+  "tabInfo": {
+    "permanentTabs": {
+      "PROJECTS": {
+        "selectedProject": null,
+        "closed": false
+      }
+    },
+    "selectedTabId": "be666772-a10f-4cf4-947a-591734239ed7",
+    "tabs": [
+      {
+        "id": "49af7096-1380-4785-8bae-1d865932ba9d",
+        "type": "REPO",
+        "repoName": "Physics_Simulations",
+        "repoPath": "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Physics_Simulations/"
+      },
+      {
+        "id": "59d2bde7-3c3b-4a82-aca5-4ae42b6c0318",
+        "type": "REPO",
+        "repoName": "Termodynamika_R",
+        "repoPath": "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Termodynamika_R/"
+      },
+      {
+        "id": "543ed631-e21e-4956-b79f-3322430c2cc7",
+        "type": "REPO",
+        "repoName": "Topo_ML",
+        "repoPath": "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Topo_ML/"
+      },
+      {
+        "id": "85691e78-a862-4c94-8c9d-160b4bae5f98",
+        "type": "REPO",
+        "repoName": "Mech_Kwant",
+        "repoPath": "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Mech_Kwant/"
+      },
+      {
+        "id": "02b8a1ae-86b9-4acd-b12f-89803de5d045",
+        "type": "REPO",
+        "repoName": "Topo_SSH",
+        "repoPath": "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Topo_SSH/Topo_SSH/"
+      },
+      {
+        "id": "cf63bbf2-cdae-4c75-b4e8-51b7c7b296a8",
+        "type": "REPO",
+        "repoName": "Hydrodynamics",
+        "repoPath": "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Hydrodynamics/"
+      },
+      {
+        "id": "eea89ac3-1dd4-45f7-b707-c8dcac591fc3",
+        "type": "REPO",
+        "repoName": "ICFO_Hubbard",
+        "repoPath": "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/ICFO_Hubbard/"
+      },
+      {
+        "id": "9c01efb2-f53a-467f-94cd-d4c232d6476a",
+        "type": "REPO",
+        "repoName": "UPC_2022",
+        "repoPath": "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/UPC_2022/"
+      },
+      {
+        "id": "12efa55b-7036-4c1c-90a7-7d4df2cb59a3",
+        "type": "RELEASE_NOTES"
+      },
+      {
+        "id": "be666772-a10f-4cf4-947a-591734239ed7",
+        "type": "NEW"
+      }
+    ]
+  },
+  "profileIcon": "Sir-Keif.png",
+  "profileName": "K4cp3rskii",
+  "userEmail": "k.cybinski@student.uw.edu.pl",
+  "userName": "K4cp3rskii",
+  "gpg": {
+    "commitGpgSign": false,
+    "tagForceSignAnnotated": false
+  },
+  "editor": {
+    "fontFamily": "Monaco"
+  },
+  "cli": {
+    "fontFamily": "Monaco"
+  },
+  "organizationId": null,
+  "fileNodeList": {
+    "viewMode": "tree_view"
+  },
+  "ssh": {
+    "useLocalAgent": false,
+    "privateKey": "/Users/k4cp3rskiii/.ssh/gitlab_pub",
+    "appVersion": "8.1.1",
+    "generated": false,
+    "publicKey": "/Users/k4cp3rskiii/.ssh/gitlab_pub.pub"
+  },
+  "defaultIssueTrackerType": "github",
+  "issues": {
+    "gitlab": {
+      "filtersByProjectId": {
+        "K4cp3rski/enigma_at_home": [
+          {
+            "id": "b0e7fc2b-2bd7-4a64-bd74-008acad19d18",
+            "text": "state:opened",
+            "name": "All Issues"
+          },
+          {
+            "id": "774b3c78-52ce-4151-a124-c4e69c168cea",
+            "text": "assignee:K4cp3rski state:opened",
+            "name": "My Issues"
+          }
+        ]
+      }
+    },
+    "github": {
+      "filtersByRemoteName": {
+        "k4cp3rski/topo_ssh": [
+          {
+            "id": "33295073-fdd4-452c-ab74-715c0fd31cc8",
+            "text": "state:open",
+            "name": "All Open Issues"
+          },
+          {
+            "id": "e940599a-5ba9-4aeb-8876-1dec871b075d",
+            "text": "assignee:K4cp3rski state:open",
+            "name": "My Open Issues"
+          }
+        ],
+        "k4cp3rski/icfo_hubbard": [
+          {
+            "id": "67862cb5-5d1b-4600-a190-255521346c08",
+            "text": "state:open",
+            "name": "All Open Issues"
+          },
+          {
+            "id": "a3cf2810-1671-4cc9-b940-f1fc741b8829",
+            "text": "assignee:K4cp3rski state:open",
+            "name": "My Open Issues"
+          }
+        ],
+        "k4cp3rski/upc_2022": [
+          {
+            "id": "39e9a469-1b2d-4e63-b075-4c8fb288eeb7",
+            "text": "state:open",
+            "name": "All Open Issues"
+          },
+          {
+            "id": "18aaf008-0856-4c21-b1ab-aa98a433c8c7",
+            "text": "assignee:K4cp3rski state:open",
+            "name": "My Open Issues"
+          }
+        ],
+        "k4cp3rski/dotfiles": [
+          {
+            "id": "1e67cfbe-23cc-450c-8aa0-72abb2f43d6c",
+            "text": "state:open",
+            "name": "All Open Issues"
+          },
+          {
+            "id": "4377b50d-4d73-4a78-9566-5709afbd16c6",
+            "text": "assignee:K4cp3rski state:open",
+            "name": "My Open Issues"
+          }
+        ]
+      }
+    }
+  },
+  "hostingServiceFrecencyMetadata": {
+    "github": {
+      "id": "github",
+      "timestamps": [
+        1663019739280,
+        1663021170597,
+        1664841390697,
+        1664841533737,
+        1666359879549,
+        1666874255586,
+        1666874302348,
+        1666874338764,
+        1667643764696,
+        1669111456159
+      ],
+      "total": 28
+    }
+  },
+  "projects": {},
+  "repoInit": {
+    "lastRepoInitPath": "/Users/k4cp3rskiii"
+  },
+  "projectGroupsFrecencyMetadata": {
+    "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/ML": {
+      "id": "project-group-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/ML",
+      "timestamps": [
+        1640003882123
+      ],
+      "total": 1
+    },
+    "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP": {
+      "id": "project-group-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP",
+      "timestamps": [
+        1666874338692
+      ],
+      "total": 1
+    },
+    "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Topo_ML": {
+      "id": "project-group-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Topo_ML",
+      "timestamps": [
+        1649808654003
+      ],
+      "total": 1
+    },
+    "/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/DM": {
+      "id": "project-group-/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/DM",
+      "timestamps": [
+        1663019739228
+      ],
+      "total": 1
+    }
+  },
+  "layout": {
+    "RefPanel": {
+      "width": 215,
+      "open": true
+    }
+  },
+  "ui": {
+    "graphOptions": {
+      "showCommitShaInGraph": false,
+      "showCommitDateTimeInGraph": false,
+      "showCommitAuthorInGraph": false
+    }
+  }
+}

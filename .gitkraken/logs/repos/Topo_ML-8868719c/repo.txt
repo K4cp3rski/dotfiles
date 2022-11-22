@@ -1,0 +1,377 @@
+[2022-03-24T13:03:39.495Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-28T21:29:42.166Z] Stage 6518 files for commit: started.
+[2022-03-28T21:31:34.086Z] Ignore 2021.05.29_Chern_detenction_LDOS/results_keras: started.
+[2022-03-28T21:31:35.909Z] Ignore 2021.05.29_Chern_detenction_LDOS/results_keras: finished. gk-log://duration?t=1823
+[2022-03-28T21:31:39.142Z] Stage 2021.05.29_Chern_detenction_LDOS/_generate_normalized_data_unflatten_bands_Delta.1.0.py for commit: started.
+[2022-03-28T21:31:39.197Z] Stage 2021.05.29_Chern_detenction_LDOS/_generate_normalized_data_unflatten_bands_Delta.1.0.py for commit: finished. gk-log://duration?t=55
+[2022-03-28T21:31:40.593Z] Stage 2021.05.29_Chern_detenction_LDOS/_get_accuracy_vs_V_0_vs_Chern_averaged_over_epochs_and_runs.py for commit: started.
+[2022-03-28T21:31:40.679Z] Stage 2021.05.29_Chern_detenction_LDOS/_get_accuracy_vs_V_0_vs_Chern_averaged_over_epochs_and_runs.py for commit: finished. gk-log://duration?t=86
+[2022-03-28T21:31:42.496Z] Stage 2021.05.29_Chern_detenction_LDOS/_get_confusion_matrix.py for commit: started.
+[2022-03-28T21:31:42.558Z] Stage 2021.05.29_Chern_detenction_LDOS/_get_confusion_matrix.py for commit: finished. gk-log://duration?t=62
+[2022-03-28T21:31:43.598Z] Stage 2021.05.29_Chern_detenction_LDOS/_get_dictionary_structure_with_pandas.py for commit: started.
+[2022-03-28T21:31:43.655Z] Stage 2021.05.29_Chern_detenction_LDOS/_get_dictionary_structure_with_pandas.py for commit: finished. gk-log://duration?t=57
+[2022-03-28T21:31:44.566Z] Stage 2021.05.29_Chern_detenction_LDOS/_get_figure_accuracy_vs_V_0_vs_Chern_averaged_over_epochs_and_runs.py for commit: started.
+[2022-03-28T21:31:44.622Z] Stage 2021.05.29_Chern_detenction_LDOS/_get_figure_accuracy_vs_V_0_vs_Chern_averaged_over_epochs_and_runs.py for commit: finished. gk-log://duration?t=56
+[2022-03-28T21:31:45.948Z] Stage 2021.05.29_Chern_detenction_LDOS/_get_raw_data_histogram.py for commit: started.
+[2022-03-28T21:31:46.011Z] Stage 2021.05.29_Chern_detenction_LDOS/_get_raw_data_histogram.py for commit: finished. gk-log://duration?t=63
+[2022-03-28T21:31:47.635Z] Stage 2021.05.29_Chern_detenction_LDOS/_train_model_script_save_simplified_model_after_each_epochs.py for commit: started.
+[2022-03-28T21:31:47.692Z] Stage 2021.05.29_Chern_detenction_LDOS/_train_model_script_save_simplified_model_after_each_epochs.py for commit: finished. gk-log://duration?t=57
+[2022-03-28T21:31:48.614Z] Stage 2021.05.29_Chern_detenction_LDOS/bulk_and_open_system_model.py for commit: started.
+[2022-03-28T21:31:48.671Z] Stage 2021.05.29_Chern_detenction_LDOS/bulk_and_open_system_model.py for commit: finished. gk-log://duration?t=56
+[2022-03-28T21:31:50.055Z] Stage 2021.05.29_Chern_detenction_LDOS/calculate_edge_state.py for commit: started.
+[2022-03-28T21:31:50.113Z] Stage 2021.05.29_Chern_detenction_LDOS/calculate_edge_state.py for commit: finished. gk-log://duration?t=58
+[2022-03-28T21:32:36.652Z] Commit: started.
+[2022-03-28T21:32:36.791Z] Commit: successfully created commit d7106b2ae4dfe46aaffef7a852f4aed22664b7ad
+[2022-03-28T21:32:36.793Z] Commit: finished gk-log://duration?t=141
+[2022-03-28T21:32:39.155Z] Push main: started.
+[2022-03-28T21:32:40.312Z] Push main: finished. gk-log://duration?t=1157
+[2022-03-29T00:57:29.317Z] Create ref refs/heads/dev at d7106b2ae4dfe46aaffef7a852f4aed22664b7ad: started.
+[2022-03-29T00:57:29.367Z] Checkout refs/heads/dev: started.
+[2022-03-29T00:57:29.530Z] Checkout refs/heads/dev: finished. gk-log://duration?t=163
+[2022-03-29T00:57:29.562Z] Create ref refs/heads/dev at d7106b2ae4dfe46aaffef7a852f4aed22664b7ad: finished. gk-log://duration?t=245
+[2022-03-29T00:57:31.164Z] Push dev: started.
+[2022-03-29T00:57:32.443Z] Set upstream for refs/heads/dev: started.
+[2022-03-29T00:57:32.555Z] Set upstream for refs/heads/dev: finished. gk-log://duration?t=112
+[2022-03-29T00:57:33.498Z] Push dev: finished. gk-log://duration?t=2333
+[2022-03-29T00:57:37.653Z] Stage .gitignore for commit: started.
+[2022-03-29T00:57:37.732Z] Stage .gitignore for commit: finished. gk-log://duration?t=79
+[2022-03-29T00:57:40.070Z] Stage .pre-commit-config.yaml for commit: started.
+[2022-03-29T00:57:40.146Z] Stage .pre-commit-config.yaml for commit: finished. gk-log://duration?t=76
+[2022-03-29T00:57:41.181Z] Stage Driver.ipynb for commit: started.
+[2022-03-29T00:57:41.279Z] Stage Driver.ipynb for commit: finished. gk-log://duration?t=98
+[2022-03-29T00:57:51.514Z] Stage Raw_Data/_generate_normalized_data_unflatten_bands_Delta.1.0.py for commit: started.
+[2022-03-29T00:57:51.608Z] Stage Raw_Data/_generate_normalized_data_unflatten_bands_Delta.1.0.py for commit: finished. gk-log://duration?t=94
+[2022-03-29T00:57:52.062Z] Stage Raw_Data/_get_accuracy_vs_V_0_vs_Chern_averaged_over_epochs_and_runs.py for commit: started.
+[2022-03-29T00:57:52.135Z] Stage Raw_Data/_get_accuracy_vs_V_0_vs_Chern_averaged_over_epochs_and_runs.py for commit: finished. gk-log://duration?t=72
+[2022-03-29T00:57:52.662Z] Stage Raw_Data/_get_confusion_matrix.py for commit: started.
+[2022-03-29T00:57:52.733Z] Stage Raw_Data/_get_confusion_matrix.py for commit: finished. gk-log://duration?t=71
+[2022-03-29T00:57:53.130Z] Stage Raw_Data/_get_dictionary_structure_with_pandas.py for commit: started.
+[2022-03-29T00:57:53.200Z] Stage Raw_Data/_get_dictionary_structure_with_pandas.py for commit: finished. gk-log://duration?t=70
+[2022-03-29T00:57:53.662Z] Stage Raw_Data/_get_figure_accuracy_vs_V_0_vs_Chern_averaged_over_epochs_and_runs 2.py for commit: started.
+[2022-03-29T00:57:53.717Z] Stage Raw_Data/_get_figure_accuracy_vs_V_0_vs_Chern_averaged_over_epochs_and_runs 2.py for commit: finished. gk-log://duration?t=55
+[2022-03-29T00:57:54.142Z] Stage Raw_Data/_get_figure_accuracy_vs_V_0_vs_Chern_averaged_over_epochs_and_runs.py for commit: started.
+[2022-03-29T00:57:54.218Z] Stage Raw_Data/_get_figure_accuracy_vs_V_0_vs_Chern_averaged_over_epochs_and_runs.py for commit: finished. gk-log://duration?t=76
+[2022-03-29T00:57:55.958Z] Stage Raw_Data/_get_raw_data_histogram.py for commit: started.
+[2022-03-29T00:57:56.011Z] Stage Raw_Data/_get_raw_data_histogram.py for commit: finished. gk-log://duration?t=53
+[2022-03-29T00:57:56.654Z] Stage Raw_Data/_kacper_get_dictionary_structure_with_pandas.py for commit: started.
+[2022-03-29T00:57:56.724Z] Stage Raw_Data/_kacper_get_dictionary_structure_with_pandas.py for commit: finished. gk-log://duration?t=70
+[2022-03-29T00:57:57.236Z] Stage Raw_Data/_train_model_script_save_simplified_model_after_each_epochs.py for commit: started.
+[2022-03-29T00:57:57.328Z] Stage Raw_Data/_train_model_script_save_simplified_model_after_each_epochs.py for commit: finished. gk-log://duration?t=92
+[2022-03-29T00:57:57.779Z] Stage Raw_Data/bulk_and_open_system_model.py for commit: started.
+[2022-03-29T00:57:57.837Z] Stage Raw_Data/bulk_and_open_system_model.py for commit: finished. gk-log://duration?t=58
+[2022-03-29T00:57:58.539Z] Stage Raw_Data/calculate_edge_state.py for commit: started.
+[2022-03-29T00:57:58.609Z] Stage Raw_Data/calculate_edge_state.py for commit: finished. gk-log://duration?t=69
+[2022-03-29T00:58:01.406Z] Stage 2021.05.29_Chern_detenction_LDOS/_generate_normalized_data_unflatten_bands_Delta.1.0.py for commit: started.
+[2022-03-29T00:58:01.476Z] Stage 2021.05.29_Chern_detenction_LDOS/_generate_normalized_data_unflatten_bands_Delta.1.0.py for commit: finished. gk-log://duration?t=70
+[2022-03-29T00:58:01.651Z] Stage 2021.05.29_Chern_detenction_LDOS/_get_accuracy_vs_V_0_vs_Chern_averaged_over_epochs_and_runs.py for commit: started.
+[2022-03-29T00:58:01.700Z] Stage 2021.05.29_Chern_detenction_LDOS/_get_accuracy_vs_V_0_vs_Chern_averaged_over_epochs_and_runs.py for commit: finished. gk-log://duration?t=49
+[2022-03-29T00:58:01.873Z] Stage 2021.05.29_Chern_detenction_LDOS/_get_confusion_matrix.py for commit: started.
+[2022-03-29T00:58:01.934Z] Stage 2021.05.29_Chern_detenction_LDOS/_get_confusion_matrix.py for commit: finished. gk-log://duration?t=61
+[2022-03-29T00:58:02.188Z] Stage 2021.05.29_Chern_detenction_LDOS/_get_dictionary_structure_with_pandas.py for commit: started.
+[2022-03-29T00:58:02.260Z] Stage 2021.05.29_Chern_detenction_LDOS/_get_dictionary_structure_with_pandas.py for commit: finished. gk-log://duration?t=72
+[2022-03-29T00:58:02.438Z] Stage 2021.05.29_Chern_detenction_LDOS/_get_figure_accuracy_vs_V_0_vs_Chern_averaged_over_epochs_and_runs.py for commit: started.
+[2022-03-29T00:58:02.501Z] Stage 2021.05.29_Chern_detenction_LDOS/_get_figure_accuracy_vs_V_0_vs_Chern_averaged_over_epochs_and_runs.py for commit: finished. gk-log://duration?t=63
+[2022-03-29T00:58:02.739Z] Stage 2021.05.29_Chern_detenction_LDOS/_get_raw_data_histogram.py for commit: started.
+[2022-03-29T00:58:02.827Z] Stage 2021.05.29_Chern_detenction_LDOS/_get_raw_data_histogram.py for commit: finished. gk-log://duration?t=88
+[2022-03-29T00:58:03.026Z] Stage 2021.05.29_Chern_detenction_LDOS/_train_model_script_save_simplified_model_after_each_epochs.py for commit: started.
+[2022-03-29T00:58:03.093Z] Stage 2021.05.29_Chern_detenction_LDOS/_train_model_script_save_simplified_model_after_each_epochs.py for commit: finished. gk-log://duration?t=67
+[2022-03-29T00:58:03.426Z] Stage 2021.05.29_Chern_detenction_LDOS/bulk_and_open_system_model.py for commit: started.
+[2022-03-29T00:58:03.495Z] Stage 2021.05.29_Chern_detenction_LDOS/bulk_and_open_system_model.py for commit: finished. gk-log://duration?t=69
+[2022-03-29T00:58:03.823Z] Stage 2021.05.29_Chern_detenction_LDOS/calculate_edge_state.py for commit: started.
+[2022-03-29T00:58:03.887Z] Stage 2021.05.29_Chern_detenction_LDOS/calculate_edge_state.py for commit: finished. gk-log://duration?t=63
+[2022-03-29T00:58:13.193Z] Stage Raw_Data/pandas_data_set_Shiba_data.pkl for commit: started.
+[2022-03-29T00:58:23.376Z] Stage Raw_Data/pandas_data_set_Shiba_data.pkl for commit: finished. gk-log://duration?t=10183
+[2022-03-29T01:00:33.029Z] Commit: started.
+[2022-03-29T01:00:33.165Z] Commit: successfully created commit 417ff350b2a83a789e89a5f54770d5a9644f8666
+[2022-03-29T01:00:33.166Z] Commit: finished gk-log://duration?t=137
+[2022-03-29T01:00:35.196Z] Push dev: started.
+[2022-03-29T01:02:25.333Z] Push dev: Push failed on refs/heads/dev: pre-receive hook declined
+[2022-03-29T01:02:25.335Z] Push dev: finished with errors. gk-log://duration?t=110139
+[2022-03-29T01:04:06.624Z] Push dev: started.
+[2022-03-29T01:05:49.501Z] Push dev: Push failed on refs/heads/dev: pre-receive hook declined
+[2022-03-29T01:05:49.503Z] Push dev: finished with errors. gk-log://duration?t=102879
+[2022-03-29T01:08:50.060Z] Push dev: started.
+[2022-03-29T01:08:51.481Z] Push dev: finished. gk-log://duration?t=1421
+[2022-03-29T14:07:40.968Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-29T16:18:40.190Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-29T20:24:42.336Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-29T20:44:04.238Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-03-29T23:30:06.612Z] Stage Raw_Data/_get_raw_data_histogram.py for commit: started.
+[2022-03-29T23:30:06.694Z] Stage Raw_Data/_get_raw_data_histogram.py for commit: finished. gk-log://duration?t=82
+[2022-03-29T23:30:07.430Z] Stage Raw_Data/_kacper_get_dictionary_structure_with_pandas.py for commit: started.
+[2022-03-29T23:30:07.494Z] Stage Raw_Data/_kacper_get_dictionary_structure_with_pandas.py for commit: finished. gk-log://duration?t=64
+[2022-03-29T23:30:07.928Z] Stage Raw_Data/bulk_and_open_system_model.py for commit: started.
+[2022-03-29T23:30:07.991Z] Stage Raw_Data/bulk_and_open_system_model.py for commit: finished. gk-log://duration?t=63
+[2022-03-29T23:30:08.412Z] Stage Raw_Data/calculate_edge_state.py for commit: started.
+[2022-03-29T23:30:08.472Z] Stage Raw_Data/calculate_edge_state.py for commit: finished. gk-log://duration?t=60
+[2022-03-29T23:30:17.518Z] Stage auxiliary_funcs.py for commit: started.
+[2022-03-29T23:30:17.573Z] Stage auxiliary_funcs.py for commit: finished. gk-log://duration?t=55
+[2022-03-29T23:30:18.139Z] Stage Driver.ipynb for commit: started.
+[2022-03-29T23:30:18.257Z] Stage Driver.ipynb for commit: finished. gk-log://duration?t=118
+[2022-03-29T23:31:40.080Z] Stage .gitignore for commit: started.
+[2022-03-29T23:31:40.187Z] Stage .gitignore for commit: finished. gk-log://duration?t=107
+[2022-03-29T23:32:59.620Z] Stage .gitignore for commit: started.
+[2022-03-29T23:32:59.698Z] Stage .gitignore for commit: finished. gk-log://duration?t=78
+[2022-03-29T23:33:49.085Z] Commit: started.
+[2022-03-29T23:33:49.288Z] Commit: successfully created commit 8cb4915a2fff507cc47fda40a0828f2bd653961c
+[2022-03-29T23:33:49.290Z] Commit: finished gk-log://duration?t=205
+[2022-03-29T23:33:51.426Z] Push dev: started.
+[2022-03-29T23:33:53.123Z] Push dev: finished. gk-log://duration?t=1697
+[2022-03-29T23:34:23.570Z] Unstage and reset all files: started.
+[2022-03-29T23:34:25.539Z] Unstage and reset all files: finished. gk-log://duration?t=1969
+[2022-03-29T23:35:00.528Z] Ignore *.dat: started.
+[2022-03-29T23:35:02.477Z] Ignore *.dat: finished. gk-log://duration?t=1949
+[2022-03-29T23:35:18.754Z] Ignore *.pkl: started.
+[2022-03-29T23:35:20.014Z] Ignore *.pkl: finished. gk-log://duration?t=1260
+[2022-03-29T23:35:23.028Z] Ignore *.data_raw: started.
+[2022-03-29T23:35:24.344Z] Ignore *.data_raw: finished. gk-log://duration?t=1315
+[2022-03-29T23:35:25.988Z] Stage .DS_Store for commit: started.
+[2022-03-29T23:35:26.054Z] Stage .DS_Store for commit: finished. gk-log://duration?t=66
+[2022-03-29T23:35:26.758Z] Stage .gitignore for commit: started.
+[2022-03-29T23:35:26.821Z] Stage .gitignore for commit: finished. gk-log://duration?t=63
+[2022-03-29T23:35:28.353Z] Stage Raw_Data/.DS_Store for commit: started.
+[2022-03-29T23:35:28.437Z] Stage Raw_Data/.DS_Store for commit: finished. gk-log://duration?t=84
+[2022-03-29T23:35:33.282Z] Stage Raw_Data/fig_final_results_accuracy_vs_epoch.arg for commit: started.
+[2022-03-29T23:35:33.332Z] Stage Raw_Data/fig_final_results_accuracy_vs_epoch.arg for commit: finished. gk-log://duration?t=50
+[2022-03-29T23:35:33.461Z] Stage Raw_Data/fig_final_results_accuracy_vs_epoch.png for commit: started.
+[2022-03-29T23:35:33.513Z] Stage Raw_Data/fig_final_results_accuracy_vs_epoch.png for commit: finished. gk-log://duration?t=52
+[2022-03-29T23:35:33.701Z] Stage Raw_Data/fig_final_results_accuracy_vs_V_0.arg for commit: started.
+[2022-03-29T23:35:33.757Z] Stage Raw_Data/fig_final_results_accuracy_vs_V_0.arg for commit: finished. gk-log://duration?t=56
+[2022-03-29T23:35:33.949Z] Stage Raw_Data/fig_final_results_accuracy_vs_V_0.png for commit: started.
+[2022-03-29T23:35:34.000Z] Stage Raw_Data/fig_final_results_accuracy_vs_V_0.png for commit: finished. gk-log://duration?t=51
+[2022-03-29T23:35:34.456Z] Stage Raw_Data/fig_model_A_output.png for commit: started.
+[2022-03-29T23:35:34.506Z] Stage Raw_Data/fig_model_A_output.png for commit: finished. gk-log://duration?t=50
+[2022-03-29T23:35:34.934Z] Stage Raw_Data/fig_model_B_output.png for commit: started.
+[2022-03-29T23:35:34.984Z] Stage Raw_Data/fig_model_B_output.png for commit: finished. gk-log://duration?t=50
+[2022-03-29T23:35:35.246Z] Stage Raw_Data/fig_model_C_output.png for commit: started.
+[2022-03-29T23:35:35.293Z] Stage Raw_Data/fig_model_C_output.png for commit: finished. gk-log://duration?t=47
+[2022-03-29T23:35:35.737Z] Stage Raw_Data/output.png for commit: started.
+[2022-03-29T23:35:35.781Z] Stage Raw_Data/output.png for commit: finished. gk-log://duration?t=44
+[2022-03-29T23:35:44.265Z] Commit: started.
+[2022-03-29T23:35:44.413Z] Commit: successfully created commit 9259ae630b9f66cb9c80209461a956d3dc1dce3f
+[2022-03-29T23:35:44.415Z] Commit: finished gk-log://duration?t=150
+[2022-03-29T23:35:46.046Z] Push dev: started.
+[2022-03-29T23:35:47.262Z] Push dev: finished. gk-log://duration?t=1216
+[2022-04-07T00:55:26.853Z] Stage 6 files for commit: started.
+[2022-04-07T00:55:27.023Z] Stage 6 files for commit: finished. gk-log://duration?t=170
+[2022-04-07T00:56:05.442Z] Commit: started.
+[2022-04-07T00:56:05.647Z] Commit: successfully created commit 9aa244d33fb0d0e06cd5e9d5b5042bf969126859
+[2022-04-07T00:56:05.648Z] Commit: finished gk-log://duration?t=206
+[2022-04-07T00:56:07.698Z] Push dev: started.
+[2022-04-07T00:56:09.900Z] Push dev: finished. gk-log://duration?t=2202
+[2022-04-08T09:51:03.249Z] Stage 251 files for commit: started.
+[2022-04-08T09:51:08.974Z] Stage 251 files for commit: finished. gk-log://duration?t=5725
+[2022-04-08T09:51:26.591Z] Unstage 237 files: started.
+[2022-04-08T09:51:26.658Z] Unstage 237 files: finished. gk-log://duration?t=67
+[2022-04-08T09:51:37.391Z] Ignore 237 paths: started.
+[2022-04-08T09:51:38.745Z] Ignore 237 paths: finished. gk-log://duration?t=1354
+[2022-04-08T09:51:40.388Z] Stage .gitignore for commit: started.
+[2022-04-08T09:51:40.457Z] Stage .gitignore for commit: finished. gk-log://duration?t=69
+[2022-04-08T09:52:14.316Z] Commit: started.
+[2022-04-08T09:52:14.501Z] Commit: successfully created commit 0f4f9211806a0558afda9ff79c8b26a1f58edf20
+[2022-04-08T09:52:14.502Z] Commit: finished gk-log://duration?t=186
+[2022-04-08T09:52:16.636Z] Push dev: started.
+[2022-04-08T09:52:19.728Z] Push dev: finished. gk-log://duration?t=3092
+[2022-04-08T11:31:51.134Z] Stage 3 files for commit: started.
+[2022-04-08T11:31:51.389Z] Stage 3 files for commit: finished. gk-log://duration?t=255
+[2022-04-08T11:32:08.308Z] Commit: started.
+[2022-04-08T11:32:08.569Z] Commit: successfully created commit df5e7154c839b0b7e0e9375406168959913b732f
+[2022-04-08T11:32:08.570Z] Commit: finished gk-log://duration?t=262
+[2022-04-08T11:32:11.476Z] Push dev: started.
+[2022-04-08T11:32:14.349Z] Push dev: finished. gk-log://duration?t=2873
+[2022-04-09T09:33:08.480Z] Fetch remote origin: failed to connect to github.com: Operation timed out
+[2022-04-09T15:27:23.498Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-09T15:28:58.071Z] Fetch remote origin: unexpected return value from ssl handshake -9806
+[2022-04-09T15:30:23.753Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-09T15:31:23.743Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-09T15:32:30.664Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-09T15:33:27.129Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-09T15:34:09.895Z] Fetch remote origin: failed to connect to github.com: Network is unreachable
+[2022-04-09T15:34:55.897Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-09T15:35:58.220Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-09T15:36:58.220Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-09T15:37:58.239Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-09T15:39:54.023Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-09T15:42:08.894Z] Fetch remote origin: failed to connect to github.com: Operation timed out
+[2022-04-09T15:51:05.651Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-10T10:17:43.618Z] Stage 40 files for commit: started.
+[2022-04-10T10:17:52.816Z] Stage 40 files for commit: finished. gk-log://duration?t=9198
+[2022-04-10T10:19:18.203Z] Commit: started.
+[2022-04-10T10:19:18.462Z] Commit: successfully created commit a225040720d74b90026e41d315204923ac4b0931
+[2022-04-10T10:19:18.463Z] Commit: finished gk-log://duration?t=260
+[2022-04-10T10:19:21.305Z] Push dev: started.
+[2022-04-10T10:20:21.921Z] Push dev: Push failed on refs/heads/dev: pre-receive hook declined
+[2022-04-10T10:20:21.923Z] Push dev: finished with errors. gk-log://duration?t=60618
+[2022-04-10T10:21:00.618Z] Revert a225040720d74b90026e41d315204923ac4b0931 onto refs/heads/dev (without committing): started.
+[2022-04-10T10:21:00.634Z] Auto-stash uncommitted changes: started.
+[2022-04-10T10:21:00.650Z] Stage confusion_matrix for stash: started.
+[2022-04-10T10:21:00.698Z] Stage confusion_matrix for stash: finished. gk-log://duration?t=48
+[2022-04-10T10:21:00.744Z] Auto-stash uncommitted changes: finished. Stash sha: undefined gk-log://duration?t=110
+[2022-04-10T10:21:02.827Z] Update all submodules: started.
+[2022-04-10T10:21:02.832Z] Update submodule confusion_matrix: started.
+[2022-04-10T10:21:02.854Z] Update submodule confusion_matrix: finished. gk-log://duration?t=22
+[2022-04-10T10:21:02.856Z] Update all submodules: finished. gk-log://duration?t=29
+[2022-04-10T10:21:02.857Z] Revert a225040720d74b90026e41d315204923ac4b0931 onto refs/heads/dev (without committing): finished. gk-log://duration?t=2239
+[2022-04-10T10:25:34.246Z] Undo Action with reflog message "reset: moving to HEAD^": started.
+[2022-04-10T10:25:34.275Z] Undo Action with reflog message "reset: moving to HEAD^": finished. gk-log://duration?t=28
+[2022-04-10T10:25:48.676Z] Unstage 40 files: started.
+[2022-04-10T10:25:50.603Z] Unstage 40 files: finished. gk-log://duration?t=1927
+[2022-04-10T10:27:01.500Z] Undo Commit "Added unsupervised methods - PCA, tSNE, AE": started.
+[2022-04-10T10:27:01.532Z] Undo Commit "Added unsupervised methods - PCA, tSNE, AE": finished. gk-log://duration?t=32
+[2022-04-10T10:27:09.089Z] Redo Commit "Added unsupervised methods - PCA, tSNE, AE": started.
+[2022-04-10T10:27:09.104Z] Redo Commit "Added unsupervised methods - PCA, tSNE, AE": finished. gk-log://duration?t=15
+[2022-04-10T10:27:09.106Z] Redo Commit "Added unsupervised methods - PCA, tSNE, AE": started.
+[2022-04-10T10:27:09.122Z] Redo Commit "Added unsupervised methods - PCA, tSNE, AE": finished. gk-log://duration?t=16
+[2022-04-10T10:27:12.805Z] Undo Action with reflog message "reset: moving to HEAD^": started.
+[2022-04-10T10:27:12.816Z] Undo Action with reflog message "reset: moving to HEAD^": finished. gk-log://duration?t=11
+[2022-04-10T10:27:35.928Z] Reset (soft) refs/heads/dev to a225040720d74b90026e41d315204923ac4b0931: started.
+[2022-04-10T10:27:35.942Z] Reset (soft) refs/heads/dev to a225040720d74b90026e41d315204923ac4b0931: finished. gk-log://duration?t=14
+[2022-04-10T10:27:35.942Z] Update all submodules: started.
+[2022-04-10T10:27:35.948Z] Update submodule confusion_matrix: started.
+[2022-04-10T10:27:35.958Z] Update submodule confusion_matrix: finished. gk-log://duration?t=10
+[2022-04-10T10:27:35.959Z] Update all submodules: finished. gk-log://duration?t=17
+[2022-04-10T10:27:47.609Z] Checkout refs/remotes/origin/dev: started.
+[2022-04-10T10:27:50.625Z] Checkout refs/remotes/origin/dev: cancelled. gk-log://duration?t=3016
+[2022-04-10T10:28:14.084Z] Unstage and reset all files: started.
+[2022-04-10T10:28:24.051Z] Unstage and reset all files: finished. gk-log://duration?t=9967
+[2022-04-10T10:28:29.765Z] Unstage and reset all files: started.
+[2022-04-10T10:28:31.187Z] Unstage 40 files: started.
+[2022-04-10T10:28:33.161Z] Unstage 40 files: finished. gk-log://duration?t=1974
+[2022-04-10T10:28:33.167Z] Reset all files: started.
+[2022-04-10T10:28:34.772Z] Reset all files: finished. gk-log://duration?t=1605
+[2022-04-10T10:28:35.318Z] Reset all submodules: started.
+[2022-04-10T10:28:35.705Z] Reset all submodules: finished. gk-log://duration?t=387
+[2022-04-10T10:28:35.710Z] Unstage and reset all files: finished. gk-log://duration?t=5945
+[2022-04-10T10:30:43.195Z] Reset (soft) refs/heads/dev to df5e7154c839b0b7e0e9375406168959913b732f: started.
+[2022-04-10T10:30:43.331Z] Reset (soft) refs/heads/dev to df5e7154c839b0b7e0e9375406168959913b732f: finished. gk-log://duration?t=136
+[2022-04-10T10:30:43.346Z] Update all submodules: started.
+[2022-04-10T10:30:43.355Z] Update submodule confusion_matrix: started.
+[2022-04-10T10:30:43.360Z] Initialize submodule confusion_matrix: started.
+[2022-04-10T10:30:43.382Z] Initialize submodule confusion_matrix: no URL configured for submodule 'confusion_matrix'
+[2022-04-10T10:30:43.383Z] Initialize submodule confusion_matrix: finished with errors. gk-log://duration?t=23
+[2022-04-10T10:30:43.384Z] Update submodule confusion_matrix: no URL configured for submodule 'confusion_matrix'
+[2022-04-10T10:30:43.385Z] Update submodule confusion_matrix: finished with errors. gk-log://duration?t=30
+[2022-04-10T10:30:43.386Z] Update all submodules: no URL configured for submodule 'confusion_matrix'
+[2022-04-10T10:30:43.387Z] Update all submodules: finished with errors. gk-log://duration?t=41
+[2022-04-10T10:30:43.388Z] Reset (soft) refs/heads/dev to df5e7154c839b0b7e0e9375406168959913b732f: no URL configured for submodule 'confusion_matrix'
+[2022-04-10T10:30:43.389Z] Reset (soft) refs/heads/dev to df5e7154c839b0b7e0e9375406168959913b732f: finished with errors. gk-log://duration?t=194
+[2022-04-10T10:30:57.736Z] Unstage Unsupervised/PCA_before_AE.pickle: started.
+[2022-04-10T10:30:58.836Z] Unstage Unsupervised/PCA_before_AE.pickle: finished. gk-log://duration?t=1100
+[2022-04-10T10:31:03.795Z] Stage 10 runs_record/.DS_Store for commit: started.
+[2022-04-10T10:31:04.928Z] Stage 10 runs_record/.DS_Store for commit: finished. gk-log://duration?t=1133
+[2022-04-10T10:31:06.047Z] Stage .DS_Store for commit: started.
+[2022-04-10T10:31:07.144Z] Stage .DS_Store for commit: finished. gk-log://duration?t=1097
+[2022-04-10T10:31:31.910Z] Fetch remote origin: failed to connect to github.com: Connection refused
+[2022-04-10T10:31:49.889Z] Ignore Unsupervised/PCA_before_AE.pickle: started.
+[2022-04-10T10:31:51.600Z] Ignore Unsupervised/PCA_before_AE.pickle: finished. gk-log://duration?t=1711
+[2022-04-10T10:31:53.639Z] Stage .gitignore for commit: started.
+[2022-04-10T10:31:54.729Z] Stage .gitignore for commit: finished. gk-log://duration?t=1090
+[2022-04-10T10:32:35.155Z] Commit: started.
+[2022-04-10T10:32:35.630Z] Commit: successfully created commit 8ef656191558c661ff388869782be207a0f935ab
+[2022-04-10T10:32:35.631Z] Commit: finished gk-log://duration?t=476
+[2022-04-10T10:32:37.849Z] Push dev: started.
+[2022-04-10T10:33:06.074Z] Push dev: finished. gk-log://duration?t=28225
+[2022-04-20T07:30:00.174Z] Stage 165 files for commit: started.
+[2022-04-20T07:30:01.293Z] Stage 165 files for commit: finished. gk-log://duration?t=1119
+[2022-04-20T07:30:18.268Z] Stage 165 files for commit: started.
+[2022-04-20T07:30:18.491Z] Stage 165 files for commit: finished. gk-log://duration?t=223
+[2022-04-20T07:31:17.645Z] Stage .DS_Store for commit: started.
+[2022-04-20T07:31:17.875Z] Stage .DS_Store for commit: finished. gk-log://duration?t=230
+[2022-04-20T07:31:21.090Z] Commit: started.
+[2022-04-20T07:31:21.819Z] Commit: successfully created commit d7b03a644bf5175ce17ee66129d3f657ad297ce3
+[2022-04-20T07:31:21.820Z] Commit: finished gk-log://duration?t=730
+[2022-04-20T07:31:23.280Z] Push dev: started.
+[2022-04-20T07:31:25.506Z] Push dev: finished. gk-log://duration?t=2226
+[2022-04-20T07:58:35.785Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-20T08:16:37.544Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-20T08:18:10.682Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-25T19:20:25.471Z] Stage 21 files for commit: started.
+[2022-04-25T19:20:35.274Z] Stage 21 files for commit: finished. gk-log://duration?t=9803
+[2022-04-25T19:20:39.143Z] Ignore confusion_matrix: started.
+[2022-04-25T19:20:40.917Z] Ignore confusion_matrix: finished. gk-log://duration?t=1774
+[2022-04-25T19:20:43.331Z] Stage 22 files for commit: started.
+[2022-04-25T19:20:43.509Z] Stage 22 files for commit: finished. gk-log://duration?t=178
+[2022-04-25T19:21:01.886Z] Stage 22 files for commit: started.
+[2022-04-25T19:21:02.293Z] Stage 22 files for commit: finished. gk-log://duration?t=407
+[2022-04-25T19:21:56.650Z] Unstage Datasets/X_train.pickle: started.
+[2022-04-25T19:21:56.795Z] Unstage Datasets/X_train.pickle: finished. gk-log://duration?t=145
+[2022-04-25T19:21:58.132Z] Stage .DS_Store for commit: started.
+[2022-04-25T19:21:58.267Z] Stage .DS_Store for commit: finished. gk-log://duration?t=135
+[2022-04-25T19:23:03.355Z] Commit: started.
+[2022-04-25T19:23:04.970Z] Commit: successfully created commit 28c0e173d6633496318dd6c33a768675fd042578
+[2022-04-25T19:23:04.976Z] Commit: finished gk-log://duration?t=1621
+[2022-04-25T19:23:06.215Z] Push dev: started.
+[2022-04-25T19:23:15.243Z] Push dev: finished. gk-log://duration?t=9028
+[2022-04-25T21:17:43.088Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T05:17:41.363Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T05:18:48.929Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T05:20:39.742Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T05:21:39.015Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T05:23:01.218Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T05:24:40.309Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T06:24:52.656Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T07:14:16.827Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T08:32:13.513Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T08:33:13.011Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T08:34:13.462Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T08:35:13.865Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T08:36:13.772Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T08:37:14.350Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T08:38:23.440Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T08:40:12.946Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T08:41:12.925Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T08:42:13.086Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T08:43:13.537Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T08:44:12.957Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T08:45:23.560Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T08:47:39.778Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T08:49:40.170Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T08:51:12.951Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T08:52:13.080Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T08:53:23.508Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T08:55:13.476Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T08:56:12.831Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T08:57:12.695Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T08:58:12.849Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T09:09:24.543Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T09:23:32.405Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T09:56:21.084Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T10:45:21.620Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T11:04:36.052Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T11:23:44.517Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T13:58:12.923Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T14:43:01.635Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T16:11:38.318Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T16:15:42.462Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T16:36:32.804Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T17:46:16.250Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T19:10:43.772Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T20:09:34.831Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T20:25:49.060Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-26T20:49:44.388Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-04-27T06:32:04.285Z] Stage 9 files for commit: started.
+[2022-04-27T06:32:07.770Z] Stage 9 files for commit: finished. gk-log://duration?t=3485
+[2022-04-27T06:32:12.311Z] Unstage Datasets/X_train.pickle: started.
+[2022-04-27T06:32:12.405Z] Unstage Datasets/X_train.pickle: finished. gk-log://duration?t=94
+[2022-04-27T06:32:32.593Z] Commit: started.
+[2022-04-27T06:32:33.591Z] Commit: successfully created commit c1551d27ff56738317b868f1dc6c40dfdd90e3be
+[2022-04-27T06:32:33.592Z] Commit: finished gk-log://duration?t=999
+[2022-04-27T06:32:35.204Z] Push dev: started.
+[2022-04-27T06:32:38.475Z] Push dev: finished. gk-log://duration?t=3271
+[2022-04-27T07:27:12.154Z] Stage 9 files for commit: started.
+[2022-04-27T07:27:15.423Z] Stage 9 files for commit: finished. gk-log://duration?t=3268
+[2022-04-27T07:27:18.862Z] Unstage Datasets/X_train.pickle: started.
+[2022-04-27T07:27:18.972Z] Unstage Datasets/X_train.pickle: finished. gk-log://duration?t=110
+[2022-04-27T07:27:36.718Z] Commit: started.
+[2022-04-27T07:27:37.550Z] Commit: successfully created commit 3906f60db3456928fa11ded0af27b35cd749100b
+[2022-04-27T07:27:37.551Z] Commit: finished gk-log://duration?t=833
+[2022-04-27T07:27:39.149Z] Push dev: started.
+[2022-04-27T07:27:41.655Z] Push dev: finished. gk-log://duration?t=2506
+[2022-08-03T08:45:11.728Z] Unstage 77 files: started.
+[2022-08-03T08:45:13.521Z] Unstage 77 files: finished. gk-log://duration?t=1793
+[2022-08-03T08:46:25.295Z] Pull dev: started.
+[2022-08-03T08:46:25.330Z] Merge origin/dev into dev: started.
+[2022-08-03T08:46:25.337Z] Merge origin/dev into dev: finished. gk-log://duration?t=7
+[2022-08-03T08:46:25.344Z] Pull dev: finished. gk-log://duration?t=49
+[2022-08-11T09:22:41.095Z] Push dev: started.
+[2022-08-11T09:22:42.254Z] Push dev: finished. gk-log://duration?t=1159

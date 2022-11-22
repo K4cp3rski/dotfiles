@@ -1,0 +1,228 @@
+{
+  "pullRequests": {
+    "filters": [
+      {
+        "id": "f5b77640-36fa-4f67-9138-3149d8fb6923",
+        "filter": "author:K4cp3rski",
+        "name": "My Pull Requests",
+        "author": [
+          {
+            "not": false,
+            "values": [
+              "K4cp3rski"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2246767a-5a7f-48ca-a994-a5df959fc818",
+        "filter": "assignee:K4cp3rski",
+        "name": "Assigned To Me",
+        "assignee": [
+          {
+            "not": false,
+            "values": [
+              "K4cp3rski"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "31e611d2-c00c-40b3-a1fc-8cbafad3665f",
+        "filter": "review-requested:K4cp3rski",
+        "name": "Awaiting My Review",
+        "review-requested": [
+          {
+            "not": false,
+            "values": [
+              "K4cp3rski"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3c43d6cd-b0e1-4a99-a6cc-6e3867e7e904",
+        "filter": "",
+        "name": "All Pull Requests",
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      }
+    ],
+    "defaultMergeEmail": "default"
+  },
+  "teams": {
+    "hasFinishedSettingUpTeams": true
+  },
+  "upstreamFrecencyMetadata": {
+    "origin": {
+      "id": "remote-origin",
+      "timestamps": [
+        1659517190353,
+        1659517459249,
+        1659687091638,
+        1660142615113,
+        1660230888368,
+        1660929585928,
+        1661599615270,
+        1665012490884
+      ],
+      "total": 8
+    }
+  },
+  "remoteParents": {
+    "github": {
+      "K4cp3rski": {
+        "Topo_SSH": {
+          "hostingServiceType": "github",
+          "owner": "K4cp3rski",
+          "name": "Topo_SSH"
+        }
+      }
+    }
+  },
+  "issues": {
+    "github": {
+      "type": "github",
+      "currentRemote": "k4cp3rski/topo_ssh",
+      "collapsedFilters": [
+        "33295073-fdd4-452c-ab74-715c0fd31cc8"
+      ]
+    },
+    "githubEnterprise": {
+      "type": "githubEnterprise",
+      "currentRemote": null,
+      "collapsedFilters": []
+    },
+    "gitlabSelfHosted": {
+      "type": "gitlabSelfHosted",
+      "collapsedFilters": [],
+      "currentProjectId": null
+    },
+    "gitlab": {
+      "type": "gitlab",
+      "collapsedFilters": [],
+      "currentProjectId": null
+    },
+    "glo": {
+      "type": "glo",
+      "collapsedFilters": [],
+      "currentBoardId": null
+    },
+    "jiraCloud": {
+      "type": "jiraCloud",
+      "currentProject": null,
+      "collapsedFilters": [],
+      "collapsedIssues": []
+    },
+    "jiraServer": {
+      "type": "jiraServer",
+      "currentProject": null,
+      "collapsedFilters": [],
+      "collapsedIssues": []
+    },
+    "trello": {
+      "type": "trello",
+      "collapsedFilters": [],
+      "currentBoardId": null
+    },
+    "activeIssueTrackerType": "github"
+  },
+  "remoteHeadCollectionByRemoteName": {
+    "origin": {
+      "HEAD": {
+        "name": "HEAD",
+        "oid": "cef4b845f779075f2896c7b539fb1e85a1dc530c",
+        "local": 0,
+        "symrefTarget": "refs/heads/main"
+      },
+      "refs/heads/main": {
+        "name": "refs/heads/main",
+        "oid": "cef4b845f779075f2896c7b539fb1e85a1dc530c",
+        "local": 1,
+        "symrefTarget": null
+      },
+      "refs/heads/notes": {
+        "name": "refs/heads/notes",
+        "oid": "3f6eb1228f78e1130400fb8301ff2d679c846329",
+        "local": 1,
+        "symrefTarget": null
+      },
+      "refs/pull/1/head": {
+        "name": "refs/pull/1/head",
+        "oid": "38f1e2aa6882b37b761e502591e69fea2c5265c0",
+        "local": 0,
+        "symrefTarget": null
+      },
+      "refs/pull/2/head": {
+        "name": "refs/pull/2/head",
+        "oid": "087b8e85afc8f3c4dabb29e55fb87c6b8e492da2",
+        "local": 0,
+        "symrefTarget": null
+      },
+      "refs/pull/3/head": {
+        "name": "refs/pull/3/head",
+        "oid": "38c1f3f54b318736198c3a92f994f9a7ebfdc11e",
+        "local": 0,
+        "symrefTarget": null
+      },
+      "refs/pull/4/head": {
+        "name": "refs/pull/4/head",
+        "oid": "ff64c7f668427e2ed1566cc0b2095a16f3e87df7",
+        "local": 0,
+        "symrefTarget": null
+      },
+      "refs/pull/5/head": {
+        "name": "refs/pull/5/head",
+        "oid": "54555be65ac4af4cf8ccfa2328eefdbed44a2fd6",
+        "local": 0,
+        "symrefTarget": null
+      },
+      "refs/pull/8/head": {
+        "name": "refs/pull/8/head",
+        "oid": "c68af348f7b9c0759fc1a153f1be9915b8e23647",
+        "local": 0,
+        "symrefTarget": null
+      }
+    }
+  },
+  "expandedSections": [
+    "PULL_REQUESTS",
+    "LOCAL",
+    "REMOTE",
+    "ISSUES"
+  ]
+}

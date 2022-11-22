@@ -1,0 +1,17 @@
+[WARNING] Unstaged files detected.
+[INFO] Stashing unstaged files to /Users/k4cp3rskiii/.cache/pre-commit/patch1644512148-5684.
+black................................................(no files to check)Skipped
+flake8...............................................(no files to check)Skipped
+Check JSON...........................................(no files to check)Skipped
+Check Yaml...............................................................Passed
+Check for merge conflicts................................................Passed
+Fix End of Files.........................................................Passed
+Trim Trailing Whitespace.................................................Passed
+Debug Statements (Python)............................(no files to check)Skipped
+Mixed line ending........................................................Passed
+setup-cfg-fmt........................................(no files to check)Skipped
+pyupgrade............................................(no files to check)Skipped
+rst ``code`` is two backticks........................(no files to check)Skipped
+isort................................................(no files to check)Skipped
+[INFO] Restored changes from /Users/k4cp3rskiii/.cache/pre-commit/patch1644512148-5684.
+Hook process exited.

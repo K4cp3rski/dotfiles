@@ -1,0 +1,500 @@
+[2022-08-03T09:03:47.004Z] Create ref refs/heads/dev_BH at 718477078cba5a7a8a2f3d9a6e272e119353bcca: started.
+[2022-08-03T09:03:47.049Z] Checkout refs/heads/dev_BH: started.
+[2022-08-03T09:03:47.270Z] Checkout refs/heads/dev_BH: finished. gk-log://duration?t=221
+[2022-08-03T09:03:47.293Z] Create ref refs/heads/dev_BH at 718477078cba5a7a8a2f3d9a6e272e119353bcca: finished. gk-log://duration?t=289
+[2022-08-03T09:03:54.002Z] Stage Hubbard Hamiltonian.ipynb for commit: started.
+[2022-08-03T09:03:54.103Z] Stage Hubbard Hamiltonian.ipynb for commit: finished. gk-log://duration?t=101
+[2022-08-03T09:04:14.235Z] Commit: started.
+[2022-08-03T09:04:14.348Z] Commit: successfully created commit 2bb4e1a4c46dfb4be76c0267e182f96c2ee49333
+[2022-08-03T09:04:14.350Z] Commit: finished gk-log://duration?t=115
+[2022-08-03T09:04:17.415Z] Push dev_BH: started.
+[2022-08-03T09:04:19.208Z] Set upstream for refs/heads/dev_BH: started.
+[2022-08-03T09:04:19.283Z] Set upstream for refs/heads/dev_BH: finished. gk-log://duration?t=75
+[2022-08-03T09:04:20.309Z] Push dev_BH: finished. gk-log://duration?t=2894
+[2022-08-03T18:12:13.620Z] Stage Hubbard Hamiltonian.ipynb for commit: started.
+[2022-08-03T18:12:13.677Z] Stage Hubbard Hamiltonian.ipynb for commit: finished. gk-log://duration?t=57
+[2022-08-03T18:14:17.577Z] Commit: started.
+[2022-08-03T18:14:17.693Z] Commit: successfully created commit ae43e413f181ded9466066606429dc0005e5d942
+[2022-08-03T18:14:17.694Z] Commit: finished gk-log://duration?t=117
+[2022-08-03T18:14:19.356Z] Push dev_BH: started.
+[2022-08-03T18:14:20.536Z] Push dev_BH: finished. gk-log://duration?t=1180
+[2022-08-04T12:21:11.398Z] Fetch remote origin: unexpected return value from ssl handshake -9806
+[2022-08-04T16:34:21.102Z] Stage 13 files for commit: started.
+[2022-08-04T16:34:21.165Z] Stage 13 files for commit: finished. gk-log://duration?t=63
+[2022-08-04T17:09:23.332Z] Stage 18 files for commit: started.
+[2022-08-04T17:09:23.376Z] Stage 18 files for commit: finished. gk-log://duration?t=44
+[2022-08-04T17:10:31.027Z] Stage 14 files for commit: started.
+[2022-08-04T17:10:31.097Z] Stage 14 files for commit: finished. gk-log://duration?t=70
+[2022-08-04T17:10:35.501Z] Stage 15 files for commit: started.
+[2022-08-04T17:10:35.548Z] Stage 15 files for commit: finished. gk-log://duration?t=47
+[2022-08-04T17:10:38.908Z] Commit: started.
+[2022-08-04T17:10:39.029Z] Commit: successfully created commit 38f1e2aa6882b37b761e502591e69fea2c5265c0
+[2022-08-04T17:10:39.030Z] Commit: finished gk-log://duration?t=122
+[2022-08-04T17:10:40.675Z] Push dev_BH: started.
+[2022-08-04T17:10:43.076Z] Push dev_BH: finished. gk-log://duration?t=2401
+[2022-08-04T17:11:27.939Z] Creating pull request on GitHub: started.
+[2022-08-04T17:11:29.611Z] Finished creating pull request
+[2022-08-04T17:12:26.885Z] Pull dev_BH: started.
+[2022-08-04T17:12:26.889Z] Fetch remote origin: started
+[2022-08-04T17:12:27.436Z] Fetch remote origin: finished gk-log://duration?t=547
+[2022-08-04T17:12:27.494Z] Pull dev_BH: dev_BH does not exist on origin
+[2022-08-04T17:12:27.495Z] Pull dev_BH: finished with errors. gk-log://duration?t=610
+[2022-08-04T17:12:30.958Z] Checkout refs/remotes/origin/main: started.
+[2022-08-04T17:12:34.226Z] Checkout refs/remotes/origin/main: cancelled. gk-log://duration?t=3268
+[2022-08-04T17:12:35.547Z] Checkout refs/heads/main: started.
+[2022-08-04T17:12:35.668Z] Checkout refs/heads/main: finished. gk-log://duration?t=121
+[2022-08-04T17:12:37.677Z] Pull main: started.
+[2022-08-04T17:12:37.685Z] Fetch remote origin: started
+[2022-08-04T17:12:38.039Z] Fetch remote origin: finished gk-log://duration?t=354
+[2022-08-04T17:12:38.070Z] Merge origin/main into main: started.
+[2022-08-04T17:12:38.095Z] Merge origin/main into main: finished. gk-log://duration?t=25
+[2022-08-04T17:12:38.100Z] Pull main: finished. gk-log://duration?t=423
+[2022-08-04T17:13:34.468Z] Delete ref refs/heads/dev_BH at 38f1e2aa6882b37b761e502591e69fea2c5265c0: started.
+[2022-08-04T17:13:34.503Z] Delete ref refs/heads/dev_BH at 38f1e2aa6882b37b761e502591e69fea2c5265c0: finished. gk-log://duration?t=35
+[2022-08-05T08:11:27.920Z] Create ref refs/heads/dev_denisity_mat at 7ece5811f8ae423bda9f9446a197544829c174e7: started.
+[2022-08-05T08:11:27.954Z] Checkout refs/heads/dev_denisity_mat: started.
+[2022-08-05T08:11:28.126Z] Checkout refs/heads/dev_denisity_mat: finished. gk-log://duration?t=172
+[2022-08-05T08:11:28.145Z] Create ref refs/heads/dev_denisity_mat at 7ece5811f8ae423bda9f9446a197544829c174e7: finished. gk-log://duration?t=225
+[2022-08-05T08:11:30.084Z] Push dev_denisity_mat: started.
+[2022-08-05T08:11:31.590Z] Set upstream for refs/heads/dev_denisity_mat: started.
+[2022-08-05T08:11:31.702Z] Set upstream for refs/heads/dev_denisity_mat: finished. gk-log://duration?t=112
+[2022-08-05T08:11:32.783Z] Push dev_denisity_mat: finished. gk-log://duration?t=2698
+[2022-08-05T15:58:56.041Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-08-05T16:01:28.740Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-08-05T16:05:50.742Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-08-06T02:24:22.617Z] Fetch remote origin: error sending data: Broken pipe
+[2022-08-06T08:33:48.139Z] Fetch remote origin: unexpected EOF
+[2022-08-08T17:07:39.317Z] Stage 738 files for commit: started.
+[2022-08-08T17:07:40.724Z] Stage 738 files for commit: finished. gk-log://duration?t=1407
+[2022-08-08T17:10:34.061Z] Commit: started.
+[2022-08-08T17:10:34.380Z] Commit: successfully created commit 087b8e85afc8f3c4dabb29e55fb87c6b8e492da2
+[2022-08-08T17:10:34.381Z] Commit: finished gk-log://duration?t=320
+[2022-08-08T17:10:36.239Z] Push dev_denisity_mat: started.
+[2022-08-08T17:10:55.068Z] Push dev_denisity_mat: finished. gk-log://duration?t=18829
+[2022-08-08T17:11:57.278Z] Creating pull request on GitHub: started.
+[2022-08-08T17:11:57.609Z] Finished creating pull request
+[2022-08-08T17:12:05.479Z] Creating pull request on GitHub: started.
+[2022-08-08T17:12:07.125Z] Finished creating pull request
+[2022-08-08T17:12:57.571Z] Delete ref refs/remotes/origin/dev_denisity_mat at 087b8e85afc8f3c4dabb29e55fb87c6b8e492da2: started.
+[2022-08-08T17:12:58.571Z] Delete ref refs/remotes/origin/dev_denisity_mat at 087b8e85afc8f3c4dabb29e55fb87c6b8e492da2: finished. gk-log://duration?t=1000
+[2022-08-08T17:13:07.804Z] Checkout refs/heads/main: started.
+[2022-08-08T17:13:08.237Z] Checkout refs/heads/main: finished. gk-log://duration?t=433
+[2022-08-08T17:13:19.245Z] Delete ref refs/heads/dev_denisity_mat at 087b8e85afc8f3c4dabb29e55fb87c6b8e492da2: started.
+[2022-08-08T17:13:19.272Z] Delete ref refs/heads/dev_denisity_mat at 087b8e85afc8f3c4dabb29e55fb87c6b8e492da2: finished. gk-log://duration?t=27
+[2022-08-08T17:13:29.376Z] Undo Delete branch "dev_denisity_mat": started.
+[2022-08-08T17:13:29.386Z] Undo Delete branch "dev_denisity_mat": finished. gk-log://duration?t=10
+[2022-08-08T17:13:30.004Z] Undo Checkout from "dev_denisity_mat" to "main": started.
+[2022-08-08T17:13:30.556Z] Undo Checkout from "dev_denisity_mat" to "main": finished. gk-log://duration?t=552
+[2022-08-08T17:13:31.713Z] Redo Checkout from "dev_denisity_mat" to "main": started.
+[2022-08-08T17:13:31.844Z] Redo Checkout from "dev_denisity_mat" to "main": finished. gk-log://duration?t=131
+[2022-08-08T17:13:33.805Z] Undo Checkout from "dev_denisity_mat" to "main": started.
+[2022-08-08T17:13:34.141Z] Undo Checkout from "dev_denisity_mat" to "main": finished. gk-log://duration?t=336
+[2022-08-08T17:13:34.593Z] Undo Commit "Finished DM, Started F-H Implementation": started.
+[2022-08-08T17:13:34.611Z] Undo Commit "Finished DM, Started F-H Implementation": finished. gk-log://duration?t=18
+[2022-08-08T17:13:45.123Z] Redo Commit "Finished DM, Started F-H Implementation": started.
+[2022-08-08T17:13:45.140Z] Redo Commit "Finished DM, Started F-H Implementation": finished. gk-log://duration?t=17
+[2022-08-08T17:13:45.414Z] Redo Checkout from "dev_denisity_mat" to "main": started.
+[2022-08-08T17:13:45.537Z] Redo Checkout from "dev_denisity_mat" to "main": finished. gk-log://duration?t=123
+[2022-08-08T17:13:47.733Z] Undo Checkout from "dev_denisity_mat" to "main": started.
+[2022-08-08T17:13:48.109Z] Undo Checkout from "dev_denisity_mat" to "main": finished. gk-log://duration?t=376
+[2022-08-08T17:14:05.505Z] Checkout refs/remotes/origin/main: started.
+[2022-08-08T17:14:08.092Z] Checkout refs/remotes/origin/main: cancelled. gk-log://duration?t=2587
+[2022-08-08T17:14:11.510Z] Checkout refs/heads/main: started.
+[2022-08-08T17:14:11.723Z] Checkout refs/heads/main: finished. gk-log://duration?t=213
+[2022-08-08T17:14:13.445Z] Pull main: started.
+[2022-08-08T17:14:13.449Z] Fetch remote origin: started
+[2022-08-08T17:14:13.802Z] Fetch remote origin: finished gk-log://duration?t=353
+[2022-08-08T17:14:13.836Z] Merge origin/main into main: started.
+[2022-08-08T17:14:14.097Z] Merge origin/main into main: finished. gk-log://duration?t=261
+[2022-08-08T17:14:14.107Z] Pull main: finished. gk-log://duration?t=662
+[2022-08-08T17:14:31.639Z] Delete ref refs/heads/dev_denisity_mat at 087b8e85afc8f3c4dabb29e55fb87c6b8e492da2: started.
+[2022-08-08T17:14:31.663Z] Delete ref refs/heads/dev_denisity_mat at 087b8e85afc8f3c4dabb29e55fb87c6b8e492da2: finished. gk-log://duration?t=24
+[2022-08-08T18:15:24.249Z] Stage 524 files for commit: started.
+[2022-08-08T18:15:28.368Z] Stage 524 files for commit: finished. gk-log://duration?t=4119
+[2022-08-08T18:17:43.602Z] Commit: started.
+[2022-08-08T18:17:44.247Z] Commit: successfully created commit 017a3a5633daa97a73d97562112283c04468c7f1
+[2022-08-08T18:17:44.248Z] Commit: finished gk-log://duration?t=646
+[2022-08-08T18:17:46.378Z] Push main: started.
+[2022-08-08T18:17:47.569Z] Push main: finished. gk-log://duration?t=1191
+[2022-08-09T17:21:52.353Z] Stage 2137 files for commit: started.
+[2022-08-09T17:21:56.136Z] Stage 2137 files for commit: finished. gk-log://duration?t=3783
+[2022-08-09T17:25:45.013Z] Commit: started.
+[2022-08-09T17:25:45.228Z] Commit: successfully created commit ce094c766479913b5b1e588916b1ba4a1c198d3b
+[2022-08-09T17:25:45.232Z] Commit: finished gk-log://duration?t=219
+[2022-08-09T17:25:48.207Z] Push main: started.
+[2022-08-09T17:25:53.021Z] Push main: finished. gk-log://duration?t=4814
+[2022-08-09T17:27:49.006Z] Amend message of commit ce094c766479913b5b1e588916b1ba4a1c198d3b: started.
+[2022-08-09T17:27:49.022Z] Amend message of commit ce094c766479913b5b1e588916b1ba4a1c198d3b: finished.
+[2022-08-09T17:35:35.187Z] Stage Hubbard_aux.py for commit: started.
+[2022-08-09T17:35:35.243Z] Stage Hubbard_aux.py for commit: finished. gk-log://duration?t=56
+[2022-08-09T17:36:13.510Z] Commit: started.
+[2022-08-09T17:36:13.646Z] Commit: successfully created commit 7f91641d2cd8abdd7460b47537fcf8924ecca272
+[2022-08-09T17:36:13.646Z] Commit: finished gk-log://duration?t=136
+[2022-08-09T17:36:16.058Z] Push main: started.
+[2022-08-09T17:36:27.632Z] Push main: cancelled. gk-log://duration?t=11574
+[2022-08-09T17:36:34.461Z] Pull main: started.
+[2022-08-09T17:36:34.468Z] Fetch remote origin: started
+[2022-08-09T17:36:34.848Z] Fetch remote origin: finished gk-log://duration?t=380
+[2022-08-09T17:36:34.879Z] Merge origin/main into main: started.
+[2022-08-09T17:36:34.929Z] Merge origin/main into main: finished. gk-log://duration?t=50
+[2022-08-09T17:36:34.936Z] Pull main: finished. gk-log://duration?t=475
+[2022-08-09T17:36:39.691Z] Push main: started.
+[2022-08-09T17:36:40.687Z] Push main: finished. gk-log://duration?t=996
+[2022-08-09T19:38:41.394Z] Stage 31 files for commit: started.
+[2022-08-09T19:38:41.708Z] Stage 31 files for commit: finished. gk-log://duration?t=314
+[2022-08-09T19:39:16.857Z] Commit: started.
+[2022-08-09T19:39:17.034Z] Commit: successfully created commit b3b9c8d92f5b9561292eb9e50b12a082930841e5
+[2022-08-09T19:39:17.035Z] Commit: finished gk-log://duration?t=178
+[2022-08-09T19:39:18.589Z] Push main: started.
+[2022-08-09T19:39:21.156Z] Push main: finished. gk-log://duration?t=2567
+[2022-08-10T14:11:53.691Z] Stage 56 files for commit: started.
+[2022-08-10T14:11:55.386Z] Stage 56 files for commit: finished. gk-log://duration?t=1695
+[2022-08-10T14:21:32.355Z] Stage 70 files for commit: started.
+[2022-08-10T14:21:32.568Z] Stage 70 files for commit: finished. gk-log://duration?t=213
+[2022-08-10T14:23:53.545Z] Commit: started.
+[2022-08-10T14:23:53.900Z] Commit: successfully created commit d61365a9d9508533b873eeaac4daf9de995b51bf
+[2022-08-10T14:23:53.901Z] Commit: finished gk-log://duration?t=356
+[2022-08-10T14:23:56.063Z] Push main: started.
+[2022-08-10T14:23:58.009Z] Push main: finished. gk-log://duration?t=1946
+[2022-08-10T14:43:31.402Z] Create ref refs/heads/multiparticle at d61365a9d9508533b873eeaac4daf9de995b51bf: started.
+[2022-08-10T14:43:31.447Z] Checkout refs/heads/multiparticle: started.
+[2022-08-10T14:43:31.581Z] Checkout refs/heads/multiparticle: finished. gk-log://duration?t=134
+[2022-08-10T14:43:31.591Z] Create ref refs/heads/multiparticle at d61365a9d9508533b873eeaac4daf9de995b51bf: finished. gk-log://duration?t=189
+[2022-08-10T14:43:33.898Z] Push multiparticle: started.
+[2022-08-10T14:43:35.005Z] Set upstream for refs/heads/multiparticle: started.
+[2022-08-10T14:43:35.242Z] Set upstream for refs/heads/multiparticle: finished. gk-log://duration?t=237
+[2022-08-10T14:43:36.375Z] Push multiparticle: finished. gk-log://duration?t=2477
+[2022-08-10T20:36:00.968Z] Stage 47 files for commit: started.
+[2022-08-10T20:36:01.651Z] Stage 47 files for commit: finished. gk-log://duration?t=683
+[2022-08-10T20:36:56.496Z] Commit: started.
+[2022-08-10T20:36:56.742Z] Commit: successfully created commit 38c1f3f54b318736198c3a92f994f9a7ebfdc11e
+[2022-08-10T20:36:56.744Z] Commit: finished gk-log://duration?t=248
+[2022-08-10T20:36:58.311Z] Push multiparticle: started.
+[2022-08-10T20:37:00.698Z] Push multiparticle: finished. gk-log://duration?t=2387
+[2022-08-10T20:37:29.031Z] Creating pull request on GitHub: started.
+[2022-08-10T20:37:30.960Z] Finished creating pull request
+[2022-08-10T20:37:48.190Z] Delete ref refs/remotes/origin/multiparticle at 38c1f3f54b318736198c3a92f994f9a7ebfdc11e: started.
+[2022-08-10T20:37:49.251Z] Delete ref refs/remotes/origin/multiparticle at 38c1f3f54b318736198c3a92f994f9a7ebfdc11e: finished. gk-log://duration?t=1061
+[2022-08-10T20:37:57.683Z] Checkout refs/heads/main: started.
+[2022-08-10T20:37:57.863Z] Checkout refs/heads/main: finished. gk-log://duration?t=180
+[2022-08-10T20:38:03.442Z] Pull main: started.
+[2022-08-10T20:38:03.449Z] Fetch remote origin: started
+[2022-08-10T20:38:04.063Z] Fetch remote origin: finished gk-log://duration?t=613
+[2022-08-10T20:38:04.128Z] Merge origin/main into main: started.
+[2022-08-10T20:38:04.295Z] Merge origin/main into main: finished. gk-log://duration?t=167
+[2022-08-10T20:38:04.303Z] Pull main: finished. gk-log://duration?t=861
+[2022-08-10T20:38:17.797Z] Delete ref refs/heads/multiparticle at 38c1f3f54b318736198c3a92f994f9a7ebfdc11e: started.
+[2022-08-10T20:38:17.834Z] Delete ref refs/heads/multiparticle at 38c1f3f54b318736198c3a92f994f9a7ebfdc11e: finished. gk-log://duration?t=37
+[2022-08-11T08:41:34.867Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-08-11T08:47:06.757Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-08-11T15:14:44.627Z] Create ref refs/heads/dev at 33ad18608357a8f9df87f63907216803b7cced0e: started.
+[2022-08-11T15:14:44.655Z] Checkout refs/heads/dev: started.
+[2022-08-11T15:14:44.897Z] Checkout refs/heads/dev: finished. gk-log://duration?t=242
+[2022-08-11T15:14:44.910Z] Create ref refs/heads/dev at 33ad18608357a8f9df87f63907216803b7cced0e: finished. gk-log://duration?t=283
+[2022-08-11T15:14:46.637Z] Push dev: started.
+[2022-08-11T15:14:48.319Z] Set upstream for refs/heads/dev: started.
+[2022-08-11T15:14:48.428Z] Set upstream for refs/heads/dev: finished. gk-log://duration?t=109
+[2022-08-11T15:14:49.434Z] Push dev: finished. gk-log://duration?t=2797
+[2022-08-11T15:14:51.786Z] Stage 25 files for commit: started.
+[2022-08-11T15:14:52.251Z] Stage 25 files for commit: finished. gk-log://duration?t=465
+[2022-08-11T15:15:29.159Z] Stage 25 files for commit: started.
+[2022-08-11T15:15:29.392Z] Stage 25 files for commit: finished. gk-log://duration?t=233
+[2022-08-11T15:15:31.703Z] Commit: started.
+[2022-08-11T15:15:32.180Z] Commit: successfully created commit 6e1ad0ef2ea5d5e6c4529b41c50b5a9d7bb70dc9
+[2022-08-11T15:15:32.182Z] Commit: finished gk-log://duration?t=479
+[2022-08-11T15:15:33.890Z] Push dev: started.
+[2022-08-11T15:15:36.739Z] Push dev: finished. gk-log://duration?t=2849
+[2022-08-19T17:15:06.476Z] Stage 76 files for commit: started.
+[2022-08-19T17:15:07.970Z] Stage 76 files for commit: finished. gk-log://duration?t=1494
+[2022-08-19T17:16:38.396Z] Commit: started.
+[2022-08-19T17:16:38.817Z] Commit: successfully created commit ff64c7f668427e2ed1566cc0b2095a16f3e87df7
+[2022-08-19T17:16:38.818Z] Commit: finished gk-log://duration?t=422
+[2022-08-19T17:16:40.209Z] Push dev: started.
+[2022-08-19T17:16:51.689Z] Push dev: finished. gk-log://duration?t=11480
+[2022-08-19T17:17:35.538Z] Creating pull request on GitHub: started.
+[2022-08-19T17:17:37.747Z] Finished creating pull request
+[2022-08-19T17:17:54.497Z] Checkout refs/heads/main: started.
+[2022-08-19T17:17:54.957Z] Checkout refs/heads/main: finished. gk-log://duration?t=460
+[2022-08-19T17:17:57.566Z] Checkout refs/heads/dev: started.
+[2022-08-19T17:17:57.935Z] Checkout refs/heads/dev: finished. gk-log://duration?t=369
+[2022-08-19T17:18:04.956Z] Checkout refs/heads/main: started.
+[2022-08-19T17:18:05.205Z] Checkout refs/heads/main: finished. gk-log://duration?t=249
+[2022-08-19T17:18:33.598Z] Delete ref refs/heads/dev at ff64c7f668427e2ed1566cc0b2095a16f3e87df7: started.
+[2022-08-19T17:18:33.633Z] Delete ref refs/heads/dev at ff64c7f668427e2ed1566cc0b2095a16f3e87df7: finished. gk-log://duration?t=35
+[2022-08-19T17:18:33.703Z] Delete ref refs/remotes/origin/dev at ff64c7f668427e2ed1566cc0b2095a16f3e87df7: started.
+[2022-08-19T17:18:35.265Z] Delete ref refs/remotes/origin/dev at ff64c7f668427e2ed1566cc0b2095a16f3e87df7: finished. gk-log://duration?t=1562
+[2022-08-19T17:18:48.004Z] Pull main: started.
+[2022-08-19T17:18:48.007Z] Fetch remote origin: started
+[2022-08-19T17:18:59.466Z] Fetch remote origin: finished gk-log://duration?t=11459
+[2022-08-19T17:18:59.518Z] Merge origin/main into main: started.
+[2022-08-19T17:18:59.731Z] Merge origin/main into main: finished. gk-log://duration?t=213
+[2022-08-19T17:18:59.737Z] Pull main: finished. gk-log://duration?t=11733
+[2022-08-19T17:19:42.770Z] Create ref refs/heads/asboth_integration at b01e1af3b37b91c7f4e16a5bced7f3f8601e628c: started.
+[2022-08-19T17:19:42.817Z] Checkout refs/heads/asboth_integration: started.
+[2022-08-19T17:19:43.221Z] Checkout refs/heads/asboth_integration: finished. gk-log://duration?t=404
+[2022-08-19T17:19:43.235Z] Create ref refs/heads/asboth_integration at b01e1af3b37b91c7f4e16a5bced7f3f8601e628c: finished. gk-log://duration?t=465
+[2022-08-19T17:19:45.076Z] Push asboth_integration: started.
+[2022-08-19T17:19:45.877Z] Set upstream for refs/heads/asboth_integration: started.
+[2022-08-19T17:19:45.960Z] Set upstream for refs/heads/asboth_integration: finished. gk-log://duration?t=83
+[2022-08-19T17:19:47.213Z] Push asboth_integration: finished. gk-log://duration?t=2137
+[2022-08-24T14:57:57.613Z] Stage 21 files for commit: started.
+[2022-08-24T14:57:57.912Z] Stage 21 files for commit: finished. gk-log://duration?t=299
+[2022-08-24T15:02:43.686Z] Commit: started.
+[2022-08-24T15:02:43.924Z] Commit: successfully created commit 2ca34578b875ebddb6988582ba5504bc6e7b6ea3
+[2022-08-24T15:02:43.926Z] Commit: finished gk-log://duration?t=240
+[2022-08-27T11:08:37.475Z] Pull asboth_integration: started.
+[2022-08-27T11:08:37.486Z] Fetch remote origin: started
+[2022-08-27T11:08:37.901Z] Fetch remote origin: finished gk-log://duration?t=415
+[2022-08-27T11:08:37.957Z] Merge origin/asboth_integration into asboth_integration: started.
+[2022-08-27T11:08:37.969Z] Merge origin/asboth_integration into asboth_integration: finished. gk-log://duration?t=12
+[2022-08-27T11:08:37.977Z] Pull asboth_integration: finished. gk-log://duration?t=502
+[2022-08-27T11:24:34.635Z] Stage 32 files for commit: started.
+[2022-08-27T11:24:34.977Z] Stage 32 files for commit: finished. gk-log://duration?t=342
+[2022-08-27T11:25:16.352Z] Commit: started.
+[2022-08-27T11:25:16.703Z] Commit: successfully created commit 54555be65ac4af4cf8ccfa2328eefdbed44a2fd6
+[2022-08-27T11:25:16.704Z] Commit: finished gk-log://duration?t=352
+[2022-08-27T11:25:17.959Z] Push asboth_integration: started.
+[2022-08-27T11:25:21.449Z] Push asboth_integration: finished. gk-log://duration?t=3490
+[2022-08-27T11:25:46.660Z] Creating pull request on GitHub: started.
+[2022-08-27T11:25:47.857Z] Finished creating pull request
+[2022-08-27T11:25:55.553Z] Checkout refs/heads/main: started.
+[2022-08-27T11:25:55.767Z] Checkout refs/heads/main: finished. gk-log://duration?t=214
+[2022-08-27T11:26:05.271Z] Delete ref refs/heads/asboth_integration at 54555be65ac4af4cf8ccfa2328eefdbed44a2fd6: started.
+[2022-08-27T11:26:05.303Z] Delete ref refs/heads/asboth_integration at 54555be65ac4af4cf8ccfa2328eefdbed44a2fd6: finished. gk-log://duration?t=32
+[2022-08-27T11:26:05.372Z] Delete ref refs/remotes/origin/asboth_integration at 54555be65ac4af4cf8ccfa2328eefdbed44a2fd6: started.
+[2022-08-27T11:26:06.538Z] Delete ref refs/remotes/origin/asboth_integration at 54555be65ac4af4cf8ccfa2328eefdbed44a2fd6: finished. gk-log://duration?t=1166
+[2022-08-27T11:26:51.707Z] Create ref refs/heads/notes at b01e1af3b37b91c7f4e16a5bced7f3f8601e628c: started.
+[2022-08-27T11:26:51.743Z] Checkout refs/heads/notes: started.
+[2022-08-27T11:26:51.980Z] Checkout refs/heads/notes: finished. gk-log://duration?t=237
+[2022-08-27T11:26:51.991Z] Create ref refs/heads/notes at b01e1af3b37b91c7f4e16a5bced7f3f8601e628c: finished. gk-log://duration?t=284
+[2022-08-27T11:26:53.996Z] Push notes: started.
+[2022-08-27T11:26:55.223Z] Set upstream for refs/heads/notes: started.
+[2022-08-27T11:26:55.350Z] Set upstream for refs/heads/notes: finished. gk-log://duration?t=127
+[2022-08-27T11:26:56.348Z] Push notes: finished. gk-log://duration?t=2352
+[2022-08-27T11:27:06.183Z] Checkout refs/heads/main: started.
+[2022-08-27T11:27:06.343Z] Checkout refs/heads/main: finished. gk-log://duration?t=160
+[2022-08-27T11:27:08.332Z] Pull main: started.
+[2022-08-27T11:27:08.341Z] Fetch remote origin: started
+[2022-08-27T11:27:08.706Z] Fetch remote origin: finished gk-log://duration?t=365
+[2022-08-27T11:27:08.760Z] Merge origin/main into main: started.
+[2022-08-27T11:27:08.859Z] Merge origin/main into main: finished. gk-log://duration?t=99
+[2022-08-27T11:27:08.866Z] Pull main: finished. gk-log://duration?t=534
+[2022-08-27T11:29:11.557Z] Merge main into notes: started.
+[2022-08-27T11:29:11.581Z] Merge main into notes: finished. gk-log://duration?t=24
+[2022-08-27T11:29:14.244Z] Checkout refs/heads/notes: started.
+[2022-08-27T11:29:14.440Z] Checkout refs/heads/notes: finished. gk-log://duration?t=196
+[2022-08-27T11:29:15.744Z] Push notes: started.
+[2022-08-27T11:29:16.747Z] Push notes: finished. gk-log://duration?t=1003
+[2022-10-05T22:00:25.020Z] Checkout refs/heads/main: started.
+[2022-10-05T22:00:25.258Z] Checkout refs/heads/main: finished. gk-log://duration?t=238
+[2022-10-05T22:01:45.273Z] Stage 216 files for commit: started.
+[2022-10-05T22:01:46.308Z] Stage 216 files for commit: finished. gk-log://duration?t=1035
+[2022-10-05T22:04:24.430Z] Unstage 171 files: started.
+[2022-10-05T22:04:24.529Z] Unstage 171 files: finished. gk-log://duration?t=99
+[2022-10-05T22:05:32.798Z] Commit: started.
+[2022-10-05T22:05:33.041Z] Commit: successfully created commit 7ab1cd7386d70a0eb0a234524a997e118caff33a
+[2022-10-05T22:05:33.042Z] Commit: finished gk-log://duration?t=244
+[2022-10-05T22:05:35.205Z] Push main: started.
+[2022-10-05T22:05:43.616Z] Push main: finished. gk-log://duration?t=8411
+[2022-10-05T22:05:51.463Z] Checkout refs/heads/notes: started.
+[2022-10-05T22:05:51.692Z] Checkout refs/heads/notes: finished. gk-log://duration?t=229
+[2022-10-05T22:05:56.234Z] Stage 171 files for commit: started.
+[2022-10-05T22:05:57.762Z] Stage 171 files for commit: finished. gk-log://duration?t=1528
+[2022-10-05T22:06:19.712Z] Commit: started.
+[2022-10-05T22:06:19.927Z] Commit: successfully created commit 3f6eb1228f78e1130400fb8301ff2d679c846329
+[2022-10-05T22:06:19.928Z] Commit: finished gk-log://duration?t=216
+[2022-10-05T22:06:22.661Z] Push notes: started.
+[2022-10-05T22:06:30.765Z] Push notes: finished. gk-log://duration?t=8104
+[2022-10-05T22:06:32.267Z] Checkout refs/heads/main: started.
+[2022-10-05T22:06:32.637Z] Checkout refs/heads/main: finished. gk-log://duration?t=370
+[2022-10-05T23:21:32.684Z] Stage 35 files for commit: started.
+[2022-10-05T23:21:33.345Z] Stage 35 files for commit: finished. gk-log://duration?t=661
+[2022-10-05T23:23:05.487Z] Commit: started.
+[2022-10-05T23:23:05.690Z] Commit: successfully created commit cfd07f56d69e431cda0cee948462b94f5c69e61a
+[2022-10-05T23:23:05.691Z] Commit: finished gk-log://duration?t=204
+[2022-10-05T23:23:07.614Z] Push main: started.
+[2022-10-05T23:23:11.362Z] Push main: finished. gk-log://duration?t=3748
+[2022-10-05T23:24:50.777Z] Set GitHub issues remote to K4cp3rski/Topo_SSH: started.
+[2022-10-05T23:24:50.796Z] Set GitHub issues remote to K4cp3rski/Topo_SSH: finished. gk-log://duration?t=19
+[2022-10-05T23:24:50.871Z] Refresh github issues: started.
+[2022-10-05T23:24:51.325Z] Refresh github issues: finished. gk-log://duration?t=454
+[2022-10-05T23:27:03.429Z] Create issue from form for GitHub: started.
+[2022-10-05T23:27:04.268Z] Create branch for GitHub issue 6: started.
+[2022-10-05T23:27:04.329Z] Create branch for GitHub issue 6: finished. gk-log://duration?t=61
+[2022-10-05T23:27:04.351Z] Create issue from form for GitHub: finished. gk-log://duration?t=922
+[2022-10-05T23:27:04.390Z] Refresh github issues: started.
+[2022-10-05T23:27:04.997Z] Refresh github issues: finished. gk-log://duration?t=607
+[2022-10-05T23:28:07.608Z] Create ref refs/heads/CNN_dev at cfd07f56d69e431cda0cee948462b94f5c69e61a: started.
+[2022-10-05T23:28:07.653Z] Checkout refs/heads/CNN_dev: started.
+[2022-10-05T23:28:07.820Z] Checkout refs/heads/CNN_dev: finished. gk-log://duration?t=167
+[2022-10-05T23:28:07.833Z] Create ref refs/heads/CNN_dev at cfd07f56d69e431cda0cee948462b94f5c69e61a: finished. gk-log://duration?t=225
+[2022-10-05T23:28:09.280Z] Push CNN_dev: started.
+[2022-10-05T23:28:10.830Z] Set upstream for refs/heads/CNN_dev: started.
+[2022-10-05T23:28:10.916Z] Set upstream for refs/heads/CNN_dev: finished. gk-log://duration?t=86
+[2022-10-05T23:28:12.057Z] Push CNN_dev: finished. gk-log://duration?t=2777
+[2022-10-05T23:31:35.909Z] Stage 2 files for commit: started.
+[2022-10-05T23:31:36.258Z] Stage 2 files for commit: finished. gk-log://duration?t=349
+[2022-10-05T23:31:48.779Z] Commit: started.
+[2022-10-05T23:31:48.961Z] Commit: successfully created commit deb2ff90518eb4d2594e1c14bf96dc3dba763c9b
+[2022-10-05T23:31:48.962Z] Commit: finished gk-log://duration?t=183
+[2022-10-05T23:31:50.252Z] Push CNN_dev: started.
+[2022-10-05T23:31:51.314Z] Push CNN_dev: finished. gk-log://duration?t=1062
+[2022-10-21T13:43:51.455Z] Refresh github issues: started.
+[2022-10-21T13:43:52.161Z] Refresh github issues: finished. gk-log://duration?t=706
+[2022-10-27T12:49:39.886Z] Refresh github issues: started.
+[2022-10-27T12:49:40.360Z] Refresh github issues: finished. gk-log://duration?t=474
+[2022-10-27T12:50:05.101Z] Stage 1394 files for commit: started.
+[2022-10-27T12:50:16.617Z] Stage 1394 files for commit: finished. gk-log://duration?t=11516
+[2022-10-27T12:56:47.723Z] Commit: started.
+[2022-10-27T12:56:47.989Z] Commit: successfully created commit d4eb9a46d5ba662ce5c89a042a6696238006f46d
+[2022-10-27T12:56:47.991Z] Commit: finished gk-log://duration?t=268
+[2022-10-27T12:56:50.195Z] Push CNN_dev: started.
+[2022-10-27T12:57:03.113Z] Push CNN_dev: Secure Transport Error for origin: this might indicate you're attempting to push too many files at once.
+[2022-10-27T12:57:03.115Z] Push CNN_dev: finished with errors. gk-log://duration?t=12920
+[2022-10-27T12:57:20.868Z] Push CNN_dev: started.
+[2022-10-27T12:57:32.451Z] Push CNN_dev: Secure Transport Error for origin: this might indicate you're attempting to push too many files at once.
+[2022-10-27T12:57:32.453Z] Push CNN_dev: finished with errors. gk-log://duration?t=11585
+[2022-10-27T12:57:34.135Z] Undo Commit "Added CNN development files, cleaned repo": started.
+[2022-10-27T12:57:34.168Z] Undo Commit "Added CNN development files, cleaned repo": finished. gk-log://duration?t=33
+[2022-10-27T12:57:47.856Z] Unstage 1394 files: started.
+[2022-10-27T12:57:50.796Z] Unstage 1394 files: finished. gk-log://duration?t=2940
+[2022-10-27T12:57:58.172Z] Stage 31 files for commit: started.
+[2022-10-27T12:58:01.105Z] Stage 31 files for commit: finished. gk-log://duration?t=2933
+[2022-10-27T12:58:07.373Z] Ignore Poster_Minimodes: started.
+[2022-10-27T12:58:10.219Z] Ignore Poster_Minimodes: finished. gk-log://duration?t=2846
+[2022-10-27T12:58:16.945Z] Stage 10 files for commit: started.
+[2022-10-27T12:58:19.571Z] Stage 10 files for commit: finished. gk-log://duration?t=2626
+[2022-10-27T12:58:22.158Z] Stage CNN_dev.py for commit: started.
+[2022-10-27T12:58:24.747Z] Stage CNN_dev.py for commit: finished. gk-log://duration?t=2589
+[2022-10-27T12:58:27.329Z] Stage CNN_test_fig.py for commit: started.
+[2022-10-27T12:58:29.912Z] Stage CNN_test_fig.py for commit: finished. gk-log://duration?t=2583
+[2022-10-27T12:58:32.505Z] Stage CNN_testing.py for commit: started.
+[2022-10-27T12:58:35.081Z] Stage CNN_testing.py for commit: finished. gk-log://duration?t=2576
+[2022-10-27T12:58:40.250Z] Stage Data_Generation.py for commit: started.
+[2022-10-27T12:58:42.821Z] Stage Data_Generation.py for commit: finished. gk-log://duration?t=2571
+[2022-10-27T12:58:45.407Z] Stage CNN_dev.ipynb for commit: started.
+[2022-10-27T12:58:47.982Z] Stage CNN_dev.ipynb for commit: finished. gk-log://duration?t=2575
+[2022-10-27T12:58:50.568Z] Stage Loaders.py for commit: started.
+[2022-10-27T12:58:53.156Z] Stage Loaders.py for commit: finished. gk-log://duration?t=2588
+[2022-10-27T12:58:55.743Z] Stage Hubbard_aux.py for commit: started.
+[2022-10-27T12:58:58.325Z] Stage Hubbard_aux.py for commit: finished. gk-log://duration?t=2582
+[2022-10-27T12:59:00.918Z] Stage Models.py for commit: started.
+[2022-10-27T12:59:03.489Z] Stage Models.py for commit: finished. gk-log://duration?t=2571
+[2022-10-27T12:59:06.063Z] Stage Size_calc.py for commit: started.
+[2022-10-27T12:59:08.689Z] Stage Size_calc.py for commit: finished. gk-log://duration?t=2626
+[2022-10-27T12:59:27.398Z] Stage .gitignore for commit: started.
+[2022-10-27T12:59:29.991Z] Stage .gitignore for commit: finished. gk-log://duration?t=2593
+[2022-10-27T12:59:33.281Z] Stage .DS_Store for commit: started.
+[2022-10-27T12:59:35.865Z] Stage .DS_Store for commit: finished. gk-log://duration?t=2584
+[2022-10-27T12:59:42.101Z] Stage 15 files for commit: started.
+[2022-10-27T12:59:49.932Z] Stage 15 files for commit: finished. gk-log://duration?t=7831
+[2022-10-27T12:59:58.777Z] Commit: started.
+[2022-10-27T12:59:59.745Z] Commit: successfully created commit 74241afa187dcafe8c0b0258c7b073b5dc038fc0
+[2022-10-27T12:59:59.747Z] Commit: finished gk-log://duration?t=970
+[2022-10-27T13:00:01.563Z] Push CNN_dev: started.
+[2022-10-27T13:00:30.041Z] Push CNN_dev: finished. gk-log://duration?t=28478
+[2022-10-27T13:00:33.307Z] Stage 1321 files for commit: started.
+[2022-10-27T13:00:34.922Z] Stage 1321 files for commit: finished. gk-log://duration?t=1615
+[2022-10-27T13:00:56.809Z] Commit: started.
+[2022-10-27T13:00:57.034Z] Commit: successfully created commit 44e202e422716fae330814c1a71a8093d9ca3317
+[2022-10-27T13:00:57.035Z] Commit: finished gk-log://duration?t=226
+[2022-10-27T13:00:59.138Z] Push CNN_dev: started.
+[2022-10-27T13:01:00.182Z] Push CNN_dev: finished. gk-log://duration?t=1044
+[2022-10-28T11:57:44.457Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-10-28T12:22:54.048Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-10-28T12:25:50.508Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-11-02T09:00:07.454Z] Refresh github issues: started.
+[2022-11-02T09:00:07.967Z] Refresh github issues: finished. gk-log://duration?t=513
+[2022-11-02T10:54:08.441Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-11-02T10:55:08.036Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-11-02T10:56:08.106Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-11-02T10:57:08.249Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-11-02T10:58:08.362Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-11-02T10:59:08.250Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-11-02T11:00:08.484Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-11-02T11:01:08.654Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-11-02T20:57:39.503Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-11-02T21:40:39.486Z] Fetch remote origin: failed to resolve address for github.com: nodename nor servname provided, or not known
+[2022-11-03T23:41:11.403Z] Refresh github issues: started.
+[2022-11-03T23:41:12.030Z] Refresh github issues: finished. gk-log://duration?t=627
+[2022-11-03T23:43:43.315Z] Ignore Datasets: started.
+[2022-11-03T23:43:46.445Z] Ignore Datasets: finished. gk-log://duration?t=3130
+[2022-11-04T01:00:42.635Z] Ignore Datasets: started.
+[2022-11-04T01:00:51.375Z] Ignore Datasets: finished. gk-log://duration?t=8740
+[2022-11-04T01:13:34.945Z] Ignore Datasets/M=50: started.
+[2022-11-04T01:13:38.052Z] Ignore Datasets/M=50: finished. gk-log://duration?t=3107
+[2022-11-04T01:13:51.494Z] Ignore Datasets/M=80: started.
+[2022-11-04T01:13:53.081Z] Ignore Datasets/M=80: finished. gk-log://duration?t=1587
+[2022-11-04T01:14:08.812Z] Stage 32 files for commit: started.
+[2022-11-04T01:14:10.538Z] Stage 32 files for commit: finished. gk-log://duration?t=1726
+[2022-11-04T01:22:36.475Z] Stage 33 files for commit: started.
+[2022-11-04T01:22:36.538Z] Stage 33 files for commit: finished. gk-log://duration?t=63
+[2022-11-04T01:23:02.360Z] Stage 33 files for commit: started.
+[2022-11-04T01:23:02.422Z] Stage 33 files for commit: finished. gk-log://duration?t=62
+[2022-11-04T01:23:09.021Z] Commit: started.
+[2022-11-04T01:23:09.267Z] Commit: successfully created commit c68af348f7b9c0759fc1a153f1be9915b8e23647
+[2022-11-04T01:23:09.268Z] Commit: finished gk-log://duration?t=247
+[2022-11-04T01:23:11.480Z] Push CNN_dev: started.
+[2022-11-04T01:23:12.997Z] Push CNN_dev: finished. gk-log://duration?t=1517
+[2022-11-04T01:23:57.615Z] Creating pull request on GitHub: started.
+[2022-11-04T01:23:59.696Z] Finished creating pull request
+[2022-11-04T01:24:05.424Z] Checkout refs/heads/main: started.
+[2022-11-04T01:24:07.042Z] Checkout refs/heads/main: finished. gk-log://duration?t=1617
+[2022-11-04T01:24:16.989Z] Checkout refs/heads/CNN_dev: started.
+[2022-11-04T01:24:17.439Z] Checkout refs/heads/CNN_dev: finished. gk-log://duration?t=450
+[2022-11-04T01:40:03.725Z] Pull CNN_dev: started.
+[2022-11-04T01:40:03.734Z] Fetch remote origin: started
+[2022-11-04T01:40:04.746Z] Fetch remote origin: finished gk-log://duration?t=1012
+[2022-11-04T01:40:04.834Z] Merge origin/CNN_dev into CNN_dev: started.
+[2022-11-04T01:40:04.851Z] Merge origin/CNN_dev into CNN_dev: finished. gk-log://duration?t=17
+[2022-11-04T01:40:04.860Z] Pull CNN_dev: finished. gk-log://duration?t=1135
+[2022-11-04T01:40:10.929Z] Checkout refs/remotes/origin/main: started.
+[2022-11-04T01:40:19.826Z] Auto-stash uncommitted changes: started.
+[2022-11-04T01:40:19.847Z] Stage 6 files for stash: started.
+[2022-11-04T01:40:19.943Z] Stage 6 files for stash: finished. gk-log://duration?t=96
+[2022-11-04T01:40:20.171Z] Auto-stash uncommitted changes: finished. Stash sha: 80881f84b389e3a8a95fc243a20d5323d6d01310 gk-log://duration?t=345
+[2022-11-04T01:40:20.298Z] Checkout refs/remotes/origin/main: finished. gk-log://duration?t=9369
+[2022-11-04T01:40:42.563Z] Apply stash 462166ae7e6296157c7e254b76140270e1c69be4: started.
+[2022-11-04T01:40:42.608Z] Apply stash 462166ae7e6296157c7e254b76140270e1c69be4: finished. gk-log://duration?t=45
+[2022-11-04T01:41:18.384Z] Stage Winding number development/Winding number vs disorder plots/Wind_vs_V_with_disorder_plot_2.pdf for commit: started.
+[2022-11-04T01:41:18.448Z] Stage Winding number development/Winding number vs disorder plots/Wind_vs_V_with_disorder_plot_2.pdf for commit: finished. gk-log://duration?t=64
+[2022-11-04T01:41:22.179Z] Unstage 6 files: started.
+[2022-11-04T01:41:22.258Z] Unstage 6 files: finished. gk-log://duration?t=79
+[2022-11-04T01:41:34.220Z] Reset unstaged changes in Winding number development/.DS_Store: started.
+[2022-11-04T01:41:34.241Z] Reset unstaged changes in Winding number development/.DS_Store: finished. gk-log://duration?t=21
+[2022-11-04T01:41:51.979Z] Stage 3 files for commit: started.
+[2022-11-04T01:41:52.053Z] Stage 3 files for commit: finished. gk-log://duration?t=74
+[2022-11-04T01:42:13.476Z] Commit: started.
+[2022-11-04T01:42:13.667Z] Commit: successfully created commit 8a663f46c14435ae36a5ea7b9e3d61229d804da3
+[2022-11-04T01:42:13.668Z] Commit: finished gk-log://duration?t=192
+[2022-11-04T01:42:15.560Z] Push main: started.
+[2022-11-04T01:42:16.757Z] Push main: finished. gk-log://duration?t=1197
+[2022-11-04T01:42:52.025Z] Delete ref refs/heads/CNN_dev at c68af348f7b9c0759fc1a153f1be9915b8e23647: started.
+[2022-11-04T01:42:52.056Z] Delete ref refs/heads/CNN_dev at c68af348f7b9c0759fc1a153f1be9915b8e23647: finished. gk-log://duration?t=31
+[2022-11-04T01:42:52.057Z] Delete ref refs/remotes/origin/CNN_dev at c68af348f7b9c0759fc1a153f1be9915b8e23647: started.
+[2022-11-04T01:42:53.262Z] Delete ref refs/remotes/origin/CNN_dev at c68af348f7b9c0759fc1a153f1be9915b8e23647: finished. gk-log://duration?t=1205
+[2022-11-18T01:55:42.207Z] Refresh github issues: started.
+[2022-11-18T01:55:42.964Z] Refresh github issues: finished. gk-log://duration?t=764
+[2022-11-18T02:08:00.379Z] Stage 47 files for commit: started.
+[2022-11-18T02:08:00.793Z] Stage 47 files for commit: finished. gk-log://duration?t=414
+[2022-11-18T02:08:54.990Z] Stage 50 files for commit: started.
+[2022-11-18T02:08:55.209Z] Stage 50 files for commit: finished. gk-log://duration?t=219
+[2022-11-18T02:09:24.275Z] Commit: started.
+[2022-11-18T02:09:24.590Z] Commit: successfully created commit cb11e1db7492564353d71ba7bfc67eee966dffa9
+[2022-11-18T02:09:24.591Z] Commit: finished gk-log://duration?t=316
+[2022-11-18T02:09:26.519Z] Push main: started.
+[2022-11-18T02:09:28.961Z] Push main: finished. gk-log://duration?t=2442
+[2022-11-22T09:29:50.669Z] Refresh github issues: started.
+[2022-11-22T09:29:51.263Z] Refresh github issues: finished. gk-log://duration?t=603
+[2022-11-22T09:30:03.492Z] Pull main: started.
+[2022-11-22T09:30:03.506Z] Fetch remote origin: started
+[2022-11-22T09:30:04.394Z] Fetch remote origin: finished gk-log://duration?t=888
+[2022-11-22T09:30:04.449Z] Merge origin/main into main: started.
+[2022-11-22T09:30:04.462Z] Auto-stash uncommitted changes: started.
+[2022-11-22T09:30:04.478Z] Stage .DS_Store for stash: started.
+[2022-11-22T09:30:04.562Z] Stage .DS_Store for stash: finished. gk-log://duration?t=84
+[2022-11-22T09:30:05.049Z] Auto-stash uncommitted changes: finished. Stash sha: 8563b03968654558f24b03ba76fb3589e428118a gk-log://duration?t=587
+[2022-11-22T09:30:05.077Z] Pop most recent stash: started.
+[2022-11-22T09:30:05.156Z] Pop stash e73ee72ebf63f8d6600817004bbfe378a65750d8: finished. gk-log://duration?t=79
+[2022-11-22T09:30:05.213Z] Merge origin/main into main: finished. gk-log://duration?t=764
+[2022-11-22T09:30:05.232Z] Pull main: finished. gk-log://duration?t=1740

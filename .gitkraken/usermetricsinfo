@@ -1,0 +1,1 @@
+{"metrics":{"initRepo":[{"timestamp":1669111454294,"durationMs":1915,"lfs":false,"provider":"github","viaIntegration":true}],"clone":[{"timestamp":1669111456228,"durationMs":391,"provider":"github"}],"tab":[{"timestamp":1669111457039,"tabType":"repo"}]},"version":"8.10.3"}
